@@ -1,0 +1,887 @@
+,Dam_Name,Company,CPF/CNPJ,Latitude,Longitude,Tailings_Material,Height,Stored_Volume,Building_Method,Risk,Potential_Damage,Type,PNSB,Emergency_Level,Current_Status,Lat,Long,Control
+0, VALE GOLD,CLAUDIO KOHLER,859.958.517-72,"-15°55'27.750""","-56°29'18.320""",,0.0,0,unknown,,,,False,0,,-15.924375,-56.48842222222223,
+1,0-1,Mineração Taboca S.a.,34.019.992/0001-10,"-00°44'00.100""","-60°08'18.200""",tin,22.0,27700000,single_stage,low,medium,C,True,0,certified,0.733361111111111,-60.13838888888889,2021
+2,1 Mina,VALE S.A.,33.592.510/0001-54,"-06°23'57.800""","-50°20'24.500""",iron,8.5,188680,single_stage,,,,False,0,,-6.39938888888889,-50.34013888888889,
+3,1 Usina,VALE S.A.,33.592.510/0001-54,"-06°27'17.700""","-50°13'43.500""",iron,8.5,34000,single_stage,,,,False,0,,-6.454916666666667,-50.22875000000001,
+4,1. CONJUNTO DE LEIRAS DE DECANTAÇÃO,Realmix Agregados Minerais Ltda,02.931.701/0001-70,"-23°11'34.600""","-48°21'45.000""",sand,3.0,140059,single_stage,,,,False,0,,-23.19294444444445,-48.3625,
+5,103 (Cruz),Mineração Taboca S.a.,34.019.992/0001-10,"-00°47'08.600""","-60°08'30.900""",tin,10.3,924000,single_stage,medium,medium,C,True,0,certified,0.7857222222222222,-60.14191666666667,2021
+6,11 - DES,Mineração Jundu Ltda.,60.628.468/0001-57,"-21°57'17.062""","-47°36'48.014""",clay,5.0,1500000,downstream,,,,False,0,,-21.95473944444444,-47.61333722222222,
+7,111 (Índio),Mineração Taboca S.a.,34.019.992/0001-10,"-00°47'22.800""","-60°08'39.400""",tin,5.0,48873,single_stage,low,medium,C,True,0,certified,0.7896666666666666,-60.14427777777778,2021
+8,12 - AN,Mineração Jundu Ltda.,60.628.468/0001-57,"-22°09'25.047""","-47°38'34.049""",clay,10.0,492348,single_stage,,,,False,0,,-22.1569575,-47.64279138888889,
+9,12 - DES,Mineração Jundu Ltda.,60.628.468/0001-57,"-21°57'06.006""","-47°36'47.022""",clay,11.0,577840,downstream,,,,False,0,,-21.95166833333333,-47.61306166666667,
+10,13 - AN,Mineração Jundu Ltda.,60.628.468/0001-57,"-22°09'18.075""","-47°38'22.025""",clay,8.0,663184,downstream,,,,False,0,,-22.15502083333333,-47.63945138888889,
+11,158 (A-1),Mineração Taboca S.a.,34.019.992/0001-10,"-00°44'16.900""","-60°04'44.100""",tin,30.0,53380000,downstream,low,high,B,True,0,certified,0.7380277777777777,-60.07891666666667,2021
+12,161 (A-2),Mineração Taboca S.a.,34.019.992/0001-10,"-00°43'56.233""","-60°04'08.396""",tin,22.0,1018054,single_stage,low,medium,C,True,0,certified,0.7322869444444444,-60.06899888888889,2021
+13,189,Mineração Taboca S.a.,34.019.992/0001-10,"-00°47'22.400""","-60°00'46.900""",tin,5.0,209969,single_stage,,,,False,0,,0.7895555555555556,-60.01302777777778,
+14,2,VALE S.A.,33.592.510/0001-54,"-19°58'24.601""","-43°36'13.419""",iron,10.0,15412,downstream,,,,False,0,,-19.97350027777778,-43.6037275,
+15,22,Mineração Taboca S.a.,34.019.992/0001-10,"-00°44'19.100""","-60°10'02.600""",tin,6.0,56519,single_stage,,,,False,0,,0.7386388888888888,-60.16738888888889,
+16,3 Mina,VALE S.A.,33.592.510/0001-54,"-06°23'39.900""","-50°19'11.300""",iron,14.61,165320,single_stage,,,,False,0,,-6.394416666666667,-50.31980555555556,
+17,30-1,Mineração Taboca S.a.,34.019.992/0001-10,"-00°42'25.600""","-60°11'33.100""",tin,8.0,1320,single_stage,,,,False,0,,0.707111111111111,-60.19252777777778,
+18,42,Mineração Taboca S.a.,34.019.992/0001-10,"-00°43'24.700""","-60°11'48.200""",tin,4.9,130979,single_stage,,,,False,0,,0.7235277777777778,-60.19672222222222,
+19,444 (A-3),Mineração Taboca S.a.,34.019.992/0001-10,"-00°44'18.326""","-60°04'33.114""",tin,14.7,886241,single_stage,low,medium,C,True,0,certified,0.7384238888888889,-60.075865,2021
+20,5 (MAC),VALE S.A.,33.592.510/0001-54,"-19°58'37.512""","-43°53'34.810""",iron,78.0,15553688,downstream,high,high,A,True,1,noncertified,-19.97708666666666,-43.89300277777777,2021
+21,5 (Mutuca),VALE S.A.,33.592.510/0001-54,"-20°01'34.413""","-43°56'33.225""",iron,55.0,10924076,downstream,high,high,A,True,1,noncertified,-20.02622583333333,-43.94256249999999,2021
+22,6,VALE S.A.,33.592.510/0001-54,"-19°57'36.000""","-43°52'58.000""",,25.0,60000,single_stage,high,high,A,True,1,noncertified,-19.96,-43.88277777777778,2021
+23,68-1,Mineração Taboca S.a.,34.019.992/0001-10,"-00°44'25.500""","-60°12'05.100""",tin,6.0,3752,single_stage,,,,False,0,,0.7404166666666666,-60.20141666666667,
+24,69,Mineração Taboca S.a.,34.019.992/0001-10,"-00°44'35.500""","-60°12'05.100""",tin,5.0,84941,single_stage,,,,False,0,,0.7431944444444444,-60.20141666666667,
+25,75-1,Mineração Taboca S.a.,34.019.992/0001-10,"-00°45'41.600""","-60°12'21.500""",tin,4.0,75522,single_stage,,,,False,0,,0.7615555555555555,-60.20597222222222,
+26,7a,VALE S.A.,33.592.510/0001-54,"-19°57'56.000""","-43°53'07.000""",,30.0,200000,single_stage,high,high,A,True,1,noncertified,-19.96555555555555,-43.88527777777778,2021
+27,7B,VALE S.A.,33.592.510/0001-54,"-19°58'02.514""","-43°52'58.725""",iron,27.4,79431,single_stage,low,high,B,True,0,certified,-19.967365,-43.88297916666667,periodically
+28,803.285/2014,PLINIO ALMEIDA BOSON & CIA LTDA,11.714.784/0001-36,"-09°14'09.800""","-42°34'41.200""",clay,1.0,500,unknown,,,,False,0,,-9.236055555555554,-42.57811111111111,
+29,81-1,Mineração Taboca S.a.,34.019.992/0001-10,"-00°44'35.500""","-60°12'05.100""",tin,4.0,75522,single_stage,low,medium,C,True,0,certified,0.7431944444444444,-60.20141666666667,2021
+30,A - PDE Nordeste,VALE S.A.,33.592.510/0001-54,"-19°56'55.421""","-43°35'12.119""",iron,13.0,300,single_stage,,,,False,0,,-19.94872805555556,-43.58669972222223,
+31,ADÃO RODUÍ,Adão Afonso Roduí,469.372.509-91,"-16°14'05.580""","-56°39'08.650""",sand,14.0,300000,downstream,,,,False,0,,-16.23488333333334,-56.65240277777777,
+32,Água Fria ,Topazio Imperial Mineração Comercio e Industria Ltda,16.857.294/0001-02,"-20°26'50.670""","-43°38'37.760""",gem_alluvium,40.0,5648000,centerline,high,high,A,True,1,certified,-20.44740833333333,-43.64382222222222,2021
+33,Agua Limpa,Granha Ligas Ltda,05.833.746/0001-08,"-21°05'02.170""","-44°34'36.666""",,10.0,177067,single_stage,low,medium,C,True,0,certified,-21.08393611111111,-44.57685166666667,2021
+34,Alain II,Alain Stephane Riviere Mineração,15.264.439/0001-07,"-16°15'18.000""","-56°36'55.000""",sand,3.0,350000,centerline,,,,False,0,,-16.255,-56.61527777777778,
+35,Alcindo Vieira,VALE S.A.,33.592.510/0001-54,"-19°34'28.232""","-43°14'46.628""",iron,24.0,770600,downstream,low,low,E,True,0,certified,-19.57450888888889,-43.24628555555556,2021
+36,Alemães,GERDAU ACOMINAS S/A,17.227.422/0001-05,"-20°25'24.810""","-43°45'11.170""",iron,57.0,2820902,upstream,low,high,B,True,0,certified,-20.42355833333334,-43.75310277777778,2021
+37,Alto Jacutinga,VALE S.A.,33.592.510/0001-54,"-20°25'33.600""","-43°53'09.500""",iron,14.7,104144,centerline,,,,False,0,,-20.426,-43.88597222222222,
+38,Alvo Crente,ALTA FLORESTA GOLD MINERAÇÃO LTDA,17.580.707/0001-17,"-09°22'46.850""","-56°33'52.000""",,0.0,0,unknown,,,,False,0,,-9.379680555555556,-56.56444444444444,
+39,Área IX,VALE S.A.,33.592.510/0001-54,"-20°24'44.114""","-43°52'43.867""",iron,23.02,639854,upstream,high,high,A,True,1,noncertified,-20.41225388888889,-43.87885194444444,2021
+40,Area M,Cbe Companhia Brasileira de Equipamento Filial: CBE COMPANHIA BRASILEIRA DE EQUIPAMENTO,27.184.936/0007-61,"-04°31'24.900""","-44°00'57.700""",limestone,6.0,2839200,single_stage,,,,False,0,,-4.523583333333333,-44.01602777777778,
+41,ARENAL,COOPERATIVA DE MINERADORES E GARIMPEIROS DA REGIA,36.084.594/0001-03,"-10°07'24.610""","-59°28'29.000""",,0.0,0,unknown,,,,False,0,,-10.12350277777778,-59.47472222222223,
+42,Azul,VALE S.A.,33.592.510/0001-54,"-06°04'41.300""","-50°17'29.300""",Mn,32.0,12995662,downstream,low,high,B,True,0,certified,-6.078138888888889,-50.29147222222222,2021
+43,B,VALE S.A.,33.592.510/0001-54,"-20°07'27.900""","-43°55'30.800""",iron,40.0,489005,single_stage,high,high,A,True,1,noncertified,-20.12441666666667,-43.92522222222222,2021
+44,B - PDE Nordeste,VALE S.A.,33.592.510/0001-54,"-19°56'50.126""","-43°35'00.712""",iron,14.5,2935,single_stage,,,,False,0,,-19.94725722222222,-43.58353111111111,
+45,B1,Euromaquinas Mineração Ltda,19.882.154/0001-82,"-14°32'41.040""","-59°46'31.110""",gold_rock,6.0,245385,single_stage,medium,high,B,True,0,certified,-14.54473333333333,-59.77530833333334,2021
+46,B1,ITAMINAS COMERCIO DE MINERIOS SA,18.752.824/0001-83,"-20°03'52.300""","-44°06'50.700""",clay,19.0,244360,upstream,low,high,B,True,0,certified,-20.06452777777778,-44.11408333333333,2021
+47,B1,Mineração Paragominas S A Filial: Mineração Paragominas S.A.,12.094.570/0004-10,"-03°15'54.986""","-47°45'11.400""",bauxite,31.8,21100000,centerline,low,high,B,True,0,certified,-3.265273888888889,-47.75316666666667,2021
+48,B1,Nacional de Grafite Ltda,21.228.861/0001-00,"-20°26'39.200""","-45°08'00.700""",shale,12.0,55000,downstream,low,medium,C,True,0,certified,-20.44422222222222,-45.13352777777778,2021
+49,B1,Valdinei Mauro de Souza,568.360.581-49,"-16°08'21.600""","-56°23'45.600""",gold,19.13,799930,downstream,low,medium,C,True,0,certified,-16.13933333333333,-56.396,2021
+50,B2,Nacional de Grafite Ltda,21.228.861/0001-00,"-20°26'24.200""","-45°07'55.200""",shale,13.0,798178,downstream,low,high,B,True,0,certified,-20.44005555555556,-45.132,2021
+51,B3,VALE S.A.,33.592.510/0001-54,"-19°52'43.139""","-43°22'41.690""",iron,19.5,137575,single_stage,low,high,B,True,0,certified,-19.87864972222222,-43.37824722222222,2021
+52,B3/B4,Minerações Brasileiras Reunidas Sa,33.417.445/0001-20,"-20°02'51.400""","-43°57'15.700""",iron,55.0,2685782,upstream,high,high,A,True,3,noncertified,-20.04761111111111,-43.95436111111111,2021
+53,B4,ITAMINAS COMERCIO DE MINERIOS SA,18.752.824/0001-83,"-20°05'30.600""","-44°05'60.000""",iron,98.5,3593521,centerline,low,high,B,True,0,certified,-20.09183333333333,-44.1,2021
+54,B4,Nacional de Grafite Ltda,21.228.861/0001-00,"-20°26'16.300""","-45°08'54.300""",shale,47.0,1090000,centerline,low,high,B,True,0,certified,-20.43786111111111,-45.14841666666667,2021
+55,B5,Euromaquinas Mineração Ltda,19.882.154/0001-82,"-14°32'13.600""","-59°46'12.880""",gold,8.0,1280409,centerline,medium,high,B,True,0,certified,-14.53711111111111,-59.77024444444444,2021
+56,B5,Mineração Paragominas S A Filial: Mineração Paragominas S.A.,12.094.570/0004-10,"-03°16'30.000""","-47°44'10.800""",bauxite,37.0,10827010,downstream,low,high,B,True,0,certified,-3.275,-47.73633333333333,periodically
+57,B5,VERMELHAO MINERACAO INDUSTRIA E COMERCIO LTDA,16.857.492/0001-76,"-20°24'06.500""","-43°32'03.000""",gen_rock,26.4,223840,single_stage,low,low,E,True,0,certified,-20.40180555555555,-43.53416666666666,2021
+58,B6,Mineração Paragominas S A Filial: Mineração Paragominas S.A.,12.094.570/0004-10,"-03°15'34.180""","-47°45'29.400""",bauxite,13.0,243810,single_stage,low,high,B,True,0,certified,-3.259494444444444,-47.75816666666667,2021
+59,B6,Minerações Brasileiras Reunidas Sa,33.417.445/0001-20,"-20°03'29.700""","-43°57'50.700""",iron,20.0,173849,single_stage,low,medium,C,True,0,certified,-20.05825,-43.96408333333333,2021
+60,B7,Minerações Brasileiras Reunidas Sa,33.417.445/0001-20,"-20°03'40.100""","-43°57'40.800""",iron,24.0,69808,single_stage,low,medium,C,True,0,certified,-20.06113888888889,-43.96133333333334,2021
+61,"Bacia ""S""",Vetorial Mineração S A,61.247.870/0001-54,"-19°15'39.500""","-57°31'43.600""",iron,4.0,5233,single_stage,,,,False,0,,-19.26097222222222,-57.52877777777778,
+62,Bacia 01,ARCELORMITTAL BRASIL S.A.,17.469.701/0001-77,"-19°47'05.000""","-43°11'31.300""",iron,9.0,1000,upstream,,,,False,0,,-19.78472222222222,-43.19202777777777,
+63,Bacia 02 Pé da Serra,Mineração Corumbaense Reunida Sa,03.327.988/0001-96,"-19°10'21.120""","-57°38'14.740""",iron,4.25,2202,single_stage,low,medium,C,True,0,certified,-19.17253333333333,-57.63742777777778,2021
+64,Bacia 02-03 Alto da Serra Mn,Mineração Corumbaense Reunida Sa,03.327.988/0001-96,"-19°11'26.914""","-57°37'00.111""",Mn,10.08,9479,single_stage,,,,False,0,,-19.19080944444444,-57.6166975,
+65,Bacia 03-04 Pé da Serra,Mineração Corumbaense Reunida Sa,03.327.988/0001-96,"-19°10'26.511""","-57°38'22.230""",iron,4.2,86380,single_stage,low,medium,C,True,0,certified,-19.17403083333333,-57.63950833333333,2021
+66,Bacia 05 Alto da Serra,Mineração Corumbaense Reunida Sa,03.327.988/0001-96,"-19°11'30.625""","-57°36'49.613""",Mn,11.69,5662,single_stage,,,,False,0,,-19.19184027777778,-57.61378138888889,
+67,Bacia 07,ARCELORMITTAL BRASIL S.A.,17.469.701/0001-77,"-19°46'59.200""","-43°10'59.200""",iron,7.0,500,single_stage,,,,False,0,,-19.78311111111111,-43.18311111111111,
+68,Bacia 07 Alto da Serra,Mineração Corumbaense Reunida Sa,03.327.988/0001-96,"-19°11'31.331""","-57°36'52.526""",Mn,13.05,5862,single_stage,low,medium,C,True,0,certified,-19.19203638888889,-57.61459055555556,emergency
+69,Bacia 08,ARCELORMITTAL BRASIL S.A.,17.469.701/0001-77,"-19°47'05.900""","-43°10'48.600""",iron,7.0,5000,single_stage,,,,False,0,,-19.78497222222222,-43.18016666666666,
+70,Bacia 09,ARCELORMITTAL BRASIL S.A.,17.469.701/0001-77,"-19°46'37.840""","-43°11'21.930""",iron,7.0,2200,single_stage,,,,False,0,,-19.77717777777778,-43.189425,
+71,Bacia 1 A,IMERYS RIO CAPIM CAULIM S.A.,16.532.798/0001-52,"-01°34'27.000""","-48°45'01.800""",kaolin,9.0,858000,single_stage,low,high,B,True,0,certified,-1.574166666666667,-48.7505,2021
+72,Bacia 1 B,IMERYS RIO CAPIM CAULIM S.A.,16.532.798/0001-52,"-01°34'27.000""","-48°45'01.800""",kaolin,9.0,260000,single_stage,low,high,B,True,0,certified,-1.574166666666667,-48.7505,2021
+73,Bacia 15,ARCELORMITTAL BRASIL S.A.,17.469.701/0001-77,"-19°46'34.733""","-43°11'27.772""",iron,5.0,2200,single_stage,,,,False,0,,-19.77631472222222,-43.19104777777778,
+74,Bacia 16,ARCELORMITTAL BRASIL S.A.,17.469.701/0001-77,"-19°47'09.952""","-43°10'22.069""",iron,12.0,12000,single_stage,,,,False,0,,-19.78609777777778,-43.17279694444444,
+75,Bacia 17,ARCELORMITTAL BRASIL S.A.,17.469.701/0001-77,"-19°47'01.777""","-43°09'54.766""",iron,8.0,3500,single_stage,,,,False,0,,-19.78382694444445,-43.16521277777777,
+76,Bacia 17,Serabi Mineração S.a.,04.207.303/0001-30,"-06°19'30.340""","-55°47'10.880""",gold,26.0,115239,single_stage,low,low,E,True,0,certified,-6.325094444444444,-55.78635555555555,periodically
+77,Bacia 2,IMERYS RIO CAPIM CAULIM S.A.,16.532.798/0001-52,"-01°34'23.000""","-48°45'20.000""",kaolin,9.0,850000,single_stage,low,high,B,True,0,certified,-1.573055555555556,-48.75555555555555,2021
+78,Bacia 3,IMERYS RIO CAPIM CAULIM S.A.,16.532.798/0001-52,"-01°34'14.200""","-48°45'25.300""",kaolin,9.0,504983,single_stage,low,high,B,True,0,certified,-1.570611111111111,-48.75702777777778,2021
+79,Bacia 5 A,IMERYS RIO CAPIM CAULIM S.A.,16.532.798/0001-52,"-01°35'01.500""","-48°44'56.400""",kaolin,13.5,510000,single_stage,low,high,B,True,0,certified,-1.58375,-48.749,2021
+80,Bacia 5 B,IMERYS RIO CAPIM CAULIM S.A.,16.532.798/0001-52,"-01°35'02.400""","-48°44'56.100""",kaolin,13.5,270000,single_stage,low,high,B,True,0,certified,-1.584,-48.74891666666667,2021
+81,Bacia 5 C,IMERYS RIO CAPIM CAULIM S.A.,16.532.798/0001-52,"-01°35'02.400""","-48°44'56.100""",kaolin,13.5,767000,single_stage,low,high,B,True,0,certified,-1.584,-48.74891666666667,2021
+82,Bacia 6 A,IMERYS RIO CAPIM CAULIM S.A.,16.532.798/0001-52,"-01°34'58.000""","-48°44'49.400""",kaolin,11.0,520279,single_stage,low,high,B,True,0,certified,-1.582777777777778,-48.74705555555555,2021
+83,Bacia 6B,IMERYS RIO CAPIM CAULIM S.A.,16.532.798/0001-52,"-01°34'49.000""","-48°44'51.400""",,0.0,0,unknown,,,,False,0,,-1.580277777777778,-48.74761111111111,
+84,Bacia A,CARBONIFERA METROPOLITANA S/A,83.647.917/0001-00,"-28°29'31.600""","-49°27'37.000""",coal_clay,5.3,17700,single_stage,low,high,B,True,0,certified,-28.49211111111111,-49.46027777777778,periodically
+85,Bacia B,CARBONIFERA METROPOLITANA S/A,83.647.917/0001-00,"-28°29'38.900""","-49°27'36.100""",coal_clay,6.5,17900,single_stage,low,high,B,True,0,certified,-28.49413888888889,-49.46002777777778,periodically
+86,Bacia B 1,IMERYS RIO CAPIM CAULIM S.A.,16.532.798/0001-52,"-01°34'40.569""","-48°46'28.732""",kaolin,3.0,80000,single_stage,low,high,B,True,0,certified,-1.577935833333333,-48.77464777777778,2021
+87,Bacia B 1,PARA PIGMENTOS S A,33.931.510/0001-31,"-02°50'07.700""","-47°54'30.800""",kaolin,13.0,270000,single_stage,low,high,B,True,0,certified,-2.835472222222222,-47.90855555555555,2021
+88,Bacia B 4,IMERYS RIO CAPIM CAULIM S.A.,16.532.798/0001-52,"-01°34'39.000""","-48°46'32.000""",kaolin,4.5,40000,single_stage,low,high,B,True,0,certified,-1.5775,-48.77555555555556,2021
+89,Bacia B-2A,Vetorial Mineração S A,61.247.870/0001-54,"-19°15'41.600""","-57°31'42.800""",iron,9.6,10275,single_stage,,,,False,0,,-19.26155555555556,-57.52855555555556,
+90,Bacia B-2B,Vetorial Mineração S A,61.247.870/0001-54,"-19°15'41.600""","-57°31'42.800""",iron,9.6,7557,single_stage,,,,False,0,,-19.26155555555556,-57.52855555555556,
+91,Bacia B-3,Vetorial Mineração S A,61.247.870/0001-54,"-19°15'44.700""","-57°31'42.300""",iron,4.31,5397,single_stage,,,,False,0,,-19.26241666666667,-57.52841666666666,
+92,Bacia B-4,Vetorial Mineração S A,61.247.870/0001-54,"-19°15'43.500""","-57°31'40.500""",iron,5.0,4385,single_stage,,,,False,0,,-19.26208333333333,-57.52791666666666,
+93,Bacia B-5A,Vetorial Mineração S A,61.247.870/0001-54,"-19°15'44.400""","-57°31'40.000""",iron,5.0,3766,single_stage,,,,False,0,,-19.26233333333333,-57.52777777777778,
+94,Bacia B-5B,Vetorial Mineração S A,61.247.870/0001-54,"-19°15'45.000""","-57°31'39.400""",iron,5.0,2319,single_stage,,,,False,0,,-19.2625,-57.52761111111111,
+95,Bacia B-8,Vetorial Mineração S A,61.247.870/0001-54,"-19°15'52.800""","-57°31'37.400""",iron,5.0,7259,single_stage,,,,False,0,,-19.26466666666667,-57.52705555555556,
+96,Bacia B-9,Vetorial Mineração S A,61.247.870/0001-54,"-19°15'55.000""","-57°31'35.800""",iron,5.25,8032,single_stage,low,medium,C,True,0,certified,-19.26527777777778,-57.52661111111111,2021
+97,Bacia de Acumulação 01,Carbonífera Siderópolis Ltda.,83.852.137/0001-00,"-28°27'13.000""","-49°22'13.000""",coal,7.1,500000,single_stage,low,high,B,True,0,certified,-28.45361111111111,-49.37027777777778,2021
+98,Bacia de Acumulação A,CARBONIFERA METROPOLITANA S/A,83.647.917/0001-00,"-28°28'59.020""","-49°27'04.040""",coal,3.84,3640,single_stage,low,high,B,True,0,certified,-28.48306111111111,-49.45112222222222,2021
+99,Bacia de Acumulação B,CARBONIFERA METROPOLITANA S/A,83.647.917/0001-00,"-28°28'56.790""","-49°27'04.780""",coal,3.07,4870,single_stage,low,high,B,True,0,certified,-28.48244166666667,-49.45132777777778,2021
+100,Bacia de Acumulação de Efluente Tratado,Carbonífera Siderópolis Ltda.,83.852.137/0001-00,"-28°27'23.190""","-49°22'13.980""",,4.0,3000,single_stage,,,,False,0,,-28.45644166666667,-49.37055,
+101,Bacia de clarificação depósito de estéril Ambrosia sul ,NEXA RECURSOS MINERAIS S A,42.416.651/0001-07,"-17°09'26.247""","-46°45'28.458""",,4.0,43000,single_stage,,,,False,0,,-17.15729083333333,-46.757905,
+102,Bacia de Conteção de Finos da PDE-A Norte,GERDAU ACOMINAS S/A,17.227.422/0001-05,"-20°16'42.200""","-43°55'51.100""",dolomite,5.0,3480,single_stage,,,,False,0,,-20.27838888888889,-43.93086111111111,
+103,Bacia de Conteção de Finos da PDE-A Sul,GERDAU ACOMINAS S/A,17.227.422/0001-05,"-20°16'58.800""","-43°55'38.200""",dolomite,6.0,1000,single_stage,,,,False,0,,-20.283,-43.92727777777777,
+104,Bacia de Controle Ambiental,PARA PIGMENTOS S A,33.931.510/0001-31,"-02°49'14.600""","-47°54'23.400""",kaolin,8.0,175000,single_stage,low,high,B,True,0,certified,-2.820722222222222,-47.9065,2021
+105,BACIA DE DECANTAÇÃO - PLANTA I,Geocal Mineração Ltda,00.255.910/0001-15,"-23°24'03.560""","-46°55'05.690""",dolomite,20.0,8500,single_stage,medium,low,D,True,0,certified,-23.40098888888889,-46.91824722222222,2021
+106,Bacia de Decantação 1,MINERACAO MATHEUS LEME LTDA,60.510.195/0001-41,"-19°56'04.000""","-44°28'15.000""",agalmatolite,2.0,3660,unknown,,,,False,0,,-19.93444444444444,-44.47083333333334,
+107,Bacia de Decantação 2,MINERACAO MATHEUS LEME LTDA,60.510.195/0001-41,"-19°56'03.000""","-44°28'17.000""",agalmatolite,2.25,5700,unknown,,,,False,0,,-19.93416666666667,-44.47138888888889,
+108,Bacia de Decantação 3,MINERACAO MATHEUS LEME LTDA,60.510.195/0001-41,"-19°56'02.000""","-44°28'19.000""",agalmatolite,2.0,1570,unknown,,,,False,0,,-19.93388888888889,-44.47194444444445,
+109,BACIA DE DECANTAÇÃO DA USINA RIO FIORITA,Gabriella Mineração Ltda,07.105.967/0001-87,"-28°34'38.200""","-49°26'31.900""",coal,3.5,35742,single_stage,low,medium,C,True,0,certified,-28.57727777777778,-49.44219444444444,2021
+110,Bacia de Decantação Final No Bota Fora,Mineração Nossa Senhora do Carmo Ltda,83.647.750/0001-87,"-24°44'54.630""","-49°11'16.070""",fluorite,22.0,226035,downstream,medium,medium,C,True,0,certified,-24.74850833333333,-49.18779722222222,2021
+111,Bacia de Decantação S1,SERGIO DA SILVA,206.189.991-91,"-15°55'25.845""","-56°09'48.833""",sand,5.0,210000,downstream,,,,False,0,,-15.92384583333333,-56.16356472222222,
+112,Bacia de Finos da Mina do Cerro,Copelmi Mineração Ltda,33.059.528/0001-95,"-30°23'10.327""","-53°02'37.439""",coal,10.0,534000,upstream,medium,medium,C,True,0,certified,-30.38620194444444,-53.04373305555556,2021
+113,Bacia de Finos da Mina do Recreio,Copelmi Mineração Ltda,33.059.528/0001-95,"-30°08'44.381""","-52°00'13.591""",coal,20.0,2926160,upstream,medium,high,B,True,0,certified,-30.14566138888889,-52.00377527777778,2021
+114,Bacia de Lodo,CARBONIFERA METROPOLITANA S/A,83.647.917/0001-00,"-28°28'53.410""","-49°27'07.510""",coal,2.46,3433,single_stage,low,high,B,True,0,certified,-28.48150277777778,-49.45208611111111,2021
+115,BACIA DE REJEITO MINERGOLD,Marcelo Busnardo EPP,27.390.991/0001-12,"-15°41'47.500""","-56°20'02.100""",gold,12.0,146000,downstream,,,,False,0,,-15.69652777777778,-56.33391666666667,
+116,Bacia de Rejeitos,Reginaldo Luiz de Almeida Ferreira Me,08.838.089/0001-71,"-15°41'28.900""","-56°21'03.500""",gold_rock,25.0,625000,downstream,medium,low,D,True,0,certified,-15.69136111111111,-56.35097222222223,2021
+117,BACIA DE REJEITOS 16,Serabi Mineração S.a.,04.207.303/0001-30,"-06°19'30.300""","-55°47'04.200""",gold,28.0,87000,upstream,low,low,E,True,0,certified,-6.325083333333333,-55.7845,periodically
+118,BACIA DE REJEITOS BOM JARDIM,Evaldino Rodui,287.917.629-87,"-16°15'02.200""","-56°35'56.900""",gold_rock,8.0,450000,unknown,,,,False,0,,-16.25061111111111,-56.59913888888889,
+119,BACIA DE REJEITOS SÃO BENTO,ROSEMEIRE BENEDETTI ALVES,124.161.228-51,"-16°15'28.700""","-56°35'39.700""",gold_rock,6.0,124650,unknown,,,,False,0,,-16.25797222222222,-56.59436111111111,
+120,BACIA DE SEDIMENTO DA USINA DE TRATAMENTO,MAGNESITA MINERACAO S.A.,00.592.603/0001-20,"-14°14'01.600""","-41°43'10.900""",magnesite,4.78,52912,single_stage,,,,False,0,,-14.23377777777778,-41.71969444444445,
+121,Bacia de Segurança,IMERYS RIO CAPIM CAULIM S.A.,16.532.798/0001-52,"-01°34'58.000""","-48°44'49.400""",kaolin,11.0,16000,single_stage,low,medium,C,True,0,certified,-1.582777777777778,-48.74705555555555,2021
+122,Bacia do Castanheira,BURITIRAMA MINERACAO S.A.,27.121.672/0001-01,"-05°30'48.910""","-50°14'07.920""",Mn,10.0,104560,single_stage,,,,False,0,,-5.513586111111112,-50.23553333333334,
+123,Bacia Lavador de Rodas,GERDAU ACOMINAS S/A,17.227.422/0001-05,"-20°17'34.470""","-43°56'19.060""",iron,3.6,612,single_stage,,,,False,0,,-20.29290833333334,-43.93862777777777,
+124,Bacuri,Mineração Vila Nova Ltda,02.008.461/0001-36,"00°22'46.200""","-51°43'22.000""",chrome,5.0,650000,unknown,,,,False,0,,0.3794999999999999,-51.72277777777778,
+125,Baia 4,Vetorial Mineração S A,61.247.870/0001-54,"-19°12'01.263""","-57°38'21.980""",iron,10.0,76000,single_stage,,,,False,0,,-19.20035083333333,-57.63943888888889,
+126,Baias da UTM II,GERDAU ACOMINAS S/A,17.227.422/0001-05,"-20°27'17.200""","-43°46'37.000""",iron,22.0,26000,single_stage,low,medium,C,True,0,certified,-20.45477777777778,-43.77694444444445,2021
+127,Baixo João Pereira,VALE S.A.,33.592.510/0001-54,"-20°26'24.500""","-43°54'18.500""",iron,17.9,142500,upstream,low,medium,C,True,0,certified,-20.44013888888889,-43.90513888888889,2021
+128,BARAÚNA - PBC1,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'28.981""","-39°52'13.796""",copper,2.0,12200,downstream,,,,False,0,,-9.874716944444446,-39.87049888888889,
+129,BARAÚNA - PBC2,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'25.971""","-39°52'14.321""",copper,2.0,12000,downstream,,,,False,0,,-9.873880833333335,-39.87064472222222,
+130,BARAÚNA - PBC3,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'29.837""","-39°52'17.659""",copper,2.0,8500,downstream,,,,False,0,,-9.874954722222222,-39.87157194444445,
+131,Barnabé,VALE S.A.,33.592.510/0001-54,"-20°25'33.000""","-43°53'30.400""",iron,28.0,249414,downstream,low,high,B,True,0,certified,-20.42583333333333,-43.89177777777778,periodically
+132,Barnabé 1,VALE S.A.,33.592.510/0001-54,"-20°26'02.500""","-43°52'56.400""",iron,33.0,409990,single_stage,low,high,B,True,0,certified,-20.43402777777778,-43.88233333333334,2021
+133,BARRAGEM,MONTE SINAI MINERACAO LTDA,00.060.095/0001-39,"-10°45'37.774""","-48°04'50.612""",sandy_clay,5.7,39000,unknown,,,,False,0,,-10.76049277777778,-48.08072555555556,
+134,BARRAGEM  BLOCO NORTE ,Angelo Carlos Vicari Junior,923.895.701-00,"-10°41'16.700""","-54°49'40.500""",gold,5.0,7500,unknown,,,,False,0,,-10.68797222222222,-54.82791666666667,
+135,Barragem  LVR,L V R COMERCIO E EXTRACAO MINERAL LTDA,05.797.877/0001-79,"-11°27'48.021""","-58°56'18.673""",gem_alluvium,11.0,105669,upstream,,,,False,0,,-11.46333916666667,-58.93852027777778,
+136,Barragem  LVR,VYACHESLAV RYSIN,033.456.991-50,"-11°27'48.021""","-58°56'18.673""",gem_alluvium,11.0,105669,single_stage,,,,False,0,,-11.46333916666667,-58.93852027777778,
+137,BARRAGEM  USINA BENEFICIAMENTO L7 - IIB,MAGNESITA MINERACAO S.A. Filial: MAGNESITA MINERACAO S.A,00.592.603/0023-35,"-19°24'38.340""","-47°57'20.460""",clay,2.0,7300,single_stage,,,,False,0,,-19.41065,-47.95568333333333,
+138,BARRAGEM 01,COOPERATIVA MINERADORA DOS GARIMPEIROS DE ARIQUEMES - COOMIGA,22.825.491/0001-42,"-10°30'18.000""","-63°37'14.100""",gravely_sand,3.0,31250,unknown,,,,False,0,,-10.505,-63.62058333333334,
+139,Barragem 01,EDMAR GUERMAND DE QUEIROZ,551.118.581-72,"-16°15'18.897""","-56°40'16.422""",gold_alluvium,12.0,298316,downstream,high,medium,B,True,0,,-16.25524916666667,-56.67122833333333,
+140,Barragem 01,JACOBINA MINERACAO E COMERCIO LTDA,42.463.174/0001-30,"-11°14'37.100""","-40°31'32.700""",gold_rock,61.0,10000000,centerline,low,high,B,True,0,certified,-11.24363888888889,-40.52575,periodically
+141,Barragem 01,SALINAS GOLD MINERACAO LTDA,03.212.955/0001-09,"-16°11'03.320""","-56°26'06.040""",gold,33.0,4500000,downstream,low,high,B,True,0,certified,-16.18425555555556,-56.43501111111111,2021
+142,Barragem 01,Samaca Ferros Ltda,16.682.218/0001-03,"-15°46'38.400""","-40°19'20.400""",sand,14.0,348370,upstream,low,medium,C,True,0,certified,-15.77733333333333,-40.32233333333334,2021
+143,Barragem 01 - Jose Jaime,Minerita Minérios Itaúna Ltda.,16.813.461/0001-13,"-20°08'13.740""","-44°23'01.130""",iron,20.0,1200000,upstream,low,high,B,True,0,certified,-20.13715,-44.38364722222222,2021
+144,Barragem 02,Companhia Siderúrgica Nacional,33.042.730/0001-04,"-20°18'59.620""","-45°34'59.380""",dolomite,15.0,240000,single_stage,low,low,E,True,0,certified,-20.31656111111111,-45.58316111111112,2021
+145,BARRAGEM 02,COOPERATIVA MINERADORA DOS GARIMPEIROS DE ARIQUEMES - COOMIGA,22.825.491/0001-42,"-11°09'42.300""","-62°25'02.700""",gravely_sand,3.5,31250,unknown,,,,False,0,,-11.16175,-62.41741666666666,
+146,Barragem 02,EDMAR GUERMAND DE QUEIROZ,551.118.581-72,"-16°15'25.200""","-56°40'09.633""",gold_alluvium,12.0,219663,downstream,high,medium,B,True,0,,-16.257,-56.6693425,
+147,BARRAGEM 02,JACOBINA MINERACAO E COMERCIO LTDA,42.463.174/0001-30,"-11°14'06.400""","-40°31'44.700""",gold_rock,88.0,9146767,downstream,low,high,B,True,0,certified,-11.23511111111111,-40.52908333333333,2021
+148,Barragem 02,Samaca Ferros Ltda,16.682.218/0001-03,"-15°46'42.000""","-40°19'04.200""",sand,19.1,1438806,single_stage,low,medium,C,True,0,certified,-15.77833333333333,-40.31783333333334,2021
+149,Barragem 02 - Canindé,Minerita Minérios Itaúna Ltda.,16.813.461/0001-13,"-20°08'19.320""","-44°22'48.680""",iron,40.0,86937,single_stage,low,high,B,True,0,certified,-20.1387,-44.38018888888889,2021
+150,Barragem 03,Companhia Siderúrgica Nacional,33.042.730/0001-04,"-20°18'48.380""","-45°34'38.840""",limestone,10.0,900000,single_stage,low,medium,C,True,0,certified,-20.31343888888889,-45.57745555555556,2021
+151,Barragem 03 - Zé da Grota,Minerita Minérios Itaúna Ltda.,16.813.461/0001-13,"-20°08'18.330""","-44°23'11.710""",iron,32.0,3200000,upstream,low,high,B,True,0,certified,-20.138425,-44.38658611111111,2021
+152,Barragem 1,COMPANHIA MINERADORA DO PIROCLORO DE ARAXA,17.806.779/0001-30,"-19°39'35.000""","-46°55'37.000""",Niobium,14.3,108377,downstream,,,,False,0,,-19.65972222222222,-46.92694444444444,
+153,Barragem 1,José João de Pinho Novo,441.678.141-53,"-16°05'03.000""","-56°33'49.800""",gold,6.0,50000,downstream,medium,medium,C,True,0,certified,-16.08416666666666,-56.56383333333333,2021
+154,Barragem 1,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-24°41'30.000""","-48°07'30.000""",phosphate_rock,33.0,5301026,downstream,low,high,B,True,0,certified,-24.69166666666667,-48.125,2021
+155,Barragem 1,NEXA RECURSOS MINERAIS S A,42.416.651/0001-07,"-17°29'46.800""","-46°49'07.800""",Zn,21.0,1800000,single_stage,low,high,B,True,0,certified,-17.49633333333334,-46.81883333333334,2021
+156,Barragem 1 - Decantação,MSM Mineração Serra da Moeda Ltda.,21.705.306/0001-13,"-20°22'46.090""","-43°55'00.420""",hematite,12.0,40000,single_stage,,,,False,0,,-20.37946944444445,-43.91678333333333,
+157,Barragem 1 - Dique de Contenção,Construtora Martins Lanna Ltda.,19.974.518/0001-54,"-19°51'53.770""","-44°05'35.104""",,8.0,12000,single_stage,,,,False,0,,-19.86493611111111,-44.09308444444445,
+158,Barragem 101,Indústria Carbonífera Rio Deserto Ltda,83.286.500/0001-69,"-28°43'45.000""","-49°14'54.000""",coal,3.0,9542,single_stage,,,,False,0,,-28.72916666666666,-49.24833333333333,
+159,Barragem 2,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-24°41'35.000""","-48°07'13.000""",phosphate_rock,65.0,7220000,upstream,low,high,B,True,0,certified,-24.69305555555556,-48.12027777777778,2021
+160,Barragem 2,NEXA RECURSOS MINERAIS S A,42.416.651/0001-07,"-17°30'38.400""","-46°49'42.000""",dolomite,32.5,1600000,centerline,low,high,B,True,0,certified,-17.51066666666667,-46.82833333333333,2021
+161,Barragem 2 - Captação de Água,Construtora Martins Lanna Ltda.,19.974.518/0001-54,"-19°52'33.440""","-44°06'01.770""",,2.0,14000,single_stage,,,,False,0,,-19.87595555555556,-44.10049166666667,
+162,Barragem 2 - Decantação,MSM Mineração Serra da Moeda Ltda.,21.705.306/0001-13,"-20°22'43.870""","-43°55'00.130""",iron,12.0,64000,single_stage,,,,False,0,,-20.37885277777778,-43.91670277777777,
+163,Barragem 3,MINERAÇÃO BOM RETIRO LTDA.,56.763.790/0001-11,"-22°11'35.000""","-47°27'20.000""",sand,4.8,0,single_stage,,,,False,0,,-22.19305555555556,-47.45555555555556,
+164,Barragem 3,NEXA RECURSOS MINERAIS S A,42.416.651/0001-07,"-17°30'48.000""","-46°49'42.000""",dolomite,12.0,500000,single_stage,low,high,B,True,0,certified,-17.51333333333333,-46.82833333333333,2021
+165,BARRAGEM 339,COOPERATIVA MINERADORA DOS GARIMPEIROS DE ARIQUEMES - COOMIGA,22.825.491/0001-42,"-11°09'30.250""","-61°36'42.030""",gravely_sand,4.5,7500,unknown,,,,False,0,,-11.15840277777778,-61.611675,
+166,BARRAGEM 341,COOPERATIVA MINERADORA DOS GARIMPEIROS DE ARIQUEMES - COOMIGA,22.825.491/0001-42,"-11°09'42.850""","-61°36'50.800""",gravely_sand,4.5,7500,unknown,,,,False,0,,-11.16190277777778,-61.61411111111111,
+167,Barragem 3A - Sedimentação,MSM Mineração Serra da Moeda Ltda.,21.705.306/0001-13,"-20°22'38.190""","-43°54'52.910""",iron,3.0,3420,single_stage,,,,False,0,,-20.377275,-43.91469722222222,
+168,Barragem 3B - Sedimentação,MSM Mineração Serra da Moeda Ltda.,21.705.306/0001-13,"-20°22'41.120""","-43°54'55.540""",iron,3.0,5480,single_stage,,,,False,0,,-20.37808888888889,-43.91542777777778,
+169,Barragem 4 - Acumulação,MSM Mineração Serra da Moeda Ltda.,21.705.306/0001-13,"-20°22'39.730""","-43°54'54.340""",iron,7.0,4078,single_stage,,,,False,0,,-20.37770277777778,-43.91509444444444,
+170,Barragem 5 - Captação,MSM Mineração Serra da Moeda Ltda.,21.705.306/0001-13,"-20°22'46.200""","-43°55'00.900""",iron,4.0,3600,single_stage,,,,False,0,,-20.3795,-43.91691666666667,
+171,Barragem 6 - Dique Filtrante,MSM Mineração Serra da Moeda Ltda.,21.705.306/0001-13,"-20°22'37.870""","-43°54'45.680""",iron,4.0,2640,single_stage,,,,False,0,,-20.37718611111111,-43.91268888888889,
+172,BARRAGEM 7,VALE S.A.,33.592.510/0001-54,"-20°33'45.400""","-43°57'03.100""",iron,64.0,8120721,single_stage,low,high,B,True,0,certified,-20.56261111111111,-43.95086111111112,2021
+173,barragem 7 - Dique Filtrante,MSM Mineração Serra da Moeda Ltda.,21.705.306/0001-13,"-20°22'45.940""","-43°55'00.850""",iron,7.0,7063,single_stage,,,,False,0,,-20.37942777777778,-43.91690277777778,
+174,Barragem 8 - Dique Filtrante,MSM Mineração Serra da Moeda Ltda.,21.705.306/0001-13,"-20°22'50.400""","-43°55'03.030""",iron,6.0,6435,single_stage,,,,False,0,,-20.38066666666667,-43.91750833333333,
+175,Barragem 9 - Dique Filtrante,MSM Mineração Serra da Moeda Ltda.,21.705.306/0001-13,"-20°22'50.560""","-43°55'09.330""",iron,6.0,3833,single_stage,,,,False,0,,-20.38071111111111,-43.91925833333333,
+176,Barragem A,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-18°22'44.500""","-46°55'35.300""",phospate,13.5,631000,single_stage,low,medium,C,True,0,certified,-18.37902777777778,-46.92647222222222,2021
+177,Barragem A,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-19°38'59.000""","-46°56'46.000""",phospate,8.0,30000,downstream,low,high,B,True,0,certified,-19.64972222222222,-46.94611111111111,periodically
+178,Barragem A0,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-19°36'39.006""","-47°01'45.717""",phospate,23.5,4600000,single_stage,low,high,B,True,0,certified,-19.610835,-47.02936583333333,periodically
+179,Barragem A1,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°28'18.900""","-56°23'08.700""",clay,11.0,422000,single_stage,,,,False,0,,-1.471916666666667,-56.38575,
+180,Barragem AFGM GP2,Ulisses José Dorileo,855.095.741-00,"-16°18'26.715""","-56°45'04.924""",sand,24.0,2383500,centerline,high,medium,B,True,0,certified,-16.30742083333334,-56.75136777777778,2021
+181,BARRAGEM ÁGUA BRANCA,RIDALECIO DE SOUZA,960.753.171-04,"-14°52'44.900""","-56°34'22.900""",,0.0,0,unknown,,,,False,0,,-14.87913888888889,-56.57302777777778,
+182,Barragem Água Fria,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°27'56.900""","-56°23'26.400""",clay,8.0,103000,centerline,,,,False,0,,-1.465805555555556,-56.39066666666667,
+183,Barragem Antas Norte,AVB MINERACAO LTDA.,07.605.563/0001-52,"-06°14'10.040""","-49°45'59.230""",copper,14.0,1058000,downstream,low,medium,C,True,0,certified,-6.236122222222222,-49.76645277777778,2021
+184,Barragem Aroeira,NEXA RECURSOS MINERAIS S A,42.416.651/0001-07,"-17°58'21.600""","-46°48'52.200""",Zn,44.0,12200000,downstream,low,high,B,True,0,certified,-17.97266666666667,-46.8145,2021
+185,BARRAGEM AUXILIAR DO VIGIA,Csn Mineração S.a.,08.902.291/0001-15,"-20°26'04.000""","-43°50'07.100""",iron,35.0,2837223,upstream,low,high,B,True,0,certified,-20.43444444444444,-43.83530555555556,2021
+186,Barragem B,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-18°22'51.200""","-46°55'37.900""",phospate,25.0,3260000,downstream,low,medium,C,True,0,certified,-18.38088888888889,-46.92719444444444,2021
+187,Barragem B-6,Vetorial Mineração S A,61.247.870/0001-54,"-19°15'45.700""","-57°31'37.400""",iron,11.0,103000,single_stage,low,high,B,True,0,certified,-19.26269444444445,-57.52705555555556,2021
+188,BARRAGEM B1,Cimento Tupi S.a.,33.039.223/0001-11,"-20°54'12.200""","-43°48'14.000""",clay,8.0,18113,single_stage,,,,False,0,,-20.90338888888889,-43.80388888888888,
+189,Barragem B1,Cooperativa de Extracao Mineral de Nossa Senhora do Livramento,26.729.643/0001-64,"-15°55'32.042""","-56°21'23.012""",,0.0,0,unknown,,,,False,0,,-15.92556722222222,-56.35639222222223,
+190,Barragem B1,HERCULANO MINERACAO LTDA,41.785.833/0001-92,"-20°15'01.740""","-43°55'56.970""",iron,61.5,4100000,upstream,low,medium,C,True,0,certified,-20.25048333333333,-43.93249166666666,2021
+191,Barragem B1,MINERACAO GERAL DO BRASIL S/A,60.727.120/0001-17,"-20°03'53.300""","-44°01'45.200""",iron,47.0,515000,upstream,low,medium,C,True,0,certified,-20.06480555555556,-44.02922222222222,2021
+192,Barragem B1,Mineração Marsil Ltda.,16.800.211/0001-49,"-19°32'59.900""","-43°01'20.100""",sand,4.0,10200,single_stage,,,,False,0,,-19.54997222222222,-43.02225,
+193,BARRAGEM B1,Roberto Eustáquio Silva Pedrosa,00.546.997/0002-60,"-18°16'56.035""","-46°51'40.773""",,8.0,90000,single_stage,,,,False,0,,-18.28223194444444,-46.86132583333333,
+194,Barragem B1 - Mina Ipê,MINERACAO MORRO DO IPE S.A.,22.902.554/0001-17,"-20°07'11.300""","-44°18'26.900""",iron,55.0,571815,downstream,low,medium,C,True,0,certified,-20.11980555555555,-44.30747222222222,2021
+195,Barragem B1-Auxiliar - Mina Tico-Tico,MINERACAO MORRO DO IPE S.A.,22.902.554/0001-17,"-20°06'12.700""","-44°17'17.500""",iron,68.0,657575,upstream,low,high,B,True,0,certified,-20.10352777777778,-44.28819444444444,2021
+196,Barragem B1/B4,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-19°38'01.000""","-46°59'47.000""",phospate,58.0,24000000,centerline,low,high,B,True,0,certified,-19.63361111111111,-46.99638888888889,periodically
+197,Barragem B12,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-24°43'00.000""","-48°06'00.000""",coal,13.5,3200000,centerline,low,high,B,True,0,certified,-24.71666666666667,-48.1,periodically
+198,Barragem B1A Ipê,Emicon Mineração e Terraplenagem LTDA.,16.679.953/0001-68,"-20°07'22.700""","-44°18'45.300""",iron,37.0,22460,centerline,high,high,A,True,1,noncertified,-20.12297222222222,-44.31258333333333,2021
+199,Barragem B2,HERCULANO MINERACAO LTDA,41.785.833/0001-92,"-20°15'04.290""","-43°56'14.040""",iron,10.0,61000,single_stage,,,,False,0,,-20.25119166666667,-43.93723333333333,
+200,Barragem B2,MINERACAO GERAL DO BRASIL S/A,60.727.120/0001-17,"-20°03'58.700""","-44°01'37.900""",iron,27.0,530000,upstream,low,medium,C,True,0,certified,-20.06630555555556,-44.02719444444444,2021
+201,BARRAGEM B2,Minérios Nacional S.a.,09.294.881/0001-75,"-20°09'39.643""","-43°50'52.101""",iron,40.0,2616466,upstream,low,high,B,True,0,certified,-20.16101194444444,-43.84780583333333,2021
+202,Barragem B2,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-19°38'28.870""","-46°58'25.859""",phospate,25.0,750000,downstream,low,medium,C,True,0,certified,-19.64135277777778,-46.97384972222223,2021
+203,Barragem B2 - Mina Tico-Tico,MINERACAO MORRO DO IPE S.A.,22.902.554/0001-17,"-20°06'37.550""","-44°17'12.020""",iron,80.0,2200000,upstream,low,high,B,True,0,certified,-20.11043055555556,-44.28667222222222,2021
+204,BARRAGEM B2 AUXILIAR,Minérios Nacional S.a.,09.294.881/0001-75,"-20°09'48.200""","-43°51'03.610""",iron,33.0,6439465,upstream,high,high,A,True,2,noncertified,-20.16338888888889,-43.85100277777778,2021
+205,Barragem B3,HERCULANO MINERACAO LTDA,41.785.833/0001-92,"-20°14'59.720""","-43°56'07.650""",iron,14.0,108879,single_stage,,,,False,0,,-20.24992222222222,-43.93545833333333,
+206,Barragem B3,MINERACAO GERAL DO BRASIL S/A,60.727.120/0001-17,"-20°04'02.800""","-44°01'22.900""",sandy_clay,10.0,20000,single_stage,,,,False,0,,-20.06744444444444,-44.02302777777778,
+207,Barragem B3,Mineração Marsil Ltda.,16.800.211/0001-49,"-19°32'51.300""","-43°01'17.500""",sand,7.0,14200,single_stage,,,,False,0,,-19.54758333333334,-43.02152777777778,
+208,BARRAGEM B4,Csn Mineração S.a.,08.902.291/0001-15,"-20°29'09.000""","-43°53'09.000""",iron,65.0,13001821,upstream,low,high,B,True,0,certified,-20.48583333333334,-43.88583333333333,2021
+209,Barragem B4,HERCULANO MINERACAO LTDA,41.785.833/0001-92,"-20°15'37.580""","-43°55'36.390""",iron,38.0,500000,upstream,low,low,E,True,0,certified,-20.26043888888889,-43.926775,2021
+210,Barragem B5,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-19°37'01.000""","-47°01'16.000""",phospate,74.2,48000000,upstream,low,high,B,True,0,certified,-19.61694444444445,-47.02111111111111,2021
+211,Barragem B6,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-19°36'39.621""","-47°00'46.252""",phospate,35.0,5024231,downstream,low,high,B,True,0,certified,-19.61100583333333,-47.01284777777778,2021
+212,Barragem BA-3,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-19°49'23.900""","-46°52'05.900""",phospate,14.0,650000,single_stage,low,medium,C,True,0,certified,-19.82330555555556,-46.86830555555556,2021
+213,Barragem BD-2,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-19°50'14.100""","-46°50'14.500""",phospate,21.0,2000000,downstream,low,high,B,True,0,certified,-19.83725,-46.83736111111111,2021
+214,Barragem BD-5,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-19°49'15.700""","-46°50'30.500""",phospate,33.0,2560000,downstream,low,high,B,True,0,certified,-19.82102777777778,-46.84180555555556,periodically
+215,Barragem BL-1,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-19°50'32.900""","-46°51'51.300""",phospate,91.0,170000000,centerline,low,high,B,True,0,certified,-19.84247222222222,-46.86425,periodically
+216,BARRAGEM BLOCO  SUL ,Angelo Carlos Vicari Junior,923.895.701-00,"-10°41'12.400""","-54°49'45.500""",gold,2.0,100,unknown,,,,False,0,,-10.68677777777778,-54.82930555555556,
+217,Barragem BM,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-18°06'45.300""","-47°47'04.100""",phospate,28.0,1500000,downstream,low,medium,C,True,0,certified,-18.11258333333333,-47.78447222222222,2021
+218,BARRAGEM BOM JARDIM,Bauminas Mineração Ltda,19.534.650/0001-45,"-21°12'41.671""","-42°42'53.751""",clay,23.0,50000,single_stage,low,high,B,True,0,certified,-21.21157527777778,-42.71493083333333,2021
+219,Barragem BR,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-18°06'19.130""","-47°46'47.160""",phospate,56.0,32000000,centerline,low,high,B,True,0,certified,-18.10531388888889,-47.77976666666667,2021
+220,Barragem BR,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-19°50'18.600""","-46°49'58.000""",phospate,57.0,80000000,centerline,low,high,B,True,0,certified,-19.8385,-46.83277777777778,periodically
+221,Barragem BRI,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-19°47'19.900""","-46°52'44.000""",phospate,35.0,8300000,single_stage,low,high,B,True,0,certified,-19.78886111111111,-46.87888888888889,periodically
+222,Barragem C,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-18°22'47.300""","-46°55'58.200""",phospate,10.0,417600,single_stage,low,medium,C,True,0,certified,-18.37980555555556,-46.93283333333333,2021
+223,Barragem Candonga,Yan Bittencourt nascimento ,042.255.221-64,"-15°51'48.376""","-56°13'29.773""",gold,8.86,172143,centerline,,,,False,0,,-15.86343777777778,-56.22493694444444,
+224,Barragem Captação de Água,MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°10'09.300""","-44°27'03.170""",sandy_clay,4.46,14000,single_stage,,,,False,0,,-20.16925,-44.45088055555556,
+225,BARRAGEM CASA DE PEDRA,Csn Mineração S.a.,08.902.291/0001-15,"-20°30'21.000""","-43°53'00.000""",iron,84.0,65374575,downstream,low,high,B,True,0,certified,-20.50583333333333,-43.88333333333333,2021
+226,Barragem CBC,Companhia Brasileira do Cobre,87.678.207/0001-06,"-30°55'11.200""","-53°25'04.950""",sandstone,10.0,11000000,single_stage,medium,medium,C,True,0,certified,-30.91977777777778,-53.41804166666667,2021
+227,Barragem Central,MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°08'51.300""","-44°24'22.200""",iron,58.0,2918722,upstream,low,high,B,True,0,certified,-20.14758333333333,-44.40616666666666,2021
+228,Barragem Central,Safm Mineração Ltda,09.325.670/0001-52,"-20°16'22.353""","-43°53'42.615""",iron,25.0,421679,upstream,low,medium,C,True,0,certified,-20.27287583333333,-43.89517083333333,2021
+229,BARRAGEM COOP 01,Cooperativa de Extracao Mineral de Nossa Senhora do Livramento,26.729.643/0001-64,"-15°45'45.420""","-56°15'53.860""",gold,6.0,145668,centerline,,,,False,0,,-15.76261666666667,-56.26496111111111,
+230,Barragem Cruz de Malta,Indústria Carbonífera Rio Deserto Ltda,83.286.500/0001-69,"-28°28'23.000""","-49°27'29.000""",coal_clay,27.0,70831,single_stage,low,high,B,True,0,certified,-28.47305555555555,-49.45805555555556,2021
+231,Barragem da Cava,Cadam S.a.,04.788.980/0001-90,"-00°53'51.673""","-52°22'44.295""",kaolin,25.0,2202000,downstream,low,medium,C,True,0,certified,0.8976869444444444,-52.37897083333333,emergency
+232,Barragem da Grota,Safm Mineração Ltda,09.325.670/0001-52,"-20°16'07.500""","-43°53'35.800""",iron,13.5,86500,single_stage,low,high,B,True,0,certified,-20.26875,-43.89327777777778,periodically
+233,Barragem da Mina II,COMPANHIA MINERADORA DO PIROCLORO DE ARAXA,17.806.779/0001-30,"-19°39'25.200""","-46°56'24.650""",Niobium,25.0,22000,single_stage,low,low,E,True,0,certified,-19.657,-46.94018055555555,2021
+234,BARRAGEM DA USINA,Empresa de Mineração e Pesquisa do Amapá,14.572.101/0001-41,"02°19'16.300""","-51°41'26.100""",gold,10.0,80000,unknown,,,,False,0,,2.321194444444445,-51.69058333333333,
+235,Barragem de Aredes,Safm Mineração Ltda,09.325.670/0001-52,"-20°16'32.800""","-43°53'53.600""",iron,17.0,416281,upstream,low,medium,C,True,0,certified,-20.27577777777778,-43.89822222222222,2021
+236,BARRAGEM DE CAPTAÇÃO ,Salobo Metais Sa.,33.931.478/0001-94,"-05°47'55.485""","-50°30'11.109""",copper,19.0,290328,single_stage,low,medium,C,True,0,certified,-5.798745833333333,-50.50308583333333,2021
+237,BARRAGEM DE CLARIFICAÇÃO,Territorial São Paulo Mineração Ltda,60.874.229/0001-87,"-23°25'14.000""","-46°44'09.800""",clay,25.0,659323,downstream,low,high,B,True,0,certified,-23.42055555555556,-46.73605555555556,emergency
+238,Barragem de Clarificação de Água,Zamapá Mineração S.a.,05.857.559/0001-56,"01°00'07.100""","-51°07'44.000""",iron,8.0,42000,unknown,,,,False,0,,1.001972222222222,-51.12888888888889,
+239,BARRAGEM DE CONTENÇÃO DE REJEITOS,Itafos Arraias Mineração e Fertilizantes S.a.,05.919.578/0001-60,"-12°53'44.948""","-46°49'05.224""",phospate,22.0,4136059,downstream,low,high,B,True,0,certified,-12.89581888888889,-46.81811777777778,2021
+240,Barragem de Contenção de Sedimentos do Josino,Ferro + Mineração S.A.,21.256.870/0001-04,"-20°25'32.160""","-43°51'52.890""",iron,9.0,30669,downstream,low,medium,C,True,0,certified,-20.4256,-43.86469166666667,2021
+241,Barragem de Contenção de Sólidos Carreados,EXTRATIVA MINERAL S/A,17.174.889/0001-26,"-20°06'36.060""","-43°54'11.690""",iron,8.0,28000,single_stage,,,,False,0,,-20.11001666666667,-43.90324722222222,
+242,Barragem de Decantação de Água e Polpa - EBII - Mineroduto,SAMARCO MINERACAO S A,16.628.281/0001-61,"-20°22'19.041""","-42°21'17.308""",,17.0,120942,single_stage,low,high,B,True,0,certified,-20.37195583333333,-42.35480777777778,2021
+243,BARRAGEM DE DEPOSIÇÃO DE LAMA,XILOLITE S/A,62.477.088/0001-94,"-14°05'52.550""","-41°41'21.140""",clay,7.0,60277,downstream,,,,False,0,,-14.09793055555556,-41.68920555555555,
+244,BARRAGEM DE FINOS II,Salobo Metais Sa.,33.931.478/0001-94,"-05°49'26.300""","-50°29'29.100""",copper,13.0,891538,single_stage,low,medium,C,True,0,certified,-5.823972222222222,-50.49141666666667,2021
+245,BARRAGEM DE FLOTAÇÃO,SANTA LUZ DESENVOLVIMENTO MINERAL LTDA,22.103.965/0001-42,"-11°00'12.400""","-39°17'13.300""",gold,25.0,4033453,downstream,low,high,B,True,0,certified,-11.00344444444444,-39.28702777777777,2021
+246,BARRAGEM DE GABIÕES,Empresa de Mineração Esperança Sa,33.300.971/0001-06,"-20°06'56.500""","-44°13'06.100""",iron,5.0,30000,single_stage,,,,False,0,,-20.11569444444445,-44.21836111111111,
+247,Barragem de Germano,SAMARCO MINERACAO S A,16.628.281/0001-61,"-20°12'59.400""","-43°28'04.600""",itarbirite,163.0,129590000,upstream,low,high,B,True,0,certified,-20.2165,-43.46794444444445,2021
+248,BARRAGEM DE LIXIVIAÇÃO,SANTA LUZ DESENVOLVIMENTO MINERAL LTDA,22.103.965/0001-42,"-11°00'13.100""","-39°18'03.000""",gold,22.0,178390,downstream,low,high,B,True,0,certified,-11.00363888888889,-39.30083333333333,2021
+249,Barragem de Mercês,Bauminas Mineração Ltda,19.534.650/0001-45,"-21°07'57.271""","-43°21'01.241""",bauxite,29.5,237000,single_stage,low,low,E,True,0,certified,-21.13257527777778,-43.35034472222222,2021
+250,Barragem de Mineração-CPM,NORMA ARGES OLIVA,406.720.851-00,"-16°16'55.770""","-56°37'02.010""",sand,7.0,249373,single_stage,high,medium,B,True,0,,-16.28215833333333,-56.617225,
+251,Barragem de Rejeito 01,A R WEBER,05.742.530/0001-29,"-15°46'29.100""","-56°17'08.600""",sand,7.5,54608,unknown,,,,False,0,,-15.77475,-56.28572222222222,
+252,Barragem de Rejeito 1,Mbl Materiais Básicos Ltda,19.543.206/0001-96,"-20°09'24.900""","-44°28'24.200""",iron,27.5,72597,single_stage,low,low,E,True,0,certified,-20.15691666666666,-44.47338888888889,2021
+253,Barragem de Rejeito 1,Valdinei Mauro de Souza,568.360.581-49,"-16°18'18.490""","-56°43'14.198""",gold,18.0,764150,centerline,low,medium,C,True,0,certified,-16.30513611111111,-56.72061055555556,2021
+254,Barragem de Rejeito Estrela,Antônio da Cunha Barbosa Filho,483.372.509-68,"-15°39'01.002""","-56°23'13.280""",gold,18.0,1024978,downstream,medium,high,B,True,0,certified,-15.65027833333333,-56.38702222222222,2021
+255,Barragem de Rejeito Estrela 02,Antônio da Cunha Barbosa Filho,483.372.509-68,"-15°39'22.050""","-56°23'07.350""",gold,25.0,282779,downstream,medium,high,B,True,0,certified,-15.656125,-56.385375,2021
+256,Barragem de Rejeito Estrela 03,Mara Daisy Gil Dias,824.942.401-82,"-15°39'16.700""","-56°23'19.550""",gold,10.0,95000,centerline,low,high,B,True,0,certified,-15.65463888888889,-56.38876388888889,2021
+257,Barragem de Rejeito Max,Marcio Nascimento,052.081.651-04,"-15°53'44.100""","-56°11'07.400""",sand,196.0,1205301,downstream,medium,medium,C,True,0,certified,-15.89558333333333,-56.18538888888889,2021
+258,Barragem de rejeito não magnético 02,Vanádio de Maracás SA,15.191.786/0001-49,"-13°41'12.251""","-40°41'29.982""",V,15.19,607346,single_stage,low,medium,C,True,0,certified,-13.68673638888889,-40.69166166666666,2021
+259,Barragem de rejeito não magnético 03,Vanádio de Maracás SA,15.191.786/0001-49,"-13°41'14.100""","-40°41'20.900""",V,20.21,525052,single_stage,low,medium,C,True,0,certified,-13.68725,-40.68913888888888,periodically
+260,Barragem de Rejeito Não Magnético 04,Vanádio de Maracás SA,15.191.786/0001-49,"-13°41'23.770""","-40°41'29.300""",V,374.7,694641,single_stage,low,medium,C,True,0,certified,-13.68993611111111,-40.69147222222222,periodically
+261,Barragem de Rejeitos,ANGLO AMERICAN MINERIO DE FERRO BRASIL S/A,02.359.572/0004-30,"-18°51'54.800""","-43°24'29.200""",iron,60.0,167000000,downstream,low,high,B,True,0,certified,-18.86522222222222,-43.40811111111111,2021
+262,Barragem de Rejeitos,ARCELORMITTAL BRASIL S.A.,17.469.701/0001-77,"-20°08'15.300""","-44°23'46.200""",iron,89.0,5250000,upstream,high,high,A,True,2,noncertified,-20.13758333333333,-44.39616666666667,2021
+263,BARRAGEM DE REJEITOS,Cimento Tupi S.a.,33.039.223/0001-11,"-22°27'18.200""","-44°17'10.300""",sandy_clay,19.0,204000,single_stage,low,high,B,True,0,certified,-22.45505555555555,-44.28619444444444,2021
+264,BARRAGEM DE REJEITOS ,Salobo Metais Sa.,33.931.478/0001-94,"-05°46'40.800""","-50°31'22.500""",copper,72.0,94907268,downstream,low,high,B,True,0,certified,-5.778,-50.52291666666667,2021
+265,Barragem de Rejeitos,Serra Pelada Companhia de Desenvolvimento Mineral,04.828.209/0001-07,"-05°56'02.100""","-49°40'23.300""",gold,0.0,0,unknown,,,,False,0,,-5.933916666666667,-49.67313888888889,
+266,Barragem de Rejeitos Bom Futuro,José Maria Otávio Martins Duarte,869.507.031-04,"-15°39'33.400""","-56°17'06.300""",gold_rock,15.0,1183119,downstream,low,low,E,True,0,certified,-15.65927777777778,-56.28508333333333,2021
+267,Barragem de Rejeitos de Irecê,COMPANHIA BAIANA DE PESQUISA MINERAL CBPM,13.554.910/0001-68,"-11°18'43.000""","-41°50'22.000""",phospate,4.0,235467,unknown,,,,False,0,,-11.31194444444444,-41.83944444444445,
+268,Barragem de Rejeitos do Córrego Baco Pari,Mineração Maracá Industria e Comercio Sa,86.902.053/0001-13,"-14°12'21.000""","-49°24'22.200""",copper,48.0,211179,centerline,low,medium,C,True,0,certified,-14.20583333333333,-49.40616666666666,2021
+269,BARRAGEM DE REJEITOS PGDM,PILAR DE GOIAS DESENVOLVIMENTO MINERAL S.A,21.823.063/0001-18,"-14°48'36.600""","-49°32'26.400""",gold,41.0,8496827,downstream,low,high,B,True,0,certified,-14.81016666666667,-49.54066666666667,2021
+270,Barragem de Rejeitos SB 01,ROSEMEIRE BENEDETTI ALVES,124.161.228-51,"-16°15'29.760""","-56°35'37.180""",gold_alluvium,14.0,601305,downstream,,,,False,0,,-16.25826666666667,-56.59366111111111,
+271,Barragem de Rejeitos SB 02,ROSEMEIRE BENEDETTI ALVES,124.161.228-51,"-16°15'39.840""","-56°35'50.470""",gold_alluvium,14.0,605643,single_stage,,,,False,0,,-16.26106666666667,-56.59735277777778,
+272,Barragem de Sedimentos da Pedreira Itapeti - BA1,EMBU S A ENGENHARIA E COMERCIO,61.322.558/0001-88,"-23°29'49.800""","-46°14'38.000""",granite,27.36,375000,single_stage,low,high,B,True,0,certified,-23.49716666666667,-46.24388888888889,2021
+273,Barragem de Sedimentos da Pedreira Itapeti - BA2,EMBU S A ENGENHARIA E COMERCIO,61.322.558/0001-88,"-23°29'47.900""","-46°14'50.400""",granite,9.64,154433,single_stage,low,high,B,True,0,certified,-23.49663888888889,-46.24733333333334,2021
+274,Barragem de Sedimentos da Pedreira Juruaçu - BA4,EMBU S A ENGENHARIA E COMERCIO,61.322.558/0001-88,"-23°24'34.400""","-46°43'52.400""",granite,45.0,3190000,downstream,low,high,B,True,0,certified,-23.40955555555555,-46.73122222222222,2021
+275,BARRAGEM DIQUE 2,Minar Mineração Aredes Ltda. ,20.066.908/0001-05,"-20°17'09.506""","-43°53'54.556""",iron,25.0,396000,upstream,medium,medium,C,True,0,certified,-20.28597388888889,-43.89848777777777,2021
+276,Barragem do Bandeira,BURITIRAMA MINERACAO S.A.,27.121.672/0001-01,"-05°30'45.000""","-50°13'21.000""",Mn,15.6,1724296,downstream,low,high,B,True,0,certified,-5.5125,-50.2225,2021
+277,BARRAGEM DO BURACO,Copebras Indústria Ltda,46.567.202/0009-78,"-18°09'45.000""","-47°50'43.500""",phosphate_rock,65.0,45500000,centerline,low,high,B,True,0,certified,-18.1625,-47.84541666666667,periodically
+278,Barragem do Felipe,Cadam S.a.,04.788.980/0001-90,"-00°52'56.800""","-52°22'50.100""",kaolin,13.0,245418,single_stage,,,,False,0,,0.8824444444444445,-52.38058333333333,
+279,Barragem do Fundão,AVG EMPREENDIMENTOS MINERARIOS S.A.,16.565.897/0001-30,"-19°49'17.090""","-43°43'01.480""",,9.0,20000,single_stage,,,,False,0,,-19.82141388888889,-43.71707777777778,
+280,BARRAGEM DO LAGARTO,Csn Mineração S.a.,08.902.291/0001-15,"-20°27'05.947""","-43°54'23.637""",gravel,8.0,210000,single_stage,,,,False,0,,-20.45165194444444,-43.90656583333333,
+281,Barragem do Mirante I e II,Cadam S.a.,04.788.980/0001-90,"-00°53'51.400""","-52°26'30.500""",kaolin,35.0,1802873,downstream,low,high,B,True,0,certified,0.8976111111111111,-52.44180555555555,emergency
+282,Barragem do Muriacá,Cadam S.a.,04.788.980/0001-90,"-00°53'37.200""","-52°21'50.700""",kaolin,10.0,52000,single_stage,,,,False,0,,0.8936666666666666,-52.36408333333333,
+283,BARRAGEM DO SABÃO I,GICS Indústria Comércio e Serviços S.a.,00.546.997/0001-80,"-19°02'52.200""","-46°43'26.300""",phosphate_rock,44.0,19500000,single_stage,low,high,B,True,0,certified,-19.04783333333334,-46.72397222222222,2021
+284,Barragem do Serginho,SERGIO DA SILVA,206.189.991-91,"-15°55'18.280""","-56°09'47.540""",gold,30.0,2100000,downstream,high,medium,B,True,1,noncertified,-15.92174444444444,-56.16320555555556,2021
+285,BARRAGEM DO SOSSEGO,VALE S.A. Filial: Vale Mina Sossego,33.592.510/0009-01,"-06°25'44.792""","-50°04'12.554""",copper,42.1,123080576,downstream,low,high,B,True,0,certified,-6.429108888888889,-50.07015388888889,periodically
+286,BARRAGEM DO VIGIA,Csn Mineração S.a.,08.902.291/0001-15,"-20°26'16.735""","-43°50'02.435""",iron,30.0,812901,upstream,low,high,B,True,0,certified,-20.43798194444445,-43.83400972222223,2021
+287,Barragem dos Coqueiros,AVG EMPREENDIMENTOS MINERARIOS S.A.,16.565.897/0001-30,"-19°48'55.680""","-43°42'36.490""",,7.0,2500,single_stage,,,,False,0,,-19.81546666666667,-43.71013611111111,
+288,Barragem E,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-19°39'00.734""","-46°57'08.359""",phospate,13.96,90000,centerline,low,high,B,True,0,certified,-19.65020388888889,-46.95232194444445,periodically
+289,BARRAGEM ECOLÓGICA 1,Minérios Nacional S.a.,09.294.881/0001-75,"-20°09'31.827""","-43°50'34.785""",gravel,15.0,41000,single_stage,low,high,B,True,0,certified,-20.15884083333333,-43.84299583333333,2021
+290,Barragem Eixo 1,SAMARCO MINERACAO S A,16.628.281/0001-61,"-20°12'37.720""","-43°27'36.410""",,55.5,810000,downstream,low,high,B,True,0,certified,-20.21047777777778,-43.46011388888889,2021
+291,Barragem EPP,Mineração Apoena S A,10.302.599/0001-71,"-15°20'50.445""","-59°15'24.414""",gold_rock,54.5,8263051,downstream,low,high,B,True,0,certified,-15.34734583333333,-59.25678166666667,2021
+292,Barragem Eustáquio,KINROSS BRASIL MINERACAO S/A,20.346.524/0001-46,"-17°08'45.920""","-46°54'07.890""",gold,102.0,277460052,centerline,low,high,B,True,0,certified,-17.14608888888889,-46.90219166666667,2021
+293,Barragem F,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-19°39'15.000""","-46°57'11.000""",phospate,25.0,35200,centerline,low,high,B,True,0,certified,-19.65416666666667,-46.95305555555556,periodically
+294,Barragem Fazenda Aguassu,COOPERATIVA DOS GARIMPEIROS DO VALE DO RIO PEIXOTO,09.521.470/0001-75,"-15°46'01.150""","-56°13'51.980""",,0.0,0,unknown,,,,False,0,,-15.76698611111111,-56.23110555555556,
+295,BARRAGEM GEOMINAS,Geominas Minerações Ltda.,11.979.744/0001-16,"-11°38'50.700""","-47°40'36.240""",,5.0,9750,single_stage,,,,False,0,,-11.64741666666667,-47.67673333333333,
+296,BARRAGEM GEOMINAS-001,Geominas Minerações Ltda.,11.979.744/0001-16,"-11°38'57.580""","-47°40'34.240""",,8.0,86000,single_stage,,,,False,0,,-11.64932777777778,-47.67617777777777,
+297,BARRAGEM GEOMINAS-002,Geominas Minerações Ltda.,11.979.744/0001-16,"-11°39'00.010""","-47°40'30.010""",,8.0,70800,single_stage,,,,False,0,,-11.65000277777778,-47.67500277777778,
+298,Barragem I,CELESTA MINERACAO S.A,17.755.975/0001-22,"-06°05'11.929""","-49°39'08.247""",copper,3.0,8000,single_stage,,,,False,0,,-6.086646944444444,-49.65229083333333,
+299,Barragem II Mina Engenho,Massa Falida de Mundo Mineração Ltda.,07.950.015/0001-60,"-20°03'46.100""","-43°47'41.000""",gold,40.0,14160,single_stage,high,high,A,True,1,noncertified,-20.06280555555556,-43.79472222222222,2021
+300,Barragem Jatobá,Valdemir Carlos de Souza,326.183.101-44,"-16°18'10.180""","-56°37'41.511""",,0.0,0,unknown,,,,False,0,,-16.30282777777778,-56.6281975,
+301,BARRAGEM JVR,JOAO ROBERTO CARDOSO,352.235.531-87,"-15°32'02.460""","-56°03'02.290""",gold,13.0,151535,centerline,low,high,B,True,0,certified,-15.53401666666667,-56.05063611111111,emergency
+302,Barragem Lagoa,COOPERATIVA DOS GARIMPEIROS DO VALE DO RIO PEIXOTO,09.521.470/0001-75,"-15°47'47.560""","-56°16'25.210""",heavy_sand,4.67,0,centerline,,,,False,0,,-15.79654444444444,-56.27366944444444,
+303,Barragem Lauro Muller,Carbonífera Belluno Ltda.,83.163.576/0001-05,"-28°24'34.600""","-49°25'39.900""",coal_clay,20.0,150000,single_stage,low,high,B,True,0,certified,-28.40961111111111,-49.42775,2021
+304,Barragem Lauro Muller - Bacia 4,Carbonífera Belluno Ltda.,83.163.576/0001-05,"-28°24'31.750""","-49°25'42.520""",coal_clay,20.0,15000,single_stage,low,high,B,True,0,certified,-28.40881944444444,-49.42847777777777,2021
+305,Barragem Mãe D'Água,Cia Mineradora Catite Duo S. A.,16.530.219/0001-32,"-19°36'06.170""","-43°01'47.700""",iron,48.0,3100000,single_stage,medium,medium,C,True,0,certified,-19.60171388888889,-43.02991666666667,2021
+306,Barragem Magrini,Valdinei Mauro de Souza,568.360.581-49,"-16°16'23.070""","-56°41'46.380""",gold,10.91,172869,centerline,,,,False,0,,-16.273075,-56.69621666666666,
+307,Barragem MCSA,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'04.100""","-39°49'35.700""",copper,6.65,45400000,single_stage,low,low,E,True,0,certified,-9.851138888888888,-39.82658333333334,2021
+308,Barragem Mina Engenho,Massa Falida de Mundo Mineração Ltda.,07.950.015/0001-60,"-20°03'42.100""","-43°47'40.900""",gold,32.0,549927,single_stage,high,high,A,True,1,noncertified,-20.06169444444444,-43.79469444444445,2021
+309,BARRAGEM MINAR,Minar Mineração Aredes Ltda. ,20.066.908/0001-05,"-20°16'54.200""","-43°53'58.510""",iron,1.0,87775,single_stage,medium,high,B,True,0,certified,-20.28172222222222,-43.89958611111111,2021
+310,Barragem Morro Pelado,BRASIL MINERIOS S/A,02.683.365/0001-93,"-16°23'38.000""","-50°23'01.200""",vermiculite,12.0,600000,single_stage,,,,False,0,,-16.39388888888889,-50.38366666666666,
+311,Barragem Morro Pelado 2,BRASIL MINERIOS S/A,02.683.365/0001-93,"-16°23'49.700""","-50°23'00.300""",vermiculite,13.65,70000,downstream,,,,False,0,,-16.39713888888889,-50.38341666666667,
+312,Barragem MRDM,MINERACAO RIACHO DOS MACHADOS LTDA.,08.832.667/0001-62,"-16°03'22.500""","-43°07'45.000""",gold,37.0,11491583,downstream,low,high,B,True,0,certified,-16.05625,-43.12916666666667,2021
+313,Barragem MSG,MINERACAO SERRA GRANDE S A,42.445.403/0001-94,"-14°33'40.200""","-49°57'36.600""",gold,87.0,16220732,upstream,low,high,B,True,0,certified,-14.56116666666667,-49.96016666666667,2021
+314,Barragem Oriente01,METALMIG MINERACAO INDUSTRIA E COMERCIO S/A,34.456.038/0001-95,"-09°34'60.000""","-62°23'46.000""",tin_alluvium,0.0,0,unknown,,,,False,0,,-9.583333333333334,-62.39611111111111,
+315,Barragem Paciência,Mineração Serras do Oeste Eireli,28.917.748/0001-72,"-20°12'37.637""","-43°41'08.800""",gold,34.0,1900000,downstream,low,high,B,True,0,certified,-20.21045472222222,-43.68577777777777,2021
+316,BARRAGEM REJEITOS,Extrativa Metalurgia S A,03.761.820/0001-94,"-20°53'34.300""","-46°42'19.000""",Ni,46.8,3250000,upstream,low,high,B,True,0,certified,-20.89286111111111,-46.70527777777778,periodically
+317,Barragem RG2W,Mineração Serras do Oeste Eireli,28.917.748/0001-72,"-19°57'29.710""","-43°38'05.312""",gold,6.0,514861,single_stage,low,high,B,True,0,certified,-19.95825277777778,-43.63480888888889,2021
+318,Barragem Rio Fiorita,Carbonífera Belluno Ltda.,83.163.576/0001-05,"-28°35'12.667""","-49°26'35.575""",coal,10.0,527420,single_stage,low,high,B,True,0,certified,-28.58685194444444,-49.44321527777777,2021
+319,Barragem Salinas 1,Darci Nascimento Epp,00.057.032/0001-23,"-16°10'59.700""","-56°25'06.900""",gold_rock,10.0,100000,unknown,,,,False,0,,-16.18325,-56.41858333333333,
+320,Barragem Samambaia 0 (Zero),MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°10'22.518""","-44°26'54.771""",iron,46.0,8708062,downstream,low,high,B,True,0,certified,-20.17292166666667,-44.4485475,2021
+321,Barragem Santa Helena,Companhia Brasileira de Bentonita Ltda,04.885.978/0001-39,"-14°48'40.373""","-41°00'17.917""",bentonite,14.0,7500,centerline,,,,False,0,,-14.81121472222222,-41.00497694444444,
+322,Barragem Santa Rita,ATLANTIC NICKEL MINERACAO LTDA,74.127.010/0001-29,"-14°11'20.792""","-39°41'49.707""",Ni,32.1,26157028,downstream,low,high,B,True,0,certified,-14.18910888888889,-39.69714083333333,2021
+323,Barragem Santo Antônio,KINROSS BRASIL MINERACAO S/A,20.346.524/0001-46,"-17°08'46.800""","-46°51'22.540""",gold,104.0,393678602,centerline,low,high,B,True,0,certified,-17.14633333333333,-46.85626111111111,2021
+324,BARRAGEM SÃO GERALDO,COOPERATIVA MINERADORA DOS GARIMPEIROS DE ARIQUEMES - COOMIGA,22.825.491/0001-42,"-06°06'36.700""","-52°16'31.000""",gravely_sand,3.0,5250,unknown,,,,False,0,,-6.110194444444444,-52.27527777777777,
+325,BARRAGEM SAO GERALDO 02,COOPERATIVA MINERADORA DOS GARIMPEIROS DE ARIQUEMES - COOMIGA,22.825.491/0001-42,"-06°04'32.800""","-52°15'18.700""",gravely_sand,3.0,10500,unknown,,,,False,0,,-6.075777777777778,-52.25519444444444,
+326,BARRAGEM SERRINHA,VALE S.A.,33.592.510/0001-54,"-20°10'28.800""","-43°58'33.600""",iron,4.0,100000,single_stage,low,medium,C,True,0,certified,-20.17466666666667,-43.976,2021
+327,BARRAGEM SERROTE,Mineração Vale Verde do Brasil Ltda,08.650.571/0001-83,"-09°40'20.100""","-36°46'23.700""",,0.0,0,unknown,,,,False,0,,-9.67225,-36.77325,
+328,Barragem Sul,Vetorial Mineração S A,61.247.870/0001-54,"-19°12'19.900""","-57°38'07.100""",iron,25.0,800000,upstream,low,high,B,True,0,certified,-19.20552777777778,-57.63530555555555,2021
+329,BARRAGEM SUL OU TANQUE VELHO,MINERACAO TABIPORA LTDA,79.066.841/0001-51,"-25°22'13.821""","-49°41'27.099""",gold,25.0,302000,centerline,low,medium,C,True,0,certified,-25.37050583333333,-49.69086083333333,2021
+330,BARRAGEM T01,Valdinei Mauro de Souza,568.360.581-49,"-16°17'26.700""","-56°42'43.100""",gold_rock,34.0,1135110,centerline,medium,medium,C,True,0,certified,-16.29075,-56.71197222222222,2021
+331,BARRAGEM T02,Euler Oliveira Coelho,878.978.905-97,"-15°33'42.540""","-55°49'21.340""",gold_rock,19.0,3681000,centerline,low,low,E,True,0,certified,-15.56181666666667,-55.82259444444445,2021
+332,BARRAGEM T03,Euler Oliveira Coelho,878.978.905-97,"-15°50'05.240""","-56°11'12.360""",gold_rock,18.0,3355183,downstream,medium,low,D,True,0,certified,-15.83478888888889,-56.18676666666666,periodically
+333,Barragem T04,Valdinei Mauro de Souza,568.360.581-49,"-15°33'26.120""","-55°48'12.440""",gold_rock,11.0,1815000,centerline,,,,False,0,,-15.55725555555556,-55.80345555555555,
+334,Barragem T05,Valdinei Mauro de Souza,568.360.581-49,"-16°17'52.240""","-56°42'42.110""",gold,13.49,483417,downstream,,,,False,0,,-16.29784444444445,-56.71169722222223,
+335,Barragem T06,Valdinei Mauro de Souza,568.360.581-49,"-16°18'00.590""","-56°43'58.620""",gold,6.0,153602,downstream,,,,False,0,,-16.30016388888889,-56.73295,
+336,Barragem T08,SALINAS GOLD MINERACAO LTDA,03.212.955/0001-09,"-16°09'47.960""","-56°24'57.190""",,0.0,0,unknown,,,,False,0,,-16.16332222222222,-56.41588611111111,
+337,Barragem T09,SALINAS GOLD MINERACAO LTDA,03.212.955/0001-09,"-16°09'57.130""","-56°25'28.230""",,0.0,0,unknown,,,,False,0,,-16.16586944444444,-56.42450833333333,
+338,BARRAGEM TABOQUINHA,COOPERATIVA MINERADORA DOS GARIMPEIROS DE ARIQUEMES - COOMIGA,22.825.491/0001-42,"-09°31'24.000""","-62°54'21.200""",gravely_sand,4.5,7500,unknown,,,,False,0,,-9.523333333333333,-62.90588888888889,
+339,BARRAGEM TARILÂNDIA 01,COOPERATIVA MINERADORA DOS GARIMPEIROS DE ARIQUEMES - COOMIGA,22.825.491/0001-42,"-10°49'19.200""","-62°50'02.200""",clay,3.0,31250,unknown,,,,False,0,,-10.822,-62.83394444444445,
+340,Barragem TB ,Cooperativa de Extracao Mineral de Nossa Senhora do Livramento,26.729.643/0001-64,"-15°30'38.230""","-56°02'51.970""",,0.0,0,unknown,,,,False,0,,-15.51061944444444,-56.04776944444444,
+341,Barragem TB02,VM Mineração e Construção Eireli EPP,03.121.422/0001-03,"-15°57'35.500""","-56°28'46.600""",,0.0,0,unknown,,,,False,0,,-15.95986111111111,-56.47961111111111,
+342,Barragem Torio 01,Torio Brasil Mineração Ltda,07.240.707/0001-14,"-09°31'23.270""","-56°29'11.955""",gold,10.0,65458,single_stage,,,,False,0,,-9.523130555555557,-56.48665416666667,
+343,Barragem Torto,VALE S.A.,33.592.510/0001-54,"-19°51'04.850""","-43°24'49.570""",,0.0,0,unknown,,,,False,0,,-19.85134722222222,-43.41376944444444,
+344,BARRAGEM URUPA 01,COOPERATIVA MINERADORA DOS GARIMPEIROS DE ARIQUEMES - COOMIGA,22.825.491/0001-42,"-11°08'07.500""","-62°26'15.100""",clay,3.0,31250,unknown,,,,False,0,,-11.13541666666667,-62.43752777777777,
+345,BARRAGEM USINA BENEFICIAMENTO ESPONGILITO,MAGNESITA MINERACAO S.A.,00.592.603/0001-20,"-19°24'38.280""","-47°57'18.520""",clay,2.0,4600,single_stage,,,,False,0,,-19.41063333333333,-47.95514444444445,
+346,BARRAGEM USINA BENEFICIAMENTO ESPONGILITO - IVA,MAGNESITA MINERACAO S.A. Filial: MAGNESITA MINERACAO S.A,00.592.603/0023-35,"-19°24'38.340""","-47°57'20.460""",clay,2.0,4300,single_stage,,,,False,0,,-19.41065,-47.95568333333333,
+347,BARRAGEM USINA BENEFICIAMENTO ESPONGILITO - IVB,MAGNESITA MINERACAO S.A. Filial: MAGNESITA MINERACAO S.A,00.592.603/0023-35,"-19°24'38.340""","-47°57'20.460""",clay,2.0,4600,single_stage,,,,False,0,,-19.41065,-47.95568333333333,
+348,BARRAGEM USINA BENEFICIAMENTO L7 - IIA,MAGNESITA MINERACAO S.A. Filial: MAGNESITA MINERACAO S.A,00.592.603/0023-35,"-19°24'37.100""","-47°57'20.460""",clay,2.0,7100,single_stage,,,,False,0,,-19.41030555555555,-47.95568333333333,
+349,BARRAGEM USINA BENEFICIAMENTO L7 - IIB,MAGNESITA MINERACAO S.A.,00.592.603/0001-20,"-19°24'38.870""","-47°57'22.630""",clay,2.0,4900,single_stage,,,,False,0,,-19.41079722222222,-47.95628611111111,
+350,BARRAGEM USINA BENEFICIAMENTO L8 - IIIA,MAGNESITA MINERACAO S.A. Filial: MAGNESITA MINERACAO S.A,00.592.603/0023-35,"-19°24'35.100""","-47°57'20.460""",clay,2.0,4900,single_stage,,,,False,0,,-19.40975,-47.95568333333333,
+351,BARRAGEM USINA BENEFICIAMENTO L8 - IIIB,MAGNESITA MINERACAO S.A. Filial: MAGNESITA MINERACAO S.A,00.592.603/0023-35,"-19°24'34.100""","-47°57'20.460""",clay,2.0,3900,single_stage,,,,False,0,,-19.40947222222222,-47.95568333333333,
+352,BARRAGEM USINA SANTALUZ BENEFICIAMENTO - BII,MAGNESITA MINERACAO S.A. Filial: MAGNESITA MINERACAO S.A,00.592.603/0004-72,"-11°15'36.450""","-39°21'27.250""",chromite,2.0,875,single_stage,,,,False,0,,-11.260125,-39.35756944444444,
+353,BARRAGEM USINA SANTALUZ BENEFICIAMENTO - BIII ,MAGNESITA MINERACAO S.A. Filial: MAGNESITA MINERACAO S.A,00.592.603/0004-72,"-11°15'38.500""","-39°21'27.250""",chromite,2.0,1100,single_stage,,,,False,0,,-11.26069444444444,-39.35756944444444,
+354,BARRAGEM USINA SANTALUZ BENEFICIAMENTO BI,MAGNESITA MINERACAO S.A. Filial: MAGNESITA MINERACAO S.A,00.592.603/0004-72,"-11°15'36.800""","-39°21'27.250""",chromite,2.0,1125,single_stage,,,,False,0,,-11.26022222222222,-39.35756944444444,
+355,BARRAGEM USINA/CIP - LAGO 1 E 2,FAZENDA BRASILEIRO DESENVOLVIMENTO MINERAL LTDA,22.104.045/0001-49,"-11°26'58.800""","-39°05'22.800""",gold_rock,24.0,13770423,upstream,low,high,B,True,0,certified,-11.44966666666667,-39.08966666666667,2021
+356,BARRAGEM USINA/CIP - LAGO 3,FAZENDA BRASILEIRO DESENVOLVIMENTO MINERAL LTDA,22.104.045/0001-49,"-11°26'49.682""","-39°04'16.305""",gold_rock,11.17,1721104,upstream,low,high,B,True,0,certified,-11.44713388888889,-39.07119583333333,2021
+357,BARRAGEM USINA/CIP - LAGO 4,FAZENDA BRASILEIRO DESENVOLVIMENTO MINERAL LTDA,22.104.045/0001-49,"-11°26'53.000""","-39°05'53.000""",gold_rock,27.19,2368280,downstream,low,high,B,True,0,certified,-11.44805555555556,-39.09805555555556,2021
+358,Barramento 1 ,MINERADORA PEDRIX LTDA,01.290.096/0001-32,"-23°23'35.060""","-46°46'30.100""",granite,4.0,56000,single_stage,,,,False,0,,-23.39307222222222,-46.77502777777778,
+359,Barrragem do Vené,MINERACAO AURIZONA S/A,42.422.048/0001-38,"-01°18'04.800""","-45°45'40.700""",gold,35.0,12928295,centerline,low,high,B,True,0,certified,-1.301333333333333,-45.76130555555556,2021
+360,Belíssima,Cooperativa de Garimpeiros de Santa Cruz Ltda,34.726.547/0001-90,"-09°47'34.047""","-63°33'34.869""",tin_rock,10.0,1300000,single_stage,medium,medium,C,True,0,certified,-9.792790833333333,-63.55968583333333,2021
+361,Berion,COOPERATIVA DE MINERACAO DOS GARIMPEIROS DE PONTES E LACERDA - COMPEL,25.252.467/0001-50,"-15°07'57.660""","-59°22'17.800""",gold,15.0,129744,centerline,medium,medium,C,True,0,certified,-15.13268333333333,-59.37161111111111,2021
+362,Berion 2,COOPERATIVA DE MINERACAO DOS GARIMPEIROS DE PONTES E LACERDA - COMPEL,25.252.467/0001-50,"-15°07'53.367""","-59°22'24.724""",gold,5.0,2320,downstream,low,medium,C,True,0,certified,-15.13149083333333,-59.37353444444445,2021
+363,Berion Captação,COOPERATIVA DE MINERACAO DOS GARIMPEIROS DE PONTES E LACERDA - COMPEL,25.252.467/0001-50,"-15°07'56.012""","-59°22'26.178""",gold,5.0,30259,centerline,low,medium,C,True,0,certified,-15.13222555555556,-59.37393833333334,2021
+364,Berion Captação 2,COOPERATIVA DE MINERACAO DOS GARIMPEIROS DE PONTES E LACERDA - COMPEL,25.252.467/0001-50,"-15°07'57.866""","-59°22'24.004""",gold,2.0,26544,single_stage,low,medium,C,True,0,,-15.13274055555556,-59.37333444444445,
+365,Boa Sorte,Empresa Mineradora Boa Sorte Ltda,45.599.032/0001-93,"-23°24'43.000""","-46°12'42.800""",sandy_clay,0.0,365000,unknown,,,,False,0,,-23.41194444444444,-46.21188888888889,
+366,BOM PASTOR,Sidnei Rafael de Souza,096.118.508-24,"-16°05'54.110""","-56°34'06.880""",sand,14.0,660000,downstream,,,,False,0,,-16.09836388888889,-56.56857777777778,
+367,Bom Retiro 1,MINERAÇÃO BOM RETIRO LTDA.,56.763.790/0001-11,"-22°11'34.000""","-47°27'16.000""",sand,8.0,130000,single_stage,,,,False,0,,-22.19277777777778,-47.45444444444445,
+368,Bom Retiro 2,MINERAÇÃO BOM RETIRO LTDA.,56.763.790/0001-11,"-22°11'20.000""","-47°27'25.000""",clay,23.58,720000,centerline,low,high,B,True,0,certified,-22.18888888888889,-47.45694444444445,2021
+369,bonito,Ecb Rochas Ornamentais do Brasil Ltda,02.746.671/0001-21,"-05°12'32.100""","-41°42'27.600""",quartz,1.5,900,unknown,,,,False,0,,-5.208916666666667,-41.70766666666667,
+370,Borrachudo,VALE S.A.,33.592.510/0001-54,"-19°36'33.516""","-43°15'48.177""",iron,6.0,190000,single_stage,low,high,B,True,0,certified,-19.60931,-43.2633825,2021
+371,Borrachudo II,VALE S.A.,33.592.510/0001-54,"-19°36'45.017""","-43°16'00.408""",iron,20.0,525009,single_stage,high,high,A,True,1,noncertified,-19.61250472222222,-43.26678,2021
+372,BP-01,GDMBRASIL - GEOLOGIA E DESENVOLVIMENTO MINERAL LTDA,19.072.118/0002-34,"-15°45'21.620""","-56°09'58.550""",gold,5.0,102383,single_stage,,,,False,0,,-15.75600555555556,-56.16626388888888,
+373,BP-02,GDMBRASIL - GEOLOGIA E DESENVOLVIMENTO MINERAL LTDA,19.072.118/0002-34,"-15°45'35.820""","-56°10'11.670""",gold,8.0,77148,single_stage,,,,False,0,,-15.75995,-56.16990833333333,
+374,BR ÁGUA DE COCO,FILADELFO DOS REIS DIAS,047.942.901-44,"-15°41'01.525""","-56°18'14.936""",gold,10.05,116418,downstream,,,,False,0,,-15.68375694444445,-56.30414888888889,
+375,BR BOSCO,FILADELFO DOS REIS DIAS,047.942.901-44,"-15°39'22.881""","-56°20'16.227""",gold,90.0,1300000,downstream,medium,high,B,True,0,certified,-15.65635583333333,-56.33784083333334,2021
+376,BR BRASÃO,José Maria Otávio Martins Duarte,869.507.031-04,"-16°03'31.580""","-56°21'10.380""",sandy_clay,10.0,500000,downstream,medium,medium,C,True,0,certified,-16.05877222222222,-56.35288333333334,2021
+377,BR ISMAEL,Davi Alves Bicalho,799.923.821-04,"-16°14'43.930""","-56°35'21.410""",gold,14.5,450000,downstream,low,high,B,True,0,certified,-16.24553611111111,-56.58928055555556,periodically
+378,BR PIRÂMIDE,FILADELFO DOS REIS DIAS,047.942.901-44,"-15°39'42.790""","-56°20'38.590""",gold,24.0,800000,downstream,low,high,B,True,0,certified,-15.66188611111111,-56.34405277777778,2021
+379,BR SANTA 01,FILADELFO DOS REIS DIAS,047.942.901-44,"-15°39'35.190""","-56°21'14.530""",gold,16.0,1249248,downstream,medium,high,B,True,0,certified,-15.659775,-56.35403611111111,2021
+380,BR SANTA FELICIDADE,FILADELFO DOS REIS DIAS,047.942.901-44,"-15°39'49.845""","-56°21'09.410""",gold,284.0,650000,downstream,medium,high,B,True,0,certified,-15.66384583333333,-56.35261388888889,2021
+381,BR SANTA FELICIDADE 02,FILADELFO DOS REIS DIAS,047.942.901-44,"-15°39'51.460""","-56°21'16.370""",,0.0,0,unknown,,,,False,0,,-15.66429444444445,-56.35454722222222,
+382,BR SANTA FELICIDADE 03,FILADELFO DOS REIS DIAS,047.942.901-44,"-15°39'53.710""","-56°21'01.810""",gold,10.6,190000,downstream,medium,high,B,True,0,certified,-15.66491944444445,-56.35050277777778,2021
+383,BRASE01,Brase Brasil Extração Comercio e Industria de Estanho Ltda,23.919.617/0001-00,"-09°35'10.710""","-62°51'51.450""",tin_alluvium,1.0,46987,single_stage,,,,False,0,,-9.586308333333333,-62.86429166666667,
+384,BRAVO 1,NAGELLA CHRISSIE FIRMINO BRAVO,042.380.611-44,"-15°27'59.450""","-56°27'39.225""",gold,23.0,941039,downstream,low,medium,C,True,0,certified,-15.46651388888889,-56.46089583333334,periodically
+385,BRAVO II,Robinson da Silva Bravo,019.168.861-40,"-15°27'56.065""","-56°27'27.384""",,0.0,0,unknown,,,,False,0,,-15.46557361111111,-56.45760666666667,
+386,C - PDE Nordeste,VALE S.A.,33.592.510/0001-54,"-19°56'18.423""","-43°35'01.717""",iron,8.0,15377,single_stage,,,,False,0,,-19.93845083333333,-43.58381027777778,
+387,CA01,METALMIG MINERACAO INDUSTRIA E COMERCIO S/A,34.456.038/0001-95,"-09°25'54.500""","-63°03'19.900""",tin_alluvium,5.0,105000,single_stage,,,,False,0,,-9.431805555555554,-63.05552777777778,
+388,CA02,METALMIG MINERACAO INDUSTRIA E COMERCIO S/A,34.456.038/0001-95,"-09°25'53.900""","-63°03'19.900""",sand,5.0,60000,single_stage,,,,False,0,,-9.43163888888889,-63.05552777777778,
+389,CA03,METALMIG MINERACAO INDUSTRIA E COMERCIO S/A,34.456.038/0001-95,"-09°27'29.000""","-63°03'07.000""",tin_alluvium,7.5,676620,single_stage,,,,False,0,,-9.458055555555555,-63.05194444444444,
+390,CA04,METALMIG MINERACAO INDUSTRIA E COMERCIO S/A,34.456.038/0001-95,"-09°26'13.950""","-63°03'28.000""",tin_alluvium,11.0,273080,single_stage,,,,False,0,,-9.437208333333334,-63.05777777777777,
+391,Cabeceiras,Mineração Apoena S A,10.302.599/0001-71,"-14°50'09.557""","-59°40'08.728""",gold,16.5,65875,single_stage,low,medium,C,True,0,certified,-14.83598805555556,-59.66909111111111,2021
+392,Cachoeirinha,VALLOUREC TUBOS DO BRASIL LTDA.,17.170.150/0001-46,"-20°09'09.800""","-43°57'55.600""",iron,45.0,2850833,downstream,low,high,B,True,0,certified,-20.15272222222222,-43.96544444444445,2021
+393,CALCINADOS,Anglogold Ashanti Córrego do Sítio Mineração S.a.,18.565.382/0001-66,"-19°57'49.000""","-43°50'20.000""",gold,57.0,3686959,downstream,low,high,B,True,0,certified,-19.96361111111111,-43.83888888888889,2021
+394,Califórnia,Nacional de Grafite Ltda,21.228.861/0001-00,"-16°12'27.500""","-39°56'49.000""",shale,25.5,3000000,downstream,low,high,B,True,0,certified,-16.20763888888889,-39.94694444444444,2021
+395,Cambucal I,VALE S.A.,33.592.510/0001-54,"-19°38'26.316""","-43°14'29.320""",iron,15.4,121536,downstream,low,high,B,True,0,certified,-19.64064333333333,-43.24147777777778,2021
+396,Cambucal II,VALE S.A.,33.592.510/0001-54,"-19°38'44.132""","-43°14'32.010""",iron,21.3,115681,downstream,low,high,B,True,0,certified,-19.64559222222222,-43.242225,2021
+397,CAMC,Extração de Areia e Pedregulho Cachoeira Ltda.,45.600.327/0001-32,"-23°24'04.600""","-46°12'19.500""",clay,13.0,588484,single_stage,,,,False,0,,-23.40127777777777,-46.20541666666667,
+398,Campo Grande,VALE S.A.,33.592.510/0001-54,"-20°10'33.845""","-43°29'14.340""",iron,99.3,22978889,upstream,high,high,A,True,1,noncertified,-20.17606805555556,-43.48731666666666,2021
+399,Campos,COOPERATIVA DE MINERACAO DOS GARIMPEIROS DE PONTES E LACERDA - COMPEL,25.252.467/0001-50,"-15°08'07.570""","-59°22'37.050""",gold,16.0,331450,centerline,low,medium,C,True,0,certified,-15.13543611111111,-59.37695833333333,2021
+400,CAMPOS,MOACYR DE CAMPOS,081.587.032-91,"-16°10'33.100""","-56°35'40.100""",sand,12.0,1248000,downstream,,,,False,0,,-16.17586111111111,-56.59447222222222,
+401,CANGAS,Jonas Gimenez Rodrigues,015.680.888-92,"-16°06'39.080""","-56°34'26.280""",sand,11.5,400000,downstream,,,,False,0,,-16.11085555555556,-56.57396666666667,
+402,Capão da Serra,VALE S.A.,33.592.510/0001-54,"-20°04'07.200""","-43°55'50.100""",iron,55.0,4373048,downstream,low,high,B,True,0,certified,-20.06866666666667,-43.93058333333333,2021
+403,Capim Branco,Minerações Brasileiras Reunidas Sa,33.417.445/0001-20,"-20°06'29.782""","-44°04'25.204""",iron,27.0,105254,downstream,low,high,B,True,0,certified,-20.10827277777778,-44.07366777777778,2021
+404,Capitão do Mato,VALE S.A.,33.592.510/0001-54,"-20°07'47.600""","-43°55'32.500""",iron,38.85,2117270,single_stage,high,high,A,True,2,noncertified,-20.12988888888889,-43.92569444444444,periodically
+405,Captação Córrego das Almas,VALE S.A.,33.592.510/0001-54,"-20°09'28.916""","-43°28'05.155""",iron,8.5,2165,single_stage,,,,False,0,,-20.15803222222222,-43.46809861111111,
+406,CASA DE PEDRA,MINERACAO CASA DE PEDRA LTDA,80.336.233/0001-07,"-15°33'36.600""","-55°47'33.600""",gold,8.0,15637000,centerline,low,high,B,True,0,certified,-15.56016666666667,-55.79266666666666,2021
+407,Casarão,Mineração Apoena S A,10.302.599/0001-71,"-14°51'08.697""","-59°39'16.087""",gold,15.3,50676,single_stage,low,medium,C,True,0,certified,-14.85241583333333,-59.65446861111111,2021
+408,Cascalho,MINERACAO DIBASE PEDREIRA LTDA,00.311.698/0001-66,"-22°44'52.600""","-46°52'18.000""",clay,0.0,140000,unknown,,,,False,0,,-22.74794444444445,-46.87166666666667,
+409,Cata Branca,VALE S.A.,33.592.510/0001-54,"-20°13'59.200""","-43°51'24.300""",iron,9.0,12000,downstream,,,,False,0,,-20.23311111111111,-43.85675,
+410,CAVA,MILTON JOSE APARECIDO GIULI,38.799.607/0001-56,"-23°00'29.728""","-47°28'56.567""",sand,0.0,180000,single_stage,,,,False,0,,-23.00825777777778,-47.48237972222223,
+411,CAVA 1,L Pavan & Cia Ltda,44.140.069/0001-96,"-23°47'06.400""","-46°41'48.400""",clay,0.0,120000,unknown,,,,False,0,,-23.78511111111111,-46.69677777777778,
+412,CAVA 2,L Pavan & Cia Ltda,44.140.069/0001-96,"-23°46'58.500""","-46°41'55.700""",clay,0.0,92000,unknown,,,,False,0,,-23.78291666666667,-46.69880555555555,
+413,CAVA B,GICS Indústria Comércio e Serviços S.a. Filial: Roberto Eustáquio Silva Pedrosa,00.546.997/0002-60,"-18°16'47.500""","-46°51'43.600""",phospate,21.0,1890000,downstream,low,low,E,True,0,certified,-18.27986111111111,-46.86211111111111,2021
+414,Cava Camarinha,CIA DE FERRO LIGAS DA BAHIA FERBASA,15.141.799/0001-03,"-10°32'44.200""","-40°25'30.700""",chromite,14.6,29688,downstream,,,,False,0,,-10.54561111111111,-40.42519444444444,
+415,Cava do Germano,SAMARCO MINERACAO S A,16.628.281/0001-61,"-20°11'41.300""","-43°29'35.100""",itarbirite,60.5,15029999,upstream,low,high,B,True,0,certified,-20.19480555555555,-43.49308333333333,2021
+416,Cava Pedrinhas,CIA DE FERRO LIGAS DA BAHIA FERBASA,15.141.799/0001-03,"-10°32'42.000""","-40°24'52.400""",chromite,8.5,201205,centerline,,,,False,0,,-10.545,-40.41455555555555,
+417,Cava Sul,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'17.300""","-39°52'17.200""",copper,0.0,323173,unknown,,,,False,0,,-9.871472222222224,-39.87144444444444,
+418,Cemig I,VALE S.A.,33.592.510/0001-54,"-19°34'32.225""","-43°12'17.125""",iron,35.2,12633508,downstream,low,high,B,True,0,certified,-19.57561805555556,-43.20475694444445,2021
+419,Cemig II,VALE S.A.,33.592.510/0001-54,"-19°34'21.721""","-43°11'51.131""",iron,26.08,791669,downstream,low,high,B,True,0,certified,-19.57270027777778,-43.19753638888889,2021
+420,CF - Leste,Mineração Tereza Botas Ltda.,36.960.714/0001-99,"-16°12'57.000""","-56°36'15.500""",gold_rock,5.0,192200,unknown,,,,False,0,,-16.21583333333333,-56.60430555555556,
+421,CF - Oeste,Mineração Tereza Botas Ltda.,36.960.714/0001-99,"-16°12'51.900""","-56°36'21.400""",gold_rock,5.0,92000,unknown,,,,False,0,,-16.21441666666666,-56.60594444444445,
+422,CHAPADINHA 061,Uilson Romanha & Cia Ltda,00.934.199/0001-25,"-23°39'32.700""","-48°00'20.400""",clay,6.0,565500,single_stage,,,,False,0,,-23.65908333333333,-48.00566666666667,
+423,Chapadinha 061 B,Uilson Romanha & Cia Ltda,00.934.199/0001-25,"-23°39'44.784""","-48°00'05.036""",,0.0,1736000,single_stage,,,,False,0,,-23.66244,-48.00139888888889,
+424,CHAPADINHA 221,Uilson Romanha & Cia Ltda,00.934.199/0001-25,"-23°39'05.500""","-47°59'32.500""",clay,10.6,740000,single_stage,,,,False,0,,-23.65152777777778,-47.99236111111111,
+425,CHICO,NORAIR NELSON DE SOUZA,522.859.791-34,"-16°17'41.470""","-56°39'05.520""",sand,6.0,484000,downstream,,,,False,0,,-16.29485277777778,-56.65153333333333,
+426,Cianita 1,VALE S.A.,33.592.510/0001-54,"-20°11'47.700""","-43°52'01.500""",iron,24.7,525000,single_stage,low,high,B,True,0,certified,-20.19658333333333,-43.86708333333333,periodically
+427,Cianita 2,VALE S.A.,33.592.510/0001-54,"-20°11'50.075""","-43°52'44.829""",,9.57,5937,single_stage,low,high,B,True,0,certified,-20.19724305555556,-43.87911916666667,2021
+428,Cianita 3,VALE S.A.,33.592.510/0001-54,"-20°12'40.649""","-43°52'54.287""",,26.0,36000,single_stage,low,medium,C,True,0,certified,-20.21129138888889,-43.88174638888889,2021
+429,COCURUTO,Anglogold Ashanti Córrego do Sítio Mineração S.a.,18.565.382/0001-66,"-19°58'25.000""","-43°49'46.000""",gold,41.0,4240553,downstream,low,high,B,True,0,certified,-19.97361111111111,-43.82944444444445,periodically
+430,Conceição,VALE S.A.,33.592.510/0001-54,"-19°38'51.300""","-43°16'26.900""",iron,60.0,32874318,downstream,low,high,B,True,0,certified,-19.64758333333333,-43.27413888888888,2021
+431,CONJUNTO DE BAIAS VIGA,VALE S.A.,33.592.510/0001-54,"-20°29'45.700""","-43°55'03.600""",iron,9.0,70613,single_stage,,,,False,0,,-20.49602777777778,-43.91766666666666,
+432,Conjunto de cavas em desativação recuperação,Mineradora Areia Nova Ltda ,02.286.818/0001-48,"-23°10'39.400""","-48°20'35.900""",sand,0.0,0,single_stage,,,,False,0,,-23.17761111111111,-48.34330555555556,
+433,CONTENÇÃO DE FINOS DE CDS I,Anglogold Ashanti Córrego do Sítio Mineração S.a.,18.565.382/0001-66,"-20°01'09.000""","-43°29'34.200""",philite,13.0,51000,downstream,low,high,B,True,0,certified,-20.01916666666667,-43.49283333333334,periodically
+434,CONTENÇÃO DE REJEITOS DE CDS II,Anglogold Ashanti Córrego do Sítio Mineração S.a.,18.565.382/0001-66,"-19°59'04.800""","-43°28'16.800""",gold,82.0,8610114,centerline,low,high,B,True,0,certified,-19.98466666666667,-43.47133333333333,periodically
+435,CONTENÇÃO DE REJEITOS DE CUIABÁ,Anglogold Ashanti Córrego do Sítio Mineração S.a.,18.565.382/0001-66,"-19°51'56.815""","-43°43'39.215""",gold,97.0,9438575,downstream,low,high,B,True,0,certified,-19.86578194444445,-43.72755972222222,periodically
+436,Conterpa,"Conterpa, Conservação e Terraplagem e Pavimentação Ltda",02.002.588/0001-48,"-22°51'40.100""","-47°14'19.000""",clay,0.0,300000,unknown,,,,False,0,,-22.86113888888889,-47.23861111111111,
+437,COQUEIRAL,EVANDRO DE SOUZA,894.865.109-97,"-16°03'00.910""","-56°32'53.790""",sand,16.0,400000,downstream,low,low,E,True,0,certified,-16.05025277777778,-56.548275,2021
+438,CSO1,VALE S.A. Filial: Vale Mina Sossego,33.592.510/0009-01,"-06°24'28.900""","-50°02'39.000""",sandy_clay,6.0,1,single_stage,,,,False,0,,-6.408027777777778,-50.04416666666666,
+439,D-1,Mineração Pedra Menina Ltda,05.059.907/0001-40,"-17°58'05.930""","-43°10'08.450""",Mn,11.0,8000,single_stage,,,,False,0,,-17.96831388888889,-43.16901388888888,
+440,D-2,Mineração Pedra Menina Ltda,05.059.907/0001-40,"-17°58'06.460""","-43°10'11.200""",Mn,14.0,36000,single_stage,,,,False,0,,-17.96846111111111,-43.16977777777777,
+441,D-3,Mineração Pedra Menina Ltda,05.059.907/0001-40,"-17°58'07.170""","-43°10'11.080""",Mn,6.0,5000,single_stage,,,,False,0,,-17.96865833333333,-43.16974444444444,
+442,Davi,ISMAEL LEDOVINO DE ARRUDA,156.829.861-72,"-16°14'47.150""","-56°35'15.890""",gold,13.0,9000,centerline,low,medium,C,True,0,,-16.24643055555556,-56.58774722222223,
+443,decantação de finos / reservatorio agua processo,Mineradora Areia Nova Ltda ,02.286.818/0001-48,"-23°10'41.300""","-48°20'47.500""",sand,0.0,0,single_stage,,,,False,0,,-23.17813888888889,-48.34652777777778,
+444,Deposito de Finos Porto de Areia Serramar,Pecuária Serramar EIRELI,03.938.233/0001-28,"-23°39'35.000""","-45°31'16.000""",sand,0.0,385000,unknown,,,,False,0,,-23.65972222222222,-45.52111111111111,
+445,Deposito de Rejeito R4,PARA PIGMENTOS S A,33.931.510/0001-31,"-02°49'14.275""","-47°53'36.798""",kaolin,95.0,1190000,downstream,low,high,B,True,0,certified,-2.820631944444444,-47.893555,2021
+446,Dicão,VALE S.A.,33.592.510/0001-54,"-19°52'29.203""","-43°22'47.022""",iron,32.7,989786,single_stage,low,high,B,True,0,certified,-19.87477861111111,-43.37972833333333,periodically
+447,Dicão Leste,VALE S.A.,33.592.510/0001-54,"-20°08'21.443""","-43°24'44.399""",iron,22.5,150000,single_stage,high,high,A,True,1,noncertified,-20.13928972222222,-43.41233305555556,2021
+448,Diogo,VALE S.A.,33.592.510/0001-54,"-19°55'47.792""","-43°11'46.298""",iron,39.0,7723600,downstream,low,high,B,True,0,certified,-19.92994222222222,-43.19619388888889,periodically
+449,Dique - Pilha 2,Mib Mineração Ibirité Ltda,08.578.982/0001-05,"-20°07'47.530""","-44°06'09.230""",,2.0,250,single_stage,,,,False,0,,-20.12986944444445,-44.10256388888889,
+450,Dique - Pilha 4,Mib Mineração Ibirité Ltda,08.578.982/0001-05,"-20°07'23.117""","-44°06'23.291""",,8.0,183,single_stage,,,,False,0,,-20.12308805555556,-44.10646972222222,
+451,Dique - Pilha de Rejeito,EXTRATIVA MINERAL S/A,17.174.889/0001-26,"-20°06'36.810""","-43°54'31.680""",iron,10.0,80000,single_stage,,,,False,0,,-20.110225,-43.9088,
+452,Dique 01,MINERACAO COMISA LTDA,03.405.415/0001-33,"-20°07'05.850""","-44°19'11.450""",iron,15.0,100,single_stage,low,medium,C,True,0,certified,-20.11829166666667,-44.31984722222222,2021
+453,DIQUE 01 - PILHA SUL,Mineração Maracá Industria e Comercio Sa,86.902.053/0001-13,"-14°14'39.159""","-49°22'03.151""",,2.5,5108,single_stage,,,,False,0,,-14.24421083333333,-49.36754194444445,
+454,Dique 01 - Serra Azul,Minerita Minérios Itaúna Ltda.,16.813.461/0001-13,"-20°07'11.260""","-44°23'07.880""",iron,14.0,12347,single_stage,,,,False,0,,-20.11979444444444,-44.38552222222222,
+455,Dique 01 de Terra,ARCELORMITTAL BRASIL S.A.,17.469.701/0001-77,"-20°08'19.363""","-44°24'02.991""",iron,9.0,15000,single_stage,,,,False,0,,-20.13871194444445,-44.40083083333333,
+456,DIQUE 01 PL PAG 03,Mineração Maracá Industria e Comercio Sa,86.902.053/0001-13,"-14°15'12.930""","-49°25'33.580""",,1.5,5960,single_stage,,,,False,0,,-14.25359166666667,-49.42599444444444,
+457,DIQUE 01 PL SW,Mineração Maracá Industria e Comercio Sa,86.902.053/0001-13,"-14°14'45.180""","-49°22'50.650""",,2.0,1593,single_stage,,,,False,0,,-14.24588333333333,-49.38073611111111,
+458,Dique 01 Serra Azul - Dique Vai e Volta 1,MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°07'44.700""","-44°25'12.700""",sandy_clay,13.0,30000,single_stage,,,,False,0,,-20.12908333333333,-44.42019444444444,
+459,Dique 02,MINERACAO COMISA LTDA,03.405.415/0001-33,"-20°07'15.440""","-44°19'22.200""",iron,20.0,400,single_stage,low,medium,C,True,0,certified,-20.12095555555556,-44.32283333333334,2021
+460,Dique 02 - Pitangui,Minerita Minérios Itaúna Ltda.,16.813.461/0001-13,"-20°07'25.280""","-44°22'31.860""",iron,6.0,2100,single_stage,,,,False,0,,-20.12368888888889,-44.37551666666667,
+461,DIQUE 02 PL PAG 03,Mineração Maracá Industria e Comercio Sa,86.902.053/0001-13,"-14°15'22.900""","-49°25'28.280""",,2.0,10258,single_stage,,,,False,0,,-14.25636111111111,-49.42452222222222,
+462,DIQUE 02 PL SUL,Mineração Maracá Industria e Comercio Sa,86.902.053/0001-13,"-14°14'25.740""","-49°21'54.040""",,3.0,5564,single_stage,,,,False,0,,-14.24048333333333,-49.36501111111112,
+463,DIQUE 02 PL SW,Mineração Maracá Industria e Comercio Sa,86.902.053/0001-13,"-14°15'09.748""","-49°23'20.385""",,2.5,9708,single_stage,,,,False,0,,-14.25270777777778,-49.38899583333333,
+464,Dique 02 Serra Azul - Dique Vai e Volta 2,MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°07'49.000""","-44°25'21.000""",sandy_clay,12.0,45000,single_stage,,,,False,0,,-20.13027777777778,-44.4225,
+465,Dique 03,MINERACAO COMISA LTDA,03.405.415/0001-33,"-20°07'21.800""","-44°18'44.400""",iron,5.0,900,single_stage,,,,False,0,,-20.12272222222222,-44.31233333333333,
+466,Dique 03 Serra Azul - Dique Vai e Volta 3,MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°07'50.650""","-44°25'36.130""",sandy_clay,11.45,76000,single_stage,,,,False,0,,-20.13073611111111,-44.42670277777778,
+467,Dique 04,MINERACAO COMISA LTDA,03.405.415/0001-33,"-20°07'09.860""","-44°19'26.960""",iron,3.0,100,single_stage,,,,False,0,,-20.11940555555556,-44.32415555555556,
+468,Dique 04,VALE S.A. Filial: Vale Minas MOP,33.592.510/0075-90,"-06°33'31.456""","-51°10'40.184""",Ni,5.9,87700,single_stage,,,,False,0,,-6.558737777777778,-51.17782888888889,
+469,Dique 05,VALE S.A. Filial: Vale Minas MOP,33.592.510/0075-90,"-06°33'21.445""","-51°10'24.538""",Ni,10.85,405554,single_stage,,,,False,0,,-6.555956944444445,-51.17348277777778,
+470,Dique 06,MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°09'42.900""","-44°27'22.500""",sandy_clay,12.0,50000,single_stage,,,,False,0,,-20.16191666666667,-44.45625,
+471,Dique 06,VALE S.A. Filial: Vale Minas MOP,33.592.510/0075-90,"-06°34'49.300""","-51°10'27.000""",Ni,10.5,78000,single_stage,,,,False,0,,-6.58036111111111,-51.17416666666666,
+472,Dique 06 - Véu da Noiva Jusante,Minerita Minérios Itaúna Ltda.,16.813.461/0001-13,"-20°07'53.460""","-44°22'30.040""",iron,14.0,2500,single_stage,,,,False,0,,-20.13151666666667,-44.37501111111111,
+473,Dique 08 - Pátio CMC,Minerita Minérios Itaúna Ltda.,16.813.461/0001-13,"-20°08'00.950""","-44°22'46.450""",iron,12.0,48252,single_stage,,,,False,0,,-20.13359722222222,-44.37956944444444,
+474,Dique 1,Saint Gobain do Brasil Produtos Industriais e Para Construção Ltda.,61.064.838/0001-33,"-21°18'29.660""","-44°39'39.180""",,2.0,300,single_stage,,,,False,0,,-21.30823888888889,-44.66088333333333,
+475,Dique 1,VALE S.A.,33.592.510/0001-54,"-20°08'49.844""","-43°53'08.710""",iron,5.6,2221,single_stage,,,,False,0,,-20.14717888888889,-43.88575277777777,
+476,Dique 1 (Barragem 2 -Britagem),PEDREIRA SARGON LTDA,60.101.300/0001-99,"-23°21'20.600""","-46°16'58.500""",clay,14.0,74135,single_stage,medium,medium,C,True,0,certified,-23.35572222222222,-46.28291666666667,2021
+477,Dique 13 - Pains,MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°07'27.890""","-44°24'00.660""",sandy_clay,12.45,54000,single_stage,,,,False,0,,-20.12441388888889,-44.40018333333333,
+478,Dique 14,MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°09'44.900""","-44°26'50.600""",sandy_clay,9.93,54000,single_stage,,,,False,0,,-20.16247222222222,-44.44738888888889,
+479,Dique 2,PEDREIRA SARGON LTDA,60.101.300/0001-99,"-23°21'27.900""","-46°17'09.200""",clay,5.0,40000,single_stage,,,,False,0,,-23.35775,-46.28588888888888,
+480,Dique 2,Saint Gobain do Brasil Produtos Industriais e Para Construção Ltda.,61.064.838/0001-33,"-21°18'29.650""","-44°39'42.590""",,3.0,100,single_stage,,,,False,0,,-21.30823611111111,-44.66183055555555,
+481,Dique 2 de Concreto,ARCELORMITTAL BRASIL S.A.,17.469.701/0001-77,"-20°08'18.900""","-44°24'02.700""",clay,3.0,200,single_stage,,,,False,0,,-20.13858333333333,-44.40075,
+482,Dique 3,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°49'53.300""","-39°49'29.700""",copper,1.5,440000,single_stage,,,,False,0,,-9.831472222222223,-39.82491666666667,
+483,Dique 3,Saint Gobain do Brasil Produtos Industriais e Para Construção Ltda.,61.064.838/0001-33,"-21°18'31.440""","-44°39'43.340""",,1.5,25,single_stage,,,,False,0,,-21.30873333333333,-44.66203888888889,
+484,Dique 3 (Barragem 1 - Portaria),PEDREIRA SARGON LTDA,60.101.300/0001-99,"-23°21'23.900""","-46°17'05.800""",clay,20.0,170000,single_stage,medium,medium,C,True,0,certified,-23.35663888888889,-46.28494444444444,2021
+485,Dique 4 (Barragem 3 - Bota fora),PEDREIRA SARGON LTDA,60.101.300/0001-99,"-23°21'24.500""","-46°16'31.200""",clay,8.0,15000,single_stage,,,,False,0,,-23.35680555555556,-46.27533333333334,
+486,Dique 5 (Barragem 4 - Bota fora),PEDREIRA SARGON LTDA,60.101.300/0001-99,"-23°21'21.800""","-46°16'28.900""",clay,10.0,12000,single_stage,,,,False,0,,-23.35605555555556,-46.27469444444444,
+487,Dique 8,VALE S.A.,33.592.510/0001-54,"-19°52'18.000""","-43°47'32.000""",,4.0,2000,single_stage,,,,False,0,,-19.87166666666667,-43.79222222222222,
+488,Dique B11 - Pilha de Estéril Alegria E (Dique do Córrego dos Macacos),SAMARCO MINERACAO S A,16.628.281/0001-61,"-20°11'38.353""","-43°30'30.185""",,14.5,52000,single_stage,,,,False,0,,-20.19398694444444,-43.50838472222222,
+489,Dique B2,ITAMINAS COMERCIO DE MINERIOS SA,18.752.824/0001-83,"-20°04'48.940""","-44°06'46.590""",,14.5,27700,single_stage,,,,False,0,,-20.08026111111111,-44.11294166666667,
+490,Dique B2 - Pilha de Estéril João Manoel,SAMARCO MINERACAO S A,16.628.281/0001-61,"-20°10'15.254""","-43°29'53.120""",,10.0,8000,single_stage,,,,False,0,,-20.17090388888889,-43.49808888888889,
+491,Dique B3 - Pilha de Estéril João Manoel,SAMARCO MINERACAO S A,16.628.281/0001-61,"-20°10'11.676""","-43°29'45.981""",,10.0,12000,downstream,,,,False,0,,-20.16991,-43.49610583333333,
+492,Dique B3 Ipê,Emicon Mineração e Terraplenagem LTDA.,16.679.953/0001-68,"-20°07'09.700""","-44°18'57.400""",iron,23.5,10010305,downstream,high,medium,B,True,1,noncertified,-20.11936111111111,-44.31594444444444,2021
+493,Dique B4 Ipê,Emicon Mineração e Terraplenagem LTDA.,16.679.953/0001-68,"-20°07'03.300""","-44°19'01.900""",iron,25.0,6053,downstream,high,low,C,True,1,noncertified,-20.11758333333333,-44.31719444444445,2021
+494,Dique BIII-2,Mbl Materiais Básicos Ltda,19.543.206/0001-96,"-20°08'54.160""","-44°27'35.942""",iron,9.0,19765,single_stage,medium,medium,C,True,0,certified,-20.14837777777778,-44.45998388888889,2021
+495,Dique BIII-3,Mbl Materiais Básicos Ltda,19.543.206/0001-96,"-20°08'51.941""","-44°27'36.371""",iron,17.0,24103,single_stage,medium,medium,C,True,0,certified,-20.14776138888889,-44.46010305555556,2021
+496,Dique BIII-6,FERROMINAS - MINERAÇÃO LTDA,08.814.720/0001-00,"-20°08'48.020""","-44°27'15.790""",,7.5,14457,single_stage,,,,False,0,,-20.14667222222222,-44.45438611111111,
+497,Dique BIII-7,FERROMINAS - MINERAÇÃO LTDA,08.814.720/0001-00,"-20°08'48.680""","-44°27'05.270""",,7.5,16557,single_stage,,,,False,0,,-20.14685555555555,-44.45146388888889,
+498,Dique BIV-3 - Dique Hércules,MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°09'21.800""","-44°26'29.000""",sandy_clay,13.0,15524,single_stage,,,,False,0,,-20.15605555555555,-44.44138888888889,
+499,Dique Caffaro,Mineral do Brasil Ltda.,17.246.638/0001-00,"-20°05'43.890""","-44°09'44.560""",,8.0,17000,single_stage,,,,False,0,,-20.095525,-44.16237777777778,
+500,Dique Conquistinha,MINERACAO MORRO DO IPE S.A.,22.902.554/0001-17,"-20°06'57.240""","-44°17'53.170""",,5.0,30,single_stage,,,,False,0,,-20.1159,-44.29810277777778,
+501,Dique Couves (MUSA),MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°09'21.200""","-44°26'49.500""",sandy_clay,8.8,3800,single_stage,,,,False,0,,-20.15588888888889,-44.44708333333333,
+502,DIQUE D,Brasmic Mineração Areia e Brita Ltda,22.470.777/0001-52,"-19°59'08.000""","-44°07'17.300""",gravely_sand,23.0,1540000,downstream,low,high,B,True,0,certified,-19.98555555555556,-44.12147222222222,2021
+503,Dique da Divisa,MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°08'10.800""","-44°24'18.900""",sandy_clay,10.0,8750,single_stage,,,,False,0,,-20.13633333333333,-44.40525,
+504,Dique da Mineira,MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°09'01.300""","-44°26'09.000""",sandy_clay,10.2,5000,single_stage,,,,False,0,,-20.15036111111111,-44.43583333333333,
+505,Dique da Oficina,MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°07'31.200""","-44°24'37.700""",sandy_clay,12.0,10000,single_stage,,,,False,0,,-20.12533333333333,-44.41047222222222,
+506,Dique da Oficina II,MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°07'34.500""","-44°24'48.600""",sandy_clay,9.4,5600,single_stage,,,,False,0,,-20.12625,-44.4135,
+507,DIQUE DA PILHA DA VILA II,Csn Mineração S.a.,08.902.291/0001-15,"-20°27'08.000""","-43°53'59.000""",gravel,28.0,18556,single_stage,low,low,E,True,0,certified,-20.45222222222222,-43.89972222222222,2021
+508,Dique de Captação,PEDREIRA UM VALEMIX LTDA,41.716.499/0001-15,"-20°01'38.910""","-43°25'26.900""",,4.0,13134,single_stage,,,,False,0,,-20.027475,-43.42413888888888,
+509,Dique de Concreto,Minerita Minérios Itaúna Ltda.,16.813.461/0001-13,"-20°07'54.830""","-44°22'35.900""",iron,4.0,1600,single_stage,,,,False,0,,-20.13189722222222,-44.37663888888889,
+510,Dique de Contenção de Finos,Pedras Congonhas Extração Arte e Ind. Ltda,19.695.030/0001-98,"-20°06'58.000""","-43°52'25.400""",serpentinite,14.87,2376,single_stage,,,,False,0,,-20.11611111111111,-43.87372222222222,
+511,Dique de Contenção de Salmoura,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-10°39'28.200""","-37°01'47.400""",silvanite,4.0,14128,single_stage,low,medium,C,True,0,certified,-10.65783333333333,-37.02983333333333,2021
+512,Dique de Contenção de Sedimentos 01,ANGLO AMERICAN MINERIO DE FERRO BRASIL S/A,02.359.572/0004-30,"-18°53'57.000""","-43°24'30.000""",iron,12.0,318425,single_stage,low,high,B,True,0,certified,-18.89916666666667,-43.40833333333333,2021
+513,Dique de Contenção de Sedimentos 02,ANGLO AMERICAN MINERIO DE FERRO BRASIL S/A,02.359.572/0004-30,"-18°53'23.000""","-43°24'19.000""",iron,12.0,634140,single_stage,low,high,B,True,0,certified,-18.88972222222222,-43.40527777777778,2021
+514,Dique de Contenção de Sedimentos 03,ANGLO AMERICAN MINERIO DE FERRO BRASIL S/A,02.359.572/0004-30,"-18°55'14.984""","-43°24'23.663""",,15.5,473452,single_stage,low,high,B,True,0,certified,-18.92082888888889,-43.40657305555555,2021
+515,Dique de Contenção de Sedimentos 04,ANGLO AMERICAN MINERIO DE FERRO BRASIL S/A,02.359.572/0004-30,"-18°55'54.000""","-43°24'06.000""",,14.6,81360,single_stage,low,medium,C,True,0,certified,-18.93166666666667,-43.40166666666666,2021
+516,Dique de Contenção Pilha de Estéril MMR,Lafargeholcim (brasil) S.a. Filial: LAFARGEHOLCIM (BRASIL) S.A.,60.869.336/0084-44,"-21°11'27.800""","-43°59'28.500""",clay,0.0,0,unknown,,,,False,0,,-21.19105555555556,-43.99125,
+517,Dique de Finos,Mineração Apoena S A,10.302.599/0001-71,"-14°50'22.300""","-59°39'27.300""",gold,19.0,419440,downstream,low,high,B,True,0,certified,-14.83952777777778,-59.65758333333333,2021
+518,Dique de finos 01 - Depósito Tamanduá,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-18°09'03.027""","-47°46'55.116""",clay,7.0,10500,single_stage,,,,False,0,,-18.15084083333333,-47.78197666666667,
+519,Dique de finos 02 - Depósito Tamanduá,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-18°09'06.993""","-47°46'58.814""",,14.8,0,single_stage,,,,False,0,,-18.1519425,-47.78300388888889,
+520,Dique de finos 03 - Depósito Tamanduá,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-18°08'19.663""","-47°46'55.691""",clay,6.0,600,single_stage,,,,False,0,,-18.13879527777778,-47.78213638888889,
+521,Dique de Finos I,AVB MINERACAO LTDA.,07.605.563/0001-52,"-06°14'52.779""","-49°44'47.639""",,5.0,0,single_stage,,,,False,0,,-6.247994166666667,-49.74656638888889,
+522,DIQUE DE FINOS I,Salobo Metais Sa.,33.931.478/0001-94,"-05°49'02.136""","-50°34'01.808""",copper,11.0,969524,single_stage,low,medium,C,True,0,certified,-5.81726,-50.56716888888889,2021
+523,Dique de Finos II,AVB MINERACAO LTDA.,07.605.563/0001-52,"-06°14'41.875""","-49°44'40.790""",,5.0,17073,single_stage,,,,False,0,,-6.244965277777778,-49.74466388888889,
+524,DIQUE DE FINOS II,Salobo Metais Sa.,33.931.478/0001-94,"-05°49'57.400""","-50°32'28.000""",copper,16.42,3223065,single_stage,low,medium,C,True,0,certified,-5.832611111111111,-50.54111111111111,2021
+525,DIQUE DE FINOS III,Salobo Metais Sa.,33.931.478/0001-94,"-05°46'46.700""","-50°32'19.100""",copper,16.5,22937,single_stage,low,medium,C,True,0,certified,-5.779638888888889,-50.53863888888889,2021
+526,Dique de Resíduos Insóluveis ,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-10°39'26.400""","-37°01'52.800""",silvanite,5.5,4556,single_stage,low,medium,C,True,0,certified,-10.65733333333333,-37.03133333333333,2021
+527,DIQUE DE SAÍDA DE CAVA,Empresa de Mineração Esperança Sa,33.300.971/0001-06,"-20°06'43.300""","-44°13'12.700""",iron,8.0,11250,single_stage,,,,False,0,,-20.11202777777778,-44.22019444444445,
+528,Dique de Sedimentos da PDE Cava Sul,Ferro + Mineração S.A.,21.256.870/0001-04,"-20°26'11.430""","-43°52'18.450""",iron,9.9,10000,single_stage,,,,False,0,,-20.43650833333333,-43.87179166666667,
+529,DIQUE DO BICHENTO IIIA,Csn Mineração S.a.,08.902.291/0001-15,"-20°29'06.000""","-43°56'00.000""",gravel,15.5,116696,single_stage,low,low,E,True,0,certified,-20.485,-43.93333333333333,2021
+530,DIQUE DO ENGENHO,Csn Mineração S.a.,08.902.291/0001-15,"-20°27'23.300""","-43°53'40.100""",gravel,10.0,8821,single_stage,low,medium,C,True,0,certified,-20.45647222222222,-43.89447222222222,2021
+531,DIQUE DO ESMERIL IV,Csn Mineração S.a.,08.902.291/0001-15,"-20°29'07.000""","-43°57'18.000""",gravel,38.2,282079,single_stage,low,high,B,True,0,certified,-20.48527777777778,-43.95500000000001,2021
+532,Dique do Grotão,BURITIRAMA MINERACAO S.A.,27.121.672/0001-01,"-05°30'34.700""","-50°14'03.180""",Mn,7.5,68500,downstream,low,medium,C,True,0,,-5.509638888888889,-50.23421666666667,
+533,Dique do Puma 01,Vale Minas MOP,33.592.510/0075-90,"-06°29'06.900""","-51°04'39.100""",Ni,13.6,295000,single_stage,,,,False,0,,-6.48525,-51.07752777777778,
+534,Dique dos Borges,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-19°39'11.977""","-46°57'22.312""",,10.0,45917,single_stage,,,,False,0,,-19.65332694444444,-46.95619777777778,
+535,Dique dos Búfalos,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-19°40'24.340""","-46°58'19.196""",phospate,9.5,22000,downstream,,,,False,0,,-19.67342777777778,-46.97199888888889,
+536,Dique Flotação,MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°08'45.300""","-44°24'19.700""",iron,6.0,57000,single_stage,,,,False,0,,-20.14591666666666,-44.40547222222222,
+537,Dique Intermediário,MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°09'35.400""","-44°26'59.800""",sandy_clay,12.0,12000,single_stage,,,,False,0,,-20.15983333333333,-44.44994444444444,
+538,Dique IV,MINERACAO GERAL DO BRASIL S/A,60.727.120/0001-17,"-20°03'53.200""","-44°01'43.900""",sandy_clay,2.0,100,single_stage,,,,False,0,,-20.06477777777778,-44.02886111111111,
+539,Dique IV,VALE S.A.,33.592.510/0001-54,"-20°05'27.000""","-43°24'57.000""",hematite,2.0,5098,single_stage,,,,False,0,,-20.09083333333333,-43.41583333333333,
+540,Dique Leste I,MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°07'17.000""","-44°22'16.400""",sandy_clay,9.2,15100,single_stage,,,,False,0,,-20.12138888888889,-44.37122222222222,
+541,Dique Leste II,MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°07'12.800""","-44°22'18.400""",sandy_clay,10.6,7100,single_stage,,,,False,0,,-20.12022222222222,-44.37177777777778,
+542,Dique Leste III,MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°06'57.900""","-44°22'16.500""",sandy_clay,3.8,1350,single_stage,,,,False,0,,-20.11608333333334,-44.37125,
+543,Dique Lisa,VALLOUREC TUBOS DO BRASIL LTDA.,17.170.150/0001-46,"-20°08'59.100""","-43°57'52.500""",gravely_sand,12.0,28685,single_stage,low,high,B,True,0,certified,-20.14975,-43.96458333333334,2021
+544,Dique Longitudinal,Safm Mineração Ltda,09.325.670/0001-52,"-20°16'24.690""","-43°54'00.457""",iron,4.3,88750,single_stage,,,,False,0,,-20.273525,-43.90012694444444,
+545,Dique Mazano,MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°08'25.400""","-44°25'20.900""",sandy_clay,10.0,10120,single_stage,,,,False,0,,-20.14038888888889,-44.42247222222222,
+546,Dique Norte da PDE 1,GERDAU ACOMINAS S/A,17.227.422/0001-05,"-20°18'06.730""","-43°55'22.890""",dolomite,25.0,25200,single_stage,low,medium,C,True,0,certified,-20.30186944444445,-43.923025,2021
+547,Dique Oeste,MINERACAO USIMINAS S.A.,12.056.613/0001-20,"-20°10'15.500""","-44°27'16.500""",sandy_clay,16.7,85000,single_stage,low,medium,C,True,0,certified,-20.17097222222222,-44.45458333333334,2021
+548,Dique Petrobrás,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-10°39'12.400""","-37°01'50.100""",salt,6.0,6362,single_stage,,,,False,0,,-10.65344444444444,-37.03058333333333,
+549,Dique Portaria,VALE S.A.,33.592.510/0001-54,"-20°10'40.642""","-43°29'51.299""",,14.3,52110,single_stage,,,,False,0,,-20.17795611111111,-43.49758305555556,
+550,Dique Provisorio 01,VALE S.A. Filial: Vale Minas MOP,33.592.510/0075-90,"-06°33'42.700""","-51°10'16.100""",Ni,6.2,28500,single_stage,,,,False,0,,-6.561861111111111,-51.17113888888888,
+551,Dique Provisorio 02,VALE S.A. Filial: Vale Minas MOP,33.592.510/0075-90,"-06°33'37.400""","-51°10'00.200""",Ni,4.8,21300,single_stage,,,,False,0,,-6.560388888888888,-51.16672222222222,
+552,Dique Quéias - Captação de Água,MINERACAO COMISA LTDA,03.405.415/0001-33,"-20°07'36.100""","-44°18'58.100""",iron,5.0,1200,single_stage,,,,False,0,,-20.12669444444445,-44.31613888888889,
+553,Dique S3,SAMARCO MINERACAO S A,16.628.281/0001-61,"-20°14'09.149""","-43°25'22.771""",,12.0,2950000,downstream,low,high,B,True,0,certified,-20.23587472222222,-43.42299194444444,2021
+554,Dique S4,SAMARCO MINERACAO S A,16.628.281/0001-61,"-20°14'28.600""","-43°24'39.193""",,12.5,1006318,single_stage,low,high,B,True,0,certified,-20.24127777777778,-43.41088694444444,2021
+555,Dique Santa Rita,ATLANTIC NICKEL MINERACAO LTDA,74.127.010/0001-29,"-14°11'47.547""","-39°41'29.939""",Ni,5.0,246848,single_stage,,,,False,0,,-14.19654083333333,-39.69164972222222,
+556,Dique V,VALE S.A.,33.592.510/0001-54,"-20°05'30.000""","-43°24'58.000""",hematite,9.0,45664,single_stage,,,,False,0,,-20.09166666666667,-43.41611111111111,
+557,Dique VI,VALE S.A.,33.592.510/0001-54,"-20°05'40.570""","-43°24'58.442""",hematite,4.0,7056,single_stage,,,,False,0,,-20.09460277777778,-43.41623388888889,
+558,Dique VI-A,VALE S.A.,33.592.510/0001-54,"-20°05'38.684""","-43°24'58.625""",hematite,4.6,1000,single_stage,,,,False,0,,-20.09407888888889,-43.41628472222222,
+559,Dique VII,VALE S.A.,33.592.510/0001-54,"-20°05'53.000""","-43°24'51.000""",hematite,7.0,20000,single_stage,,,,False,0,,-20.09805555555555,-43.41416666666667,
+560,Dorival ,ALTA FLORESTA GOLD MINERAÇÃO LTDA,17.580.707/0001-17,"-10°48'08.950""","-55°11'10.160""",,0.0,0,unknown,,,,False,0,,-10.80248611111111,-55.18615555555555,
+561,Doutor,VALE S.A.,33.592.510/0001-54,"-20°17'25.615""","-43°29'25.900""",iron,77.0,37683207,upstream,high,high,A,True,1,noncertified,-20.29044861111111,-43.49052777777778,2021
+562,Dutra,DUTRA EXTRACAO DE AREIA LTDA,48.098.701/0001-31,"-23°25'50.600""","-46°12'39.200""",sandy_clay,0.0,130000,unknown,,,,False,0,,-23.43072222222222,-46.21088888888889,
+563,EB-2,ANGLO AMERICAN MINERIO DE FERRO BRASIL S/A,02.359.572/0004-30,"-20°20'41.300""","-42°33'42.800""",iron,50.0,204000,single_stage,low,medium,C,True,0,certified,-20.34480555555555,-42.56188888888889,2021
+564,ED Monjolo,VALE S.A.,33.592.510/0001-54,"-19°56'53.400""","-43°13'19.340""",sand,145.0,19000000,upstream,low,high,B,True,0,certified,-19.94816666666667,-43.22203888888889,2021
+565,ED Vale das Cobras,VALE S.A.,33.592.510/0001-54,"-19°55'36.850""","-43°12'45.840""",sand,107.0,22556601,upstream,low,high,B,True,0,certified,-19.92690277777778,-43.21273333333334,2021
+566,Elefante,VALE S.A.,33.592.510/0001-54,"-19°55'56.851""","-43°12'33.168""",iron,17.0,277264,single_stage,low,low,E,True,0,certified,-19.93245861111111,-43.20921333333334,2021
+567,Elvo 1,COOPERATIVA DE MINERACAO DOS GARIMPEIROS DE PONTES E LACERDA - COMPEL,25.252.467/0001-50,"-15°08'06.330""","-59°22'44.980""",gold,15.0,331450,centerline,medium,medium,C,True,0,certified,-15.13509166666667,-59.37916111111111,2021
+568,Elvo Captação,COOPERATIVA DE MINERACAO DOS GARIMPEIROS DE PONTES E LACERDA - COMPEL,25.252.467/0001-50,"-15°07'56.600""","-59°22'39.100""",gold,2.0,13500,centerline,low,medium,C,True,0,certified,-15.13238888888889,-59.37752777777778,2021
+569,engebrita,Pedreira Engebrita Ltda,61.728.804/0001-04,"-23°52'55.700""","-46°18'51.600""",granite,3.5,30000,unknown,,,,False,0,,-23.88213888888889,-46.31433333333333,
+570,Ensecadeira,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-19°00'02.548""","-46°46'21.921""",,0.0,0,unknown,,,,False,0,,-19.00070777777778,-46.77275583333333,
+571,Estéril Sul,VALE S.A.,33.592.510/0001-54,"-06°05'58.000""","-50°09'45.000""",iron,25.0,1710841,single_stage,low,medium,C,True,0,certified,-6.099444444444444,-50.1625,2021
+572,FAZENDA 4M,Marcelo Bozetti,943.625.211-00,"-15°57'16.750""","-56°16'21.730""",gold,13.0,173656,centerline,low,medium,C,True,0,certified,-15.95465277777778,-56.27270277777777,2021
+573,Fazenda Nova,Ilmar Silva e Souza,362.415.981-04,"-16°16'31.510""","-56°46'37.400""",gold,6.0,20119,single_stage,,,,False,0,,-16.27541944444445,-56.77705555555556,
+574,Fazenda Santa Fé,TECH ROCK MINERACAO LTDA,62.579.818/0001-68,"-23°30'32.300""","-47°23'27.200""",clay,3.0,2700,unknown,,,,False,0,,-23.50897222222222,-47.39088888888889,
+575,Fazendinha,VALE S.A.,33.592.510/0001-54,"-19°58'18.219""","-43°36'29.024""",iron,8.0,3830,downstream,,,,False,0,,-19.9717275,-43.60806222222222,
+576,Fernandinho,VALE S.A.,33.592.510/0001-54,"-20°10'59.900""","-43°51'34.200""",iron,19.0,359000,upstream,low,low,E,True,0,certified,-20.18330555555556,-43.8595,2021
+577,Fiori,Empresa de Mineração Fiori do Taboão Ltda.,00.265.541/0001-41,"-23°24'16.000""","-46°11'54.500""",sandy_clay,0.0,325000,unknown,,,,False,0,,-23.40444444444444,-46.19847222222222,
+578,Forquilha I,VALE S.A.,33.592.510/0001-54,"-20°24'21.800""","-43°51'20.600""",iron,98.3,12763176,upstream,high,high,A,True,2,noncertified,-20.40605555555555,-43.85572222222223,2021
+579,Forquilha II,VALE S.A.,33.592.510/0001-54,"-20°24'29.800""","-43°51'06.500""",iron,93.0,22778397,upstream,high,high,A,True,2,noncertified,-20.40827777777778,-43.85180555555556,2021
+580,Forquilha III,VALE S.A.,33.592.510/0001-54,"-20°24'39.300""","-43°50'11.800""",iron,77.0,19476113,upstream,high,high,A,True,3,noncertified,-20.41091666666667,-43.83661111111111,periodically
+581,Forquilha IV,VALE S.A.,33.592.510/0001-54,"-20°23'41.200""","-43°51'05.600""",iron,105.0,3748232,centerline,high,high,A,True,1,noncertified,-20.39477777777778,-43.85155555555556,2021
+582,Forquilha V,VALE S.A.,33.592.510/0001-54,"-20°23'41.500""","-43°50'22.800""",iron,100.0,310000,single_stage,low,high,B,True,0,certified,-20.39486111111111,-43.83966666666667,2021
+583,Fortuna,MARCOS JOSE MARTINS FERNANDES,472.026.029-20,"-15°10'53.160""","-59°20'42.550""",gold,6.0,185586,centerline,medium,high,B,True,0,certified,-15.18143333333333,-59.34515277777778,periodically
+584,FRANCÊS,Alain Stephane Riviere Mineração,15.264.439/0001-07,"-16°15'10.270""","-56°36'21.640""",sand,9.0,904965,downstream,low,medium,C,True,0,,-16.25285277777778,-56.60601111111112,
+585,FRED,Frederico Augusto de Arruda Gimenez Me,07.111.522/0001-00,"-16°03'46.540""","-56°33'42.940""",sand,12.0,150000,downstream,,,,False,0,,-16.06292777777778,-56.56192777777778,
+586,Freitas,VALE S.A.,33.592.510/0001-54,"-20°25'55.900""","-43°50'58.400""",iron,9.0,36005,single_stage,low,medium,C,True,0,certified,-20.43219444444444,-43.84955555555556,2021
+587,Galego,VALE S.A.,33.592.510/0001-54,"-19°51'25.900""","-43°48'16.300""",iron,37.28,1480555,downstream,low,high,B,True,0,certified,-19.85719444444445,-43.80452777777778,2021
+588,Gambá,VALE S.A.,33.592.510/0001-54,"-20°25'52.800""","-43°52'58.300""",iron,11.68,5000,single_stage,,,,False,0,,-20.43133333333333,-43.88286111111111,
+589,GAÚCHO,Airton Luiz Carus,355.059.230-20,"-16°14'52.070""","-56°35'44.880""",sand,10.0,150000,downstream,,,,False,0,,-16.24779722222222,-56.5958,
+590,Geladinho,VALE S.A.,33.592.510/0001-54,"-05°59'41.256""","-50°06'34.134""",iron,24.0,6544459,single_stage,low,high,B,True,0,certified,-5.994793333333333,-50.10948166666667,2021
+591,Gelado,VALE S.A.,33.592.510/0001-54,"-05°58'45.400""","-50°08'29.100""",iron,34.0,141187217,downstream,low,high,B,True,0,certified,-5.979277777777778,-50.14141666666666,periodically
+592,GERAIS,MINERACOES GERAIS LTDA,02.196.839/0001-72,"-19°34'56.800""","-44°24'41.100""",sand,4.0,90,single_stage,,,,False,0,,-19.58244444444444,-44.41141666666667,
+593,Gerais II,MINERACOES GERAIS LTDA,02.196.839/0001-72,"-19°34'57.350""","-44°24'35.750""",quartz_sand,4.0,9064,single_stage,,,,False,0,,-19.58259722222222,-44.40993055555555,
+594,GIRASSOL-01,QUARTZITI MINERADORA LTDA,11.461.800/0001-26,"-15°46'20.000""","-48°38'17.000""",quartz_sand,5.0,3000,unknown,,,,False,0,,-15.77222222222222,-48.63805555555555,
+595,GONÇA,Gonçalo Pedroso de Barros,178.073.441-72,"-16°13'57.370""","-56°36'25.111""",sand,1.45,265000,downstream,medium,medium,C,True,0,certified,-16.23260277777777,-56.60697527777778,2021
+596,Grameiro,COOPERATIVA DE EXTRAÇÃO MINERAL DE MATO GROSSO ,23.300.330/0001-06,"-16°04'08.260""","-56°33'54.370""",gold,9.5,50017,downstream,low,medium,C,True,0,certified,-16.06896111111111,-56.56510277777777,2021
+597,Gregório,Mineração Corumbaense Reunida Sa,03.327.988/0001-96,"-19°13'28.008""","-57°33'35.925""",iron,36.25,4907218,centerline,low,high,B,True,0,certified,-19.22444666666667,-57.55997916666666,2021
+598,Grupo,VALE S.A.,33.592.510/0001-54,"-20°24'53.200""","-43°51'54.500""",iron,44.13,1961714,upstream,high,high,A,True,2,noncertified,-20.41477777777778,-43.86513888888889,2021
+599,Guará 2,Extração de Areia e Pedregulho Cachoeira Ltda.,45.600.327/0001-32,"-23°23'32.300""","-46°08'10.900""",clay,5.0,78300,single_stage,,,,False,0,,-23.39230555555556,-46.13636111111111,
+600,Guará 3,Extração de Areia e Pedregulho Cachoeira Ltda.,45.600.327/0001-32,"-23°23'20.500""","-46°08'07.200""",clay,18.0,735000,single_stage,low,high,B,True,0,certified,-23.38902777777778,-46.13533333333334,periodically
+601,Igarapé,VALE S.A. Filial: Vale Minas MOP,33.592.510/0075-90,"-06°35'24.000""","-51°05'24.000""",Ni,8.1,1862231,single_stage,,,,False,0,,-6.59,-51.09,
+602,Igarapé Mutum,Cooperativa de Garimpeiros de Santa Cruz Ltda,34.726.547/0001-90,"-09°45'55.465""","-63°31'12.111""",tin_alluvium,5.0,10699776,single_stage,medium,medium,C,True,0,certified,-9.765406944444445,-63.52003083333333,2021
+603,II,VALE S.A.,33.592.510/0001-54,"-20°09'10.400""","-43°53'18.300""",iron,20.0,6036,single_stage,low,low,E,True,0,certified,-20.15288888888889,-43.88841666666666,2021
+604,III,VALE S.A.,33.592.510/0001-54,"-20°09'20.500""","-43°53'13.600""",iron,11.0,13734,single_stage,low,medium,C,True,0,certified,-20.15569444444444,-43.88711111111111,2021
+605,Ipoema,VALE S.A.,33.592.510/0001-54,"-19°36'44.018""","-43°15'20.917""",iron,7.5,47900,upstream,,,,False,0,,-19.61222722222222,-43.25581027777778,
+606,Isa,Isa Maria Dorileo Ferreira de Assis,346.031.821-04,"-16°16'46.881""","-56°38'50.914""",gold,11.0,138836,single_stage,high,medium,B,True,0,,-16.27968916666667,-56.64747611111111,
+607,Itabiruçu,VALE S.A.,33.592.510/0001-54,"-19°41'07.300""","-43°17'10.400""",iron,71.0,159240000,downstream,low,high,B,True,0,certified,-19.68536111111111,-43.28622222222222,2021
+608,Itamarati de Minas,COMPANHIA BRASILEIRA DE ALUMINIO,61.409.892/0001-73,"-21°27'18.809""","-42°52'17.972""",bauxite,38.0,13820000,single_stage,low,high,B,True,0,certified,-21.45522472222222,-42.87165888888889,2021
+609,ITAPEVA,Samaca Ferros Ltda,16.682.218/0001-03,"-24°15'13.500""","-48°54'57.500""",tin,20.0,260000,upstream,medium,low,D,True,0,certified,-24.25375,-48.91597222222222,2021
+610,JABURU,Waldomiro Chmieleski Neto,053.595.781-57,"-15°56'52.860""","-56°16'36.911""",gold,10.0,253888,centerline,,,,False,0,,-15.94801666666667,-56.27691972222222,
+611,JABURU 2,Joaquim Aderaldo de Souza Neto,807.891.101-72,"-15°58'10.563""","-56°17'11.535""",,0.0,0,unknown,,,,False,0,,-15.96960083333333,-56.2865375,
+612,Jacaré,VALE S.A.,33.592.510/0001-54,"-06°06'29.300""","-50°10'08.600""",iron,32.8,681816,single_stage,low,medium,C,True,0,certified,-6.108138888888888,-50.16905555555555,2021
+613,Jacaré Inferior,Cooperativa de Garimpeiros de Santa Cruz Ltda,34.726.547/0001-90,"-09°47'16.100""","-63°34'30.600""",tin_alluvium,8.0,3595017,single_stage,medium,medium,C,True,0,certified,-9.787805555555556,-63.57516666666667,2021
+614,Jacaré Medio,Cooperativa de Garimpeiros de Santa Cruz Ltda,34.726.547/0001-90,"-09°47'43.800""","-63°33'55.000""",tin_alluvium,8.0,3020623,single_stage,medium,high,B,True,0,certified,-9.7955,-63.56527777777777,2021
+615,Jacaré Superior,Cooperativa de Garimpeiros de Santa Cruz Ltda,34.726.547/0001-90,"-09°49'01.200""","-63°33'11.500""",tin_alluvium,10.0,9170673,single_stage,medium,medium,C,True,0,certified,-9.817,-63.55319444444444,2021
+616,JBS1,Empresa de Mineração e Artefatos de Cimento Jbs Ltda Epp,47.354.774/0001-84,"-23°23'50.400""","-46°11'41.600""",sandy_clay,12.0,331920,upstream,low,medium,C,True,0,certified,-23.39733333333333,-46.19488888888888,2021
+617,Jirau,VALE S.A.,33.592.510/0001-54,"-19°34'13.730""","-43°13'53.604""",iron,15.0,1400000,single_stage,low,low,E,True,0,certified,-19.57048055555556,-43.23155666666667,2021
+618,JOAO PAULO,Elisa Maciel Santos,693.900.611-72,"-16°14'55.560""","-56°36'19.500""",clay,18.0,450000,downstream,medium,medium,C,True,0,certified,-16.24876666666667,-56.60541666666667,periodically
+619,Kalunga,VALE S.A.,33.592.510/0001-54,"-06°06'45.823""","-50°18'30.921""",Mn,22.0,1026264,downstream,low,medium,C,True,0,certified,-6.112728611111111,-50.30858916666666,2021
+620,Labourrie,Cooperativa de Mineração dos Garimpeiros do Lourenço Ltda,00.788.904/0001-23,"02°16'43.000""","-51°39'02.380""",gold_alluvium,9.4,2748457,single_stage,medium,medium,C,True,0,certified,2.278611111111111,-51.65066111111111,emergency
+621,Lagoa 1,Mineração Darcy R. O. e Silva Ltda,45.369.188/0001-88,"-21°25'58.030""","-47°36'47.670""",clay,13.0,271000,single_stage,low,medium,C,True,0,certified,-21.43278611111111,-47.61324166666667,2021
+622,Lagoa 2,Mineração Darcy R. O. e Silva Ltda,45.369.188/0001-88,"-21°25'49.220""","-47°36'47.000""",clay,7.0,112000,single_stage,medium,medium,C,True,0,certified,-21.43033888888889,-47.61305555555555,2021
+623,Lagoa de Disposição n°04 - LD4,Alcoa World Alumina Brasil Ltda.,06.167.730/0001-68,"-02°29'12.100""","-56°10'41.300""",bauxite,12.0,750000,single_stage,,,,False,0,,-2.486694444444444,-56.17813888888889,
+624,Lagoa de Disposição n°05 - LD5,Alcoa World Alumina Brasil Ltda.,06.167.730/0001-68,"-02°29'10.500""","-56°11'45.600""",bauxite,13.0,3140000,single_stage,low,medium,C,True,0,certified,-2.48625,-56.196,2021
+625,Lagoa do Pirocaua,MINERACAO AURIZONA S/A,42.422.048/0001-38,"-01°17'23.958""","-45°44'59.430""",,7.0,20000,single_stage,high,high,A,True,1,noncertified,-1.289988333333333,-45.74984166666667,2021
+626,LAGOA FACEL 3,Cadam S.a.,04.788.980/0001-90,"-00°54'40.017""","-52°25'56.866""",kaolin,11.0,600000,single_stage,,,,False,0,,0.9111158333333333,-52.43246277777777,
+627,LAGOA FACEL 4 ,Cadam S.a.,04.788.980/0001-90,"-00°54'52.451""","-52°25'43.269""",kaolin,9.0,412800,single_stage,,,,False,0,,0.9145697222222222,-52.42868583333333,
+628,LD1 - Lagoa de Disposição 01,Alcoa World Alumina Brasil Ltda.,06.167.730/0001-68,"-02°30'02.500""","-56°10'00.500""",bauxite,24.0,2540000,single_stage,low,medium,C,True,0,certified,-2.500694444444445,-56.16680555555556,2021
+629,LD2 - Lagoa de Disposição 02,Alcoa World Alumina Brasil Ltda.,06.167.730/0001-68,"-02°29'47.800""","-56°10'25.700""",bauxite,24.0,2510000,downstream,low,medium,C,True,0,certified,-2.496611111111111,-56.17380555555555,2021
+630,LD3 - Lagoa de Disposição 03,Alcoa World Alumina Brasil Ltda.,06.167.730/0001-68,"-02°29'45.200""","-56°11'16.840""",bauxite,14.8,4956000,single_stage,low,medium,C,True,0,certified,-2.495888888888889,-56.18801111111111,2021
+631,LD6 - Lagoa de Disposição 6,Alcoa World Alumina Brasil Ltda.,06.167.730/0001-68,"-02°29'13.000""","-56°10'23.000""",bauxite,4.7,2060000,single_stage,low,medium,C,True,0,certified,-2.486944444444445,-56.17305555555555,2021
+632,LD7 - Lagoa de Disposição 7,Alcoa World Alumina Brasil Ltda.,06.167.730/0001-68,"-02°29'02.500""","-56°12'06.600""",,0.0,0,unknown,,,,False,0,,-2.484027777777778,-56.20183333333333,
+633,LE - Lagoa de Espessamento,Alcoa World Alumina Brasil Ltda.,06.167.730/0001-68,"-02°30'18.000""","-56°10'32.800""",bauxite,11.5,4460000,single_stage,low,medium,C,True,0,certified,-2.505,-56.17577777777777,2021
+634,Leste,MINA TUCANO LTDA. ,05.642.709/0001-04,"00°52'32.430""","-51°53'13.410""",gold,30.0,238089,single_stage,low,high,B,True,0,certified,0.875675,-51.88705833333334,emergency
+635,LU,José Vicente Nunes Rondon,006.492.011-91,"-16°14'28.910""","-56°36'17.520""",sand,2.0,590000,downstream,,,,False,0,,-16.24136388888889,-56.60486666666667,
+636,MANÉ,Manoel Rodrigues Gimenes,157.070.758-87,"-15°48'41.050""","-56°23'24.690""",sand,6.0,64400,downstream,,,,False,0,,-15.81140277777778,-56.39019166666667,
+637,Maney Mineração,Valdinei Mauro de Souza,568.360.581-49,"-06°47'20.006""","-56°36'29.199""",gold,5.0,400000,single_stage,,,,False,0,,-6.788890555555556,-56.60811083333333,
+638,MARANATA,Sidnei Rafael de Souza,096.118.508-24,"-16°02'16.500""","-56°32'15.500""",sand,14.5,483000,downstream,,,,False,0,,-16.03791666666667,-56.53763888888889,
+639,MARANATA II,Sidnei Rafael de Souza,096.118.508-24,"-16°02'03.000""","-56°32'16.300""",,0.0,0,unknown,,,,False,0,,-16.03416666666667,-56.53786111111111,
+640,Maravilhas I,VALE S.A.,33.592.510/0001-54,"-20°13'29.700""","-43°52'23.600""",iron,38.55,2471797,downstream,low,medium,C,True,0,certified,-20.22491666666667,-43.87322222222222,2021
+641,Maravilhas II,VALE S.A.,33.592.510/0001-54,"-20°12'51.900""","-43°53'30.100""",iron,97.92,90122658,downstream,high,high,A,True,1,noncertified,-20.21441666666666,-43.89169444444445,2021
+642,Maravilhas III,VALE S.A.,33.592.510/0001-54,"-20°13'15.096""","-43°54'30.082""",,0.0,0,unknown,,,,False,0,,-20.22086,-43.90835611111111,
+643,Marçu,Nacional de Grafite Ltda,21.228.861/0001-00,"-15°53'19.800""","-41°03'36.800""",shale,37.0,156260,downstream,low,medium,C,True,0,certified,-15.88883333333333,-41.06022222222222,2021
+644,Marés I,VALE S.A.,33.592.510/0001-54,"-20°25'31.000""","-43°55'40.300""",iron,12.3,154508,single_stage,high,high,A,True,1,noncertified,-20.42527777777778,-43.92786111111111,2021
+645,Marés II,VALE S.A.,33.592.510/0001-54,"-20°26'02.200""","-43°55'53.600""",iron,18.7,340000,centerline,high,high,A,True,1,noncertified,-20.43394444444445,-43.93155555555555,2021
+646,Mario Cruz,DEV MINERACAO S.A. - EM RECUPERACAO JUDICIAL,06.030.747/0001-79,"00°48'03.009""","-51°52'28.293""",itarbirite,28.0,25366731,single_stage,high,medium,B,True,1,noncertified,0.8008358333333334,-51.87452583333334,2021
+647,Martins,VAGNER MARTINS,314.027.121-20,"-16°04'54.020""","-56°33'18.071""",gold,18.23,149850,centerline,low,medium,C,True,0,certified,-16.08167222222222,-56.55501972222222,2021
+648,MASSANGANA 01,Cooperativa de Produtores de Estanho do Brasil,26.021.163/0001-44,"-09°56'46.053""","-63°19'48.767""",tin_alluvium,0.5,24854,single_stage,,,,False,0,,-9.946125833333333,-63.33021305555556,
+649,MBR II NORTE,MINERACAO BOM RETIRO II EIRELI,68.870.385/0001-81,"-23°47'07.500""","-47°07'10.000""",sand,12.1,200000,single_stage,,,,False,0,,-23.78541666666667,-47.11944444444445,
+650,MBR II NORTE b,MINERACAO BOM RETIRO II EIRELI,68.870.385/0001-81,"-23°47'11.000""","-47°07'08.840""",sand,6.0,0,single_stage,,,,False,0,,-23.78638888888889,-47.11912222222222,
+651,MBR II SUL,MINERACAO BOM RETIRO II EIRELI,68.870.385/0001-81,"-23°47'17.500""","-47°07'17.400""",clay,14.04,128000,upstream,medium,high,B,True,0,certified,-23.78819444444445,-47.1215,periodically
+652,MD 01/2012,Mineração Descalvado Ltda,54.114.475/0001-38,"-21°57'20.600""","-47°37'05.800""",ind_sand,25.0,921154,centerline,low,low,E,True,0,certified,-21.95572222222222,-47.61827777777778,2021
+653,MD 05/2016,Mineração Descalvado Ltda,54.114.475/0001-38,"-21°57'24.480""","-47°37'18.695""",ind_sand,12.75,245447,single_stage,,,,False,0,,-21.9568,-47.62185972222223,
+654,Medrado 1,CIA DE FERRO LIGAS DA BAHIA FERBASA,15.141.799/0001-03,"-10°18'51.000""","-39°46'02.000""",chromite,5.0,185520,single_stage,,,,False,0,,-10.31416666666667,-39.76722222222222,
+655,Medrado 2,CIA DE FERRO LIGAS DA BAHIA FERBASA,15.141.799/0001-03,"-10°18'53.700""","-39°45'57.000""",chromite,11.2,0,centerline,,,,False,0,,-10.31491666666667,-39.76583333333333,
+656,Medrado 3,CIA DE FERRO LIGAS DA BAHIA FERBASA,15.141.799/0001-03,"-10°18'56.000""","-39°45'57.000""",chromite,8.4,94325,single_stage,,,,False,0,,-10.31555555555556,-39.76583333333333,
+657,Menezes I,VALE S.A.,33.592.510/0001-54,"-20°07'10.700""","-44°08'21.200""",iron,19.1,18093,single_stage,low,low,E,True,0,certified,-20.11963888888889,-44.13922222222222,2021
+658,Menezes II,VALE S.A.,33.592.510/0001-54,"-20°07'41.100""","-44°08'17.800""",iron,21.0,325556,single_stage,low,high,B,True,0,certified,-20.12808333333333,-44.13827777777778,2021
+659,MIGUEL BURNIER - DIQUE B1,MINERACAO RODEIO DE BAIXO LTDA Filial: MINERACAO RODEIO DE BAIXO LTDA,26.124.547/0001-92,"-20°27'23.200""","-43°44'59.000""",dolomite,3.0,10650,unknown,,,,False,0,,-20.45644444444444,-43.74972222222222,
+660,MIGUEL BURNIER - DIQUE B2,MINERACAO RODEIO DE BAIXO LTDA Filial: MINERACAO RODEIO DE BAIXO LTDA,26.124.547/0001-92,"-20°27'23.200""","-43°44'59.900""",dolomite,2.0,17950,unknown,,,,False,0,,-20.45644444444444,-43.74997222222223,
+661,MIGUEL BURNIER - DIQUE B3,MINERACAO RODEIO DE BAIXO LTDA Filial: MINERACAO RODEIO DE BAIXO LTDA,26.124.547/0001-92,"-20°27'24.400""","-43°45'00.200""",dolomite,3.0,2850,unknown,,,,False,0,,-20.45677777777778,-43.75005555555556,
+662,MINERAÇÃO VALE DOURADO,Marcir Norberto Weber,15.947.559/0001-09,"-14°51'02.100""","-56°34'25.400""",gold_alluvium,1.0,2,unknown,,,,False,0,,-14.85058333333333,-56.57372222222222,
+663,Miraí,COMPANHIA BRASILEIRA DE ALUMINIO,61.409.892/0001-73,"-21°03'43.757""","-42°33'49.546""",bauxite,52.0,31598100,downstream,low,high,B,True,0,certified,-21.06215472222222,-42.56376277777778,2021
+664,MNP-01,Mineração Nova Petrópolis Ltda.,16.785.060/0001-05,"-29°20'48.000""","-51°11'30.000""",sand,5.0,4000,single_stage,,,,False,0,,-29.34666666666666,-51.19166666666666,
+665,Moça Bonita,Valdemir Carlos de Souza,326.183.101-44,"-16°11'25.864""","-56°24'47.168""",gold,8.0,238605,downstream,,,,False,0,,-16.19051777777778,-56.41310222222222,
+666,Modulo 3,NEXA RECURSOS MINERAIS S A,42.416.651/0001-07,"-17°57'54.000""","-46°50'39.000""",clay,6.0,96000,single_stage,,,,False,0,,-17.965,-46.84416666666667,
+667,Moita,Mineração Serras do Oeste Eireli,28.917.748/0001-72,"-19°56'05.733""","-43°38'56.601""",gold,19.0,303793,centerline,low,high,B,True,0,certified,-19.93492583333333,-43.64905583333334,2021
+668,Monjolo,VALE S.A.,33.592.510/0001-54,"-19°57'49.103""","-43°14'16.323""",iron,23.5,914065,downstream,low,high,B,True,0,certified,-19.96363972222222,-43.2378675,periodically
+669,Mosquito,VALE S.A.,33.592.510/0001-54,"-20°06'19.708""","-43°24'15.056""",iron,18.4,1257296,downstream,low,high,B,True,0,certified,-20.10547444444445,-43.40418222222222,periodically
+670,Neta,Diego Sérgio de oliveira Almeida ,003.498.841-61,"-15°56'15.593""","-56°17'30.494""",gold,9.0,211302,centerline,low,medium,C,True,0,,-15.93766472222222,-56.29180388888889,
+671,Norte/Laranjeiras,VALE S.A.,33.592.510/0001-54,"-19°50'54.032""","-43°25'18.194""",iron,58.8,32310000,single_stage,high,high,A,True,2,noncertified,-19.84834222222222,-43.42172055555555,2021
+672,North Mill Pond,MINA TUCANO LTDA. ,05.642.709/0001-04,"00°51'80.200""","-51°53'45.350""",gold,27.0,14820000,downstream,low,high,B,True,0,certified,0.8722777777777777,-51.89593055555555,emergency
+673,Nova Barragem de Santarém,SAMARCO MINERACAO S A,16.628.281/0001-61,"-20°13'50.314""","-43°26'29.842""",itarbirite,48.0,6940000,single_stage,low,high,B,True,0,certified,-20.23064277777778,-43.44162277777777,2021
+674,Novo Dique dos Macacos,SAMARCO MINERACAO S A,16.628.281/0001-61,"-20°11'35.310""","-43°30'30.600""",,18.05,73516,single_stage,low,medium,C,True,0,certified,-20.19314166666667,-43.5085,2021
+675,OREGON,Sérgio de França,302.157.229-49,"-16°16'27.700""","-56°38'14.100""",sand,3.0,810000,downstream,,,,False,0,,-16.27436111111111,-56.63725,
+676,OURINHOS I,João Gimenes Rodrigues,510.957.858-34,"-16°07'11.800""","-56°35'15.800""",clay,14.9,1300000,downstream,,,,False,0,,-16.11994444444445,-56.58772222222223,
+677,OURO BRANCO OESTE,MINERAÇÃO OURO BRANCO SALTO DE PIRAPORA LTDA ME,72.911.985/0001-18,"-23°39'43.200""","-47°39'59.900""",clay,3.0,588000,single_stage,medium,high,B,True,0,certified,-23.662,-47.66663888888889,2021
+678,OURO FINO,Lysander Lima de França,055.334.409-92,"-16°18'45.010""","-56°39'08.230""",sand,20.0,867000,downstream,medium,medium,C,True,0,certified,-16.31250277777778,-56.65228611111111,periodically
+679,P1-1,Companhia Riograndense de Mineração,92.724.145/0001-53,"-30°07'51.700""","-52°03'07.000""",coal,3.0,17250,single_stage,medium,medium,C,True,1,certified,-30.13102777777778,-52.05194444444444,emergency
+680,P6C01,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'41.556""","-39°52'12.241""",copper,5.0,115000,centerline,,,,False,0,,-9.878210000000001,-39.87006694444445,
+681,P6C02,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'44.626""","-39°52'17.061""",copper,5.0,115000,centerline,,,,False,0,,-9.879062777777778,-39.87140583333333,
+682,P6C4,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'36.998""","-39°52'12.550""",copper,4.0,55218,centerline,,,,False,0,,-9.876943888888889,-39.87015277777778,
+683,Paracatu,VALE S.A.,33.592.510/0001-54,"-20°07'06.227""","-43°24'52.458""",iron,23.0,13399,single_stage,high,medium,B,True,1,noncertified,-20.11839638888889,-43.41457166666667,2021
+684,Patrimônio,VALE S.A.,33.592.510/0001-54,"-19°57'34.010""","-43°35'14.011""",iron,8.0,7185,single_stage,,,,False,0,,-19.95944722222222,-43.58722527777778,
+685,Pau D'Arco,Mineração Taboca S.a.,34.019.992/0001-10,"-00°45'23.673""","-60°05'16.904""",tin,18.0,52800,single_stage,low,medium,C,True,0,certified,0.7565758333333333,-60.08802888888889,2021
+686,PDE 3,VALE S.A.,33.592.510/0001-54,"-19°51'50.917""","-43°21'21.130""",iron,34.5,43000,single_stage,low,medium,C,True,0,certified,-19.86414361111111,-43.35586944444444,2021
+687,PDE Engano,VALE S.A.,33.592.510/0001-54,"-20°20'17.000""","-43°25'28.600""",iron,7.0,12912,single_stage,,,,False,0,,-20.33805555555556,-43.42461111111111,
+688,PDE Fosforoso,VALE S.A.,33.592.510/0001-54,"-20°09'33.507""","-43°28'09.519""",iron,21.0,20000,single_stage,low,low,E,True,0,certified,-20.1593075,-43.46931083333334,2021
+689,PDE Lagoa Seca,VALE S.A.,33.592.510/0001-54,"-20°20'56.300""","-43°24'47.100""",iron,10.5,10626,downstream,,,,False,0,,-20.34897222222222,-43.41308333333333,
+690,PDE Permanente I,VALE S.A.,33.592.510/0001-54,"-20°11'04.315""","-43°26'15.409""",iron,8.6,62149,single_stage,low,high,B,True,0,certified,-20.18453194444444,-43.43761361111111,2021
+691,PDE Permanente II - Fase I,VALE S.A.,33.592.510/0001-54,"-20°12'26.903""","-43°27'15.839""",iron,7.0,15000,single_stage,low,medium,C,True,0,certified,-20.20747305555555,-43.45439972222223,2021
+692,PDE02,VALE S.A.,33.592.510/0001-54,"-06°06'27.025""","-50°19'04.929""",,0.0,0,unknown,,,,False,0,,-6.107506944444444,-50.31803583333334,
+693,Peneirinha,VALE S.A.,33.592.510/0001-54,"-20°06'38.215""","-43°57'49.011""",iron,40.0,431595,downstream,high,medium,B,True,1,noncertified,-20.11061527777778,-43.96361416666667,2021
+694,Pera Jusante,VALE S.A.,33.592.510/0001-54,"-06°02'48.556""","-50°08'34.509""",iron,46.0,4402573,single_stage,low,high,B,True,0,certified,-6.046821111111111,-50.14291916666667,2021
+695,Pera Montante,VALE S.A.,33.592.510/0001-54,"-06°03'24.673""","-50°08'37.608""",iron,30.0,641566,single_stage,low,low,E,True,0,certified,-6.056853611111111,-50.14378,2021
+696,Piabas,VALE S.A.,33.592.510/0001-54,"-19°33'48.506""","-43°12'22.618""",iron,29.0,1482407,downstream,low,high,B,True,0,certified,-19.56347388888889,-43.20628277777778,2021
+697,Pilha 01,AVG EMPREENDIMENTOS MINERARIOS S.A.,16.565.897/0001-30,"-19°49'12.170""","-43°42'31.990""",iron,95.0,1597527,upstream,medium,high,B,True,0,certified,-19.82004722222222,-43.70888611111111,2021
+698,Pilha 01 - P1C1,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'10.170""","-39°51'44.268""",copper,6.0,100566,centerline,,,,False,0,,-9.852825,-39.86229666666667,
+699,PILHA 01 - P1C14,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'25.092""","-39°51'56.548""",copper,4.0,10909,centerline,,,,False,0,,-9.85697,-39.86570777777778,
+700,PILHA 01 - P1C15,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'11.362""","-39°52'00.047""",copper,4.0,0,centerline,,,,False,0,,-9.85315611111111,-39.86667972222222,
+701,PILHA 01 - P1C19,MINERACAO CARAIBA S/A,42.509.257/0001-13,"00°00'00.000""","00°00'00.000""",,0.0,0,unknown,,,,False,0,,0.0,0.0,
+702,Pilha 01 - P1C3,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'15.285""","-39°51'59.529""",,10.0,164976,downstream,,,,False,0,,-9.854245833333334,-39.86653583333334,
+703,Pilha 01 - P1C4,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'19.659""","-39°52'02.121""",copper,13.0,85786,downstream,,,,False,0,,-9.855460833333334,-39.86725583333333,
+704,Pilha 01 - P1C5,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'07.668""","-39°51'48.038""",copper,14.0,111960,downstream,,,,False,0,,-9.852129999999999,-39.86334388888889,
+705,Pilha 01 - P1C6,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'11.005""","-39°51'53.799""",copper,7.0,30460,downstream,,,,False,0,,-9.853056944444445,-39.86494416666667,
+706,Pilha 01 - P1C7,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'19.270""","-39°51'54.399""",copper,12.8,10277,downstream,,,,False,0,,-9.855352777777778,-39.86511083333333,
+707,Pilha 01 - P1C8,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'26.408""","-39°51'48.095""",copper,14.5,71698,downstream,,,,False,0,,-9.857335555555554,-39.86335972222222,
+708,Pilha 01 - P1C9,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'20.905""","-39°51'45.971""",copper,7.0,246386,centerline,,,,False,0,,-9.855806944444444,-39.86276972222223,
+709,PILHA 01 - PIC16,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'04.554""","-39°51'53.992""",copper,4.0,1600,downstream,,,,False,0,,-9.851265,-39.86499777777778,
+710,PILHA 01 - PIC17,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'05.515""","-39°51'50.083""",copper,2.0,2600,centerline,,,,False,0,,-9.851531944444444,-39.86391194444445,
+711,PILHA 01 - PIC18,MINERACAO CARAIBA S/A,42.509.257/0001-13,"00°00'00.000""","00°00'00.000""",,0.0,0,unknown,,,,False,0,,0.0,0.0,
+712,PILHA 01 - PIC1A,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'11.988""","-39°51'41.684""",copper,14.0,198584,centerline,,,,False,0,,-9.85333,-39.86157888888889,
+713,Pilha 01 P1C2,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'19.593""","-39°51'50.354""",copper,9.5,102246,downstream,,,,False,0,,-9.855442499999999,-39.86398722222222,
+714,Pilha 02,AVG EMPREENDIMENTOS MINERARIOS S.A.,16.565.897/0001-30,"-19°49'13.470""","-43°41'39.320""",iron,40.0,863785,upstream,medium,high,B,True,0,certified,-19.82040833333333,-43.69425555555555,2021
+715,PILHA 05 - P5C07,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'52.640""","-39°52'01.811""",copper,4.0,19221,centerline,,,,False,0,,-9.88128888888889,-39.86716972222222,
+716,PILHA 05 - P5C08,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'39.158""","-39°52'04.348""",copper,4.0,45907,centerline,,,,False,0,,-9.877543888888889,-39.86787444444445,
+717,PILHA 05 - P5C09,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'47.508""","-39°51'58.329""",copper,5.0,20000,centerline,,,,False,0,,-9.879863333333335,-39.8662025,
+718,Pilha 05 - P5C1,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'46.158""","-39°51'54.612""",copper,5.0,172053,downstream,,,,False,0,,-9.879488333333335,-39.86517,
+719,Pilha 05 - P5C2,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'36.688""","-39°52'05.408""",copper,4.0,155498,downstream,,,,False,0,,-9.876857777777778,-39.86816888888889,
+720,Pilha 05 - P5C3,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'48.573""","-39°51'51.266""",copper,5.0,141410,downstream,,,,False,0,,-9.880159166666667,-39.86424055555555,
+721,Pilha 05 - P5C4,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'30.737""","-39°52'08.101""",copper,14.0,7052,downstream,,,,False,0,,-9.875204722222223,-39.86891694444444,
+722,Pilha 05 - P5C5,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'43.946""","-39°52'07.752""",copper,5.0,0,downstream,,,,False,0,,-9.87887388888889,-39.86882,
+723,Pilha 05 - P5XC2,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'32.341""","-39°51'54.787""",copper,5.0,79459,downstream,,,,False,0,,-9.875650277777778,-39.86521861111111,
+724,Pilha 05 - XC1,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'37.962""","-39°51'52.340""",copper,5.0,80000,downstream,,,,False,0,,-9.877211666666668,-39.86453888888889,
+725,PILHA 06 - P6C3,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'41.710""","-39°52'20.319""",copper,5.0,242428,centerline,,,,False,0,,-9.878252777777778,-39.87231083333334,
+726,PILHA 06 - P6C5,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'51.023""","-39°52'23.458""",copper,5.0,40992,downstream,,,,False,0,,-9.880839722222223,-39.87318277777778,
+727,Pilha 07 - P7C2,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'32.228""","-39°52'21.723""",copper,4.0,4500,downstream,,,,False,0,,-9.875618888888889,-39.87270083333333,
+728,PILHA01-C10,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'09.377""","-39°51'57.949""",copper,8.0,52330,centerline,,,,False,0,,-9.852604722222221,-39.86609694444444,
+729,PILHA01-C11,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'12.571""","-39°51'49.114""",copper,5.0,86563,centerline,,,,False,0,,-9.853491944444444,-39.86364277777778,
+730,PILHA01-C12,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'13.533""","-39°51'41.922""",copper,5.0,153518,centerline,,,,False,0,,-9.853759166666666,-39.861645,
+731,PILHA01-C13,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'22.936""","-39°51'53.774""",copper,5.0,14275,centerline,,,,False,0,,-9.85637111111111,-39.86493722222222,
+732,PILHA05-C06,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'42.222""","-39°51'47.635""",copper,6.0,151027,centerline,,,,False,0,,-9.878395000000001,-39.86323194444444,
+733,PILHA05-XC03,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'29.629""","-39°51'53.877""",copper,4.0,70822,centerline,,,,False,0,,-9.874896944444444,-39.86496583333334,
+734,PILHA07-C1,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'33.556""","-39°52'17.827""",copper,4.0,0,centerline,,,,False,0,,-9.875987777777778,-39.87161861111111,
+735,PILHASUL - PCS1,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'25.841""","-39°52'15.247""",copper,6.0,12654,centerline,,,,False,0,,-9.873844722222223,-39.87090194444445,
+736,PILHASUL - PCS2,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'22.213""","-39°52'17.975""",copper,4.0,0,centerline,,,,False,0,,-9.872836944444446,-39.87165972222223,
+737,PILHASUL - PCS3,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°52'22.580""","-39°52'15.711""",copper,3.0,0,centerline,,,,False,0,,-9.87293888888889,-39.87103083333334,
+738,Pinheirinho,Mineração Nossa Senhora do Carmo Ltda,83.647.750/0001-87,"-24°44'52.790""","-49°11'40.930""",fluorite,13.5,672408,single_stage,medium,medium,C,True,0,certified,-24.74799722222222,-49.19470277777778,2021
+739,PIRAPORÃO 138 II,Uilson Romanha & Cia Ltda,00.934.199/0001-25,"-23°37'42.100""","-47°37'19.200""",clay,4.0,28000,single_stage,,,,False,0,,-23.62836111111111,-47.622,
+740,PIRAPORÃO 138 III,Uilson Romanha & Cia Ltda,00.934.199/0001-25,"-23°37'53.600""","-47°37'18.500""",clay,8.0,115200,single_stage,,,,False,0,,-23.63155555555556,-47.62180555555555,
+741,PIT-01,ESTANHO DE RONDONIA S/A,00.684.808/0001-35,"-09°12'57.800""","-63°04'33.600""",tin_alluvium,14.3,6533523,single_stage,low,high,B,True,0,certified,-9.216055555555554,-63.076,periodically
+742,Piteiras,Piteiras Mineração Ltda.,03.369.498/0001-52,"-19°41'32.500""","-43°06'46.300""",shale,2.0,2000,unknown,,,,False,0,,-19.69236111111111,-43.11286111111112,
+743,Planta,PROMETALICA MINERACAO EIRELI,03.564.155/0001-49,"-15°23'46.300""","-58°08'42.900""",Zn,20.0,230000,single_stage,medium,high,B,True,0,certified,-15.39619444444444,-58.14525,2021
+744,PN - 1,VALE S.A. Filial: Vale Mina Sossego,33.592.510/0009-01,"-06°24'20.600""","-50°03'25.600""",sandy_clay,5.0,100000,single_stage,,,,False,0,,-6.405722222222223,-50.05711111111111,
+745,PN - 3,VALE S.A. Filial: Vale Mina Sossego,33.592.510/0009-01,"-06°24'09.341""","-50°04'31.472""",sandy_clay,6.5,1120,single_stage,,,,False,0,,-6.402594722222222,-50.07540888888889,
+746,PN - 4,VALE S.A. Filial: Vale Mina Sossego,33.592.510/0009-01,"-06°24'41.461""","-50°01'59.710""",sandy_clay,5.0,7000,single_stage,,,,False,0,,-6.411516944444445,-50.03325277777778,
+747,PN - 6,VALE S.A. Filial: Vale Mina Sossego,33.592.510/0009-01,"-06°24'21.578""","-50°05'03.123""",sandy_clay,5.5,50000,single_stage,,,,False,0,,-6.405993888888889,-50.08420083333333,
+748,PN -5,VALE S.A. Filial: Vale Mina Sossego,33.592.510/0009-01,"-06°25'16.985""","-50°02'09.927""",sandy_clay,4.0,6000,single_stage,,,,False,0,,-6.421384722222222,-50.03609083333333,
+749,Pocilga,VALE S.A.,33.592.510/0001-54,"-20°11'06.300""","-43°36'20.700""",iron,9.0,38558,single_stage,,,,False,0,,-20.18508333333333,-43.60575,
+750,Pond - PDE Sul,MOSAIC FERTILIZANTES P&K LTDA.,33.931.486/0014-55,"-18°59'12.152""","-46°47'58.919""",sandy_clay,8.46,0,single_stage,,,,False,0,,-18.98670888888889,-46.79969972222222,
+751,POND 1 - BARRAGEM DE LIXIVIAÇÃO,NX GOLD S.A. Filial: NX GOLD SA,18.501.410/0002-62,"-14°38'26.700""","-52°29'49.000""",gold,13.12,440000,single_stage,low,high,B,True,0,certified,-14.64075,-52.49694444444444,2021
+752,POND 2 - BARRAGEM DE FLOTAÇÃO,NX GOLD S.A. Filial: NX GOLD SA,18.501.410/0002-62,"-14°38'21.098""","-52°30'04.795""",gold,16.24,210000,single_stage,low,high,B,True,0,certified,-14.63919388888889,-52.50133194444444,2021
+753,POND 3 - BARRAGEM DE FLOTAÇÃO,NX GOLD S.A. Filial: NX GOLD SA,18.501.410/0002-62,"-14°38'25.076""","-52°30'03.686""",gold,13.58,150000,single_stage,low,high,B,True,0,certified,-14.64029888888889,-52.50102388888889,2021
+754,Pond de Emergência,ANGLO AMERICAN MINERIO DE FERRO BRASIL S/A,02.359.572/0004-30,"-21°49'52.000""","-41°01'14.000""",iron,4.5,333438,single_stage,,,,False,0,,-21.83111111111111,-41.02055555555555,
+755,PONDES DE REJEITOS DO IGARAPÉ BAHIA,VALE S.A. Filial: Vale Minas Gerais,33.592.510/0217-47,"-06°03'19.800""","-50°34'29.610""",gold,25.0,12000000,upstream,low,medium,C,True,0,certified,-6.055499999999999,-50.57489166666667,emergency
+756,Pontal,VALE S.A.,33.592.510/0001-54,"-19°37'31.668""","-43°10'58.597""",iron,69.0,209714145,downstream,high,high,A,True,1,noncertified,-19.62546333333333,-43.18294361111111,2021
+757,Porteirinha,VALE S.A.,33.592.510/0001-54,"-19°57'33.180""","-43°14'20.000""",iron,31.2,2457508,downstream,low,high,B,True,0,certified,-19.95921666666667,-43.23888888888889,2021
+758,PORTO-4A,Itaquareia Ind. Extr. Minérios Ltda,55.023.386/0001-49,"-23°33'46.100""","-46°16'04.500""",clay,8.0,933900,single_stage,,,,False,0,,-23.56280555555556,-46.26791666666666,
+759,PORTO-4B,Itaquareia Ind. Extr. Minérios Ltda,55.023.386/0001-49,"-23°33'56.300""","-46°16'24.100""",clay,7.0,345000,single_stage,,,,False,0,,-23.56563888888889,-46.27336111111111,
+760,PORTO-6B,MINERADORA PONTE ALTA LTDA,00.478.237/0001-82,"-23°23'08.800""","-46°11'39.200""",clay,12.0,290000,single_stage,,,,False,0,,-23.38577777777778,-46.19422222222222,
+761,Prata,VALE S.A.,33.592.510/0001-54,"-20°24'42.200""","-43°51'55.000""",iron,9.01,20000,single_stage,,,,False,0,,-20.41172222222222,-43.86527777777778,
+762,Principal,VALE S.A.,33.592.510/0001-54,"-20°10'24.600""","-43°36'55.100""",iron,25.8,2386607,single_stage,low,high,B,True,0,certified,-20.1735,-43.61530555555556,2021
+763,PS -1,VALE S.A. Filial: Vale Mina Sossego,33.592.510/0009-01,"-06°26'01.900""","-50°02'54.100""",sandy_clay,7.0,220000,single_stage,,,,False,0,,-6.433861111111112,-50.04836111111111,
+764,Queimada ,METALMIG MINERACAO INDUSTRIA E COMERCIO S/A,34.456.038/0001-95,"-09°25'25.900""","-63°02'52.400""",tin_alluvium,5.0,60000,single_stage,,,,False,0,,-9.42386111111111,-63.04788888888888,
+765,QUEIMADA02,METALMIG MINERACAO INDUSTRIA E COMERCIO S/A,34.456.038/0001-95,"-09°27'51.000""","-63°04'28.000""",tin_alluvium,6.0,146814,single_stage,,,,False,0,,-9.464166666666666,-63.07444444444445,
+766,QUEIMADA03,METALMIG MINERACAO INDUSTRIA E COMERCIO S/A,34.456.038/0001-95,"-09°27'41.000""","-63°04'32.000""",,5.0,135215,single_stage,,,,False,0,,-9.461388888888887,-63.07555555555556,
+767,Quevedo 1,EXTRAÇAO E COMERCIO DE AREIA QUEVEDO & SILVA LTDA,02.745.436/0001-35,"-23°21'17.300""","-47°43'48.900""",sandy_clay,8.0,96500,unknown,,,,False,0,,-23.35480555555556,-47.73025000000001,
+768,Quevedo 2,EXTRAÇAO E COMERCIO DE AREIA QUEVEDO & SILVA LTDA,02.745.436/0001-35,"-23°21'21.300""","-47°43'42.400""",sandy_clay,7.0,194676,unknown,,,,False,0,,-23.35591666666667,-47.72844444444445,
+769,Quinzinho,VALE S.A.,33.592.510/0001-54,"-19°36'26.409""","-43°15'26.118""",iron,16.0,219616,single_stage,low,high,B,True,0,certified,-19.60733583333333,-43.257255,2021
+770,QUIXABA USINA,"ROZEN MINERADORA, CONSULTORIA E ASSESSORIA EM GESTAO EMPRESARIAL LTDA",10.857.721/0001-76,"-06°48'26.900""","-37°00'28.800""",quartz_sand,3.0,450,unknown,,,,False,0,,-6.807472222222222,-37.008,
+771,R22,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'41.800""","-39°52'23.100""",copper,0.0,255131,unknown,,,,False,0,,-9.861611111111111,-39.87308333333333,
+772,R75,MINERACAO CARAIBA S/A,42.509.257/0001-13,"-09°51'10.300""","-39°52'05.300""",copper,0.0,0,unknown,,,,False,0,,-9.85286111111111,-39.86813888888889,
+773,Rabo de Bica,PEDRO CERQUEIRA CALDAS,137.773.781-00,"-15°54'19.508""","-56°12'11.095""",gold_alluvium,8.0,24000,single_stage,,,,False,0,,-15.90541888888889,-56.20308194444445,
+774,Rancho Casca,Nacional de Grafite Ltda,21.228.861/0001-00,"-15°55'07.900""","-41°02'20.600""",shale,50.0,17500000,single_stage,low,high,B,True,0,certified,-15.91886111111111,-41.03905555555556,2021
+775,RAPAUNHA,Anglogold Ashanti Córrego do Sítio Mineração S.a.,18.565.382/0001-66,"-19°57'54.000""","-43°50'29.000""",gold,50.5,8735949,downstream,low,high,B,True,0,certified,-19.965,-43.84138888888889,periodically
+776,RECON,MINERACAO SAO FRANCISCO DE ASSIS LTDA,42.323.964/0001-10,"-06°49'53.500""","-51°59'27.600""",sand,3.0,0,unknown,,,,False,0,,-6.831527777777778,-51.991,
+777,Rejeito,Vantage Brasil Mineração Ltda.,08.222.734/0001-27,"-11°18'48.229""","-59°05'10.553""",gem_rock,4.0,424000,single_stage,,,,False,0,,-11.31339694444445,-59.08626472222223,
+778,REJEITO USINA,ORO AMAPA MINERACAO,06.170.253/0001-90,"02°17'09.000""","-51°38'00.000""",gold,5.0,82000,unknown,,,,False,0,,2.285833333333333,-51.63333333333333,
+779,RESERVATÓRIO 01,Farias e Rodrigues Ltda Me,11.239.511/0001-87,"-12°57'09.000""","-60°24'38.700""",sandy_clay,2.0,1296,unknown,,,,False,0,,-12.9525,-60.41075,
+780,RESERVATÓRIO 01,MULLER & CIA LTDA,04.800.249/0001-32,"-12°53'50.800""","-60°25'21.300""",sandy_clay,2.0,17848,unknown,,,,False,0,,-12.89744444444444,-60.42258333333333,
+781,RESERVATÓRIO 01,Norte Sul TerraplenagemComercio EIRELIMe,17.133.940/0001-51,"-12°55'57.300""","-60°20'58.300""",sandy_clay,3.0,124125,unknown,,,,False,0,,-12.93258333333333,-60.34952777777778,
+782,RESERVATÓRIO 01,PORTO COMERCIO DE AREIA LTDA,08.491.915/0001-59,"-12°57'35.100""","-60°17'15.500""",sandy_clay,2.0,16000,unknown,,,,False,0,,-12.95975,-60.28763888888889,
+783,Reservatório 01,WHITE SOLDER METALURGIA E MINERAÇÃO LTDA Filial: White Solder Metalurgia e Mineração - Sol Nascente,04.107.120/0002-24,"-09°37'20.200""","-63°03'39.100""",gravely_sand,6.0,45500,unknown,,,,False,0,,-9.622277777777779,-63.06086111111111,
+784,RESERVATÓRIO 02,MULLER & CIA LTDA,04.800.249/0001-32,"-12°48'15.200""","-60°21'54.400""",sandy_clay,2.0,30800,unknown,,,,False,0,,-12.80422222222222,-60.36511111111111,
+785,RIO BRANCO,Minerais & Metais Comércio e Indústria Ltda Filial: MINERAIS & METAIS COMERCIO E INDUSTRIA LTDA,02.587.633/0007-69,"-09°46'14.500""","-62°44'26.300""",sand,4.0,600000,unknown,,,,False,0,,-9.770694444444445,-62.74063888888889,
+786,Rio do Peixe,VALE S.A.,33.592.510/0001-54,"-19°40'27.200""","-43°14'11.100""",iron,31.0,16885254,single_stage,low,high,B,True,0,certified,-19.67422222222222,-43.23641666666667,2021
+787,Rio Santa Cruz,Cooperativa de Garimpeiros de Santa Cruz Ltda,34.726.547/0001-90,"-09°45'57.100""","-63°34'06.900""",tin_alluvium,10.0,3755613,single_stage,medium,medium,C,True,0,certified,-9.76586111111111,-63.56858333333334,2021
+788,RODUÍ II,Adão Afonso Roduí,469.372.509-91,"-16°14'20.620""","-56°39'09.370""",sand,4.0,140000,downstream,,,,False,0,,-16.23906111111111,-56.65260277777778,
+789,RONDON,Roberto Nunes Rondon,352.571.131-04,"-16°17'32.640""","-56°39'02.720""",sand,25.0,490000,downstream,low,medium,C,True,0,certified,-16.2924,-56.65075555555556,2021
+790,RP1,Mineração Paragominas S.A.,12.094.570/0004-10,"-03°15'53.440""","-47°43'16.200""",bauxite,13.5,5855484,downstream,low,high,B,True,0,certified,-3.264844444444444,-47.72116666666667,2021
+791,SAMACA,Mineração Vila Nova Ltda,02.008.461/0001-36,"00°21'05.800""","-51°50'16.300""",iron,9.0,700000,unknown,,,,False,0,,0.3516111111111111,-51.83786111111112,
+792,SANDRO GOMES,Valdinei Mauro de Souza,568.360.581-49,"-16°17'42.550""","-56°43'32.220""",sand,32.0,2863190,downstream,medium,low,D,True,0,certified,-16.29515277777778,-56.72561666666667,2021
+793,SANGUINETE,Mineração Sanguinete Ltda,20.762.035/0001-75,"-18°00'32.600""","-43°46'08.100""",sand,3.0,15000,unknown,,,,False,0,,-18.00905555555556,-43.76891666666666,
+794,Santa Bárbara,VALLOUREC TUBOS DO BRASIL LTDA.,17.170.150/0001-46,"-20°09'42.700""","-44°00'22.400""",gravely_sand,36.0,711922,downstream,high,high,A,True,1,noncertified,-20.16186111111111,-44.00622222222222,periodically
+795,Santa Helena,ALTA FLORESTA GOLD MINERAÇÃO LTDA,17.580.707/0001-17,"-10°48'08.950""","-55°11'10.160""",,0.0,0,unknown,,,,False,0,,-10.80248611111111,-55.18615555555555,
+796,Santa Líbera,Cooperativa de Extração de Carvão Mineral dos Trabalhadores de Criciúma,80.967.540/0001-88,"-28°44'18.600""","-49°25'33.200""",coal,2.2,3500,unknown,,,,False,0,,-28.7385,-49.42588888888888,
+797,SANTA LUZIA,Mineração Santa Luzia Limitada,19.791.590/0001-46,"-11°35'20.200""","-47°52'59.420""",clay,5.0,600000,single_stage,,,,False,0,,-11.58894444444445,-47.88317222222222,
+798,Santa Maria,José Maria Otávio Martins Duarte,869.507.031-04,"-15°38'52.670""","-56°22'52.820""",gold,8.0,293202,centerline,high,high,A,True,0,certified,-15.64796388888889,-56.38133888888889,2021
+799,SANTA TERESA,Novelis do Brasil Ltda,60.561.800/0001-03,"-21°28'01.900""","-42°53'09.500""",bauxite,11.33,200000,unknown,,,,False,0,,-21.46719444444444,-42.88597222222222,
+800,Santa Tereza,Jeová Barbosa de Morais,702.178.581-04,"-15°52'21.100""","-56°10'19.900""",gold_alluvium,19.0,671803,downstream,medium,medium,C,True,0,certified,-15.87252777777778,-56.17219444444444,2021
+801,Santa Tereza II,Jeová Barbosa de Morais,702.178.581-04,"-15°52'28.649""","-56°09'59.637""",gold,5.0,150000,downstream,medium,medium,C,True,0,certified,-15.87462472222222,-56.16656583333333,2021
+802,Santana,VALE S.A.,33.592.510/0001-54,"-19°33'18.339""","-43°09'39.105""",iron,52.4,11456940,downstream,high,high,A,True,1,noncertified,-19.55509416666667,-43.1608625,2021
+803,SANTO ANTÔNIO,Niki Mineração Comércio e Exportação Ltda,08.667.139/0001-03,"-19°32'43.650""","-43°01'51.370""",sandy_clay,13.0,150000,single_stage,,,,False,0,,-19.54545833333334,-43.03093611111111,
+804,Sedimentação de finos,EXTRAÇÃO E COMÉRCIO DE AREIA BOFETE LTDA,69.018.919/0001-09,"-23°07'13.700""","-48°13'41.000""",sand,10.0,0,single_stage,,,,False,0,,-23.12047222222222,-48.22805555555556,
+805,SERRA,Cooperativa de Extração de Metais e Pedras Preciosas de Pontes e Lacerda MT,21.046.611/0001-40,"-14°41'39.584""","-59°43'44.833""",,0.0,0,unknown,,,,False,0,,-14.69432888888889,-59.72912027777778,
+806,Sítio Horii,Empresa de Mineração Horii Ltda.,52.573.227/0001-20,"-23°37'15.900""","-46°14'51.300""",kaolin,13.4,117462,unknown,,,,False,0,,-23.62108333333333,-46.24758333333333,
+807,SOL NASCENTE,Cooperativa de Produtores de Estanho do Brasil,26.021.163/0001-44,"-09°37'10.790""","-63°03'58.220""",tin_alluvium,4.2,2252,single_stage,,,,False,0,,-9.619663888888889,-63.06617222222222,
+808,SP1,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°40'58.500""","-56°25'05.400""",clay,15.0,2360000,single_stage,low,medium,C,True,0,certified,-1.682916666666667,-56.41816666666666,2021
+809,SP10,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°41'00.600""","-56°27'09.600""",clay,16.0,7635622,single_stage,low,high,B,True,0,certified,-1.6835,-56.45266666666667,2021
+810,SP11,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°40'57.500""","-56°27'47.800""",clay,16.0,6973841,single_stage,low,medium,C,True,0,certified,-1.682638888888889,-56.46327777777778,2021
+811,SP12,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°41'14.300""","-56°28'05.700""",clay,15.0,5160000,single_stage,low,medium,C,True,0,certified,-1.687305555555556,-56.46825,2021
+812,SP13,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°41'34.600""","-56°28'02.300""",clay,15.0,2107976,single_stage,low,medium,C,True,0,certified,-1.692944444444444,-56.46730555555555,2021
+813,SP14,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°41'55.500""","-56°28'13.000""",clay,15.0,3183475,single_stage,low,medium,C,True,0,certified,-1.69875,-56.47027777777778,2021
+814,SP15,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°41'59.600""","-56°28'31.500""",clay,20.0,3888543,single_stage,low,medium,C,True,0,certified,-1.699888888888889,-56.47541666666667,2021
+815,SP16,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°41'38.000""","-56°28'34.000""",clay,20.0,3488192,single_stage,low,medium,C,True,0,certified,-1.693888888888889,-56.47611111111112,2021
+816,SP19,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°40'51.144""","-56°28'08.144""",clay,22.3,1353025,downstream,low,medium,C,True,0,certified,-1.680873333333333,-56.46892888888889,2021
+817,SP2_3,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°41'04.900""","-56°24'13.300""",clay,20.0,6358035,upstream,low,medium,C,True,0,certified,-1.684694444444444,-56.40369444444444,2021
+818,SP25,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°40'16.390""","-56°29'27.710""",,0.0,0,unknown,,,,False,0,,-1.671219444444444,-56.49103055555555,
+819,SP4 Norte,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°41'05.300""","-56°25'37.400""",clay,19.0,6955000,centerline,low,high,B,True,0,certified,-1.684805555555556,-56.42705555555555,2021
+820,SP4 Sul,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°41'26.200""","-56°25'37.100""",clay,19.0,5570000,centerline,low,medium,C,True,0,certified,-1.690611111111111,-56.42697222222222,2021
+821,SP5 Leste,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°40'57.700""","-56°26'07.500""",clay,19.0,6430000,centerline,low,medium,C,True,0,certified,-1.682694444444444,-56.43541666666666,2021
+822,SP5 Oeste,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°40'58.200""","-56°26'40.400""",clay,19.0,8360000,centerline,low,high,B,True,0,certified,-1.682833333333333,-56.44455555555555,2021
+823,SP6,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°40'34.800""","-56°25'27.400""",clay,16.4,360995,upstream,low,medium,C,True,0,certified,-1.676333333333333,-56.42427777777777,2021
+824,SP7A,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°40'17.600""","-56°26'03.100""",clay,19.0,3760000,centerline,low,medium,C,True,0,certified,-1.671555555555555,-56.43419444444444,2021
+825,SP7B,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°40'11.000""","-56°26'24.300""",clay,16.0,6150000,centerline,low,medium,C,True,0,certified,-1.669722222222222,-56.44008333333333,2021
+826,SP7C,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°40'10.900""","-56°26'41.600""",clay,16.0,8250000,centerline,low,medium,C,True,0,certified,-1.669694444444444,-56.44488888888888,2021
+827,SP8,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°40'24.500""","-56°27'10.100""",clay,16.0,14186377,single_stage,low,high,B,True,0,certified,-1.673472222222222,-56.45280555555556,2021
+828,SP9,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°40'29.700""","-56°27'39.300""",clay,10.0,10405408,single_stage,low,high,B,True,0,certified,-1.674916666666667,-56.46091666666667,2021
+829,SP9A,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°40'06.700""","-56°27'44.100""",clay,8.0,2166306,single_stage,low,medium,C,True,0,certified,-1.668527777777778,-56.46225,2021
+830,SR.PEDRINHO,COOPERATIVA DE MINERACAO DOS GARIMPEIROS DE PONTES E LACERDA - COMPEL,25.252.467/0001-50,"-15°08'25.310""","-59°21'23.730""",,0.0,0,unknown,,,,False,0,,-15.14036388888889,-59.35659166666667,
+831,Sul (Córrego do Canal),VALE S.A.,33.592.510/0001-54,"-19°53'02.310""","-43°23'08.448""",iron,83.0,54363140,downstream,low,high,B,True,0,certified,-19.883975,-43.38568,emergency
+832,Sul Inferior,VALE S.A.,33.592.510/0001-54,"-19°58'32.614""","-43°36'02.511""",iron,35.0,595348,single_stage,high,high,A,True,2,noncertified,-19.97572611111111,-43.6006975,2021
+833,Sul Pilha,VALE S.A.,33.592.510/0001-54,"-06°28'41.600""","-50°19'16.900""",iron,12.0,496059,single_stage,,,,False,0,,-6.478222222222223,-50.32136111111112,
+834,Sul Superior,VALE S.A.,33.592.510/0001-54,"-19°58'12.632""","-43°35'48.721""",iron,85.0,6016849,upstream,high,high,A,True,3,noncertified,-19.97017555555555,-43.59686694444445,2021
+835,SUMP DE CONTENÇÃO DE SEDIMENTOS,Empresa de Mineração Esperança Sa,33.300.971/0001-06,"-20°06'39.300""","-44°13'26.700""",iron,8.9,12000,single_stage,,,,False,0,,-20.11091666666667,-44.22408333333333,
+836,T G de Souza,T G de Souza,33.145.324/0001-77,"-15°41'35.290""","-56°21'55.730""",,0.0,0,unknown,,,,False,0,,-15.69313611111111,-56.36548055555556,
+837,TABOÃO 01,Extração de Areia Taboao Ltda,59.724.484/0001-64,"-23°23'49.600""","-46°12'18.200""",sandy_clay,12.5,350000,unknown,,,,False,0,,-23.39711111111111,-46.20505555555556,
+838,TABOÃO 02,Extração de Areia Taboao Ltda,59.724.484/0001-64,"-23°23'42.700""","-46°12'20.400""",sandy_clay,12.0,556508,unknown,,,,False,0,,-23.39519444444445,-46.20566666666667,
+839,TABOÃO 03,Extração de Areia Taboao Ltda,59.724.484/0001-64,"-23°23'38.400""","-46°12'35.100""",sandy_clay,2.0,9624,unknown,,,,False,0,,-23.394,-46.20975,
+840,Taboquinha 01 - Crente,ESTANHO DE RONDONIA S/A,00.684.808/0001-35,"-09°11'54.200""","-63°04'49.000""",tin_alluvium,18.0,2506251,single_stage,low,medium,C,True,0,certified,-9.19838888888889,-63.08027777777778,2021
+841,Taboquinha 02 - Serra Azul,ESTANHO DE RONDONIA S/A,00.684.808/0001-35,"-09°12'15.700""","-63°05'04.400""",tin_alluvium,18.0,1763201,single_stage,low,medium,C,True,0,certified,-9.20436111111111,-63.08455555555556,2021
+842,Taboquinha 03,ESTANHO DE RONDONIA S/A,00.684.808/0001-35,"-09°12'19.954""","-63°05'01.035""",tin_alluvium,15.0,1437340,single_stage,medium,medium,C,True,0,certified,-9.205542777777778,-63.08362083333333,2021
+843,Taboquinha 04,ESTANHO DE RONDONIA S/A,00.684.808/0001-35,"-09°12'39.100""","-63°05'11.000""",tin_alluvium,20.0,534295,single_stage,medium,medium,C,True,0,certified,-9.210861111111111,-63.08638888888889,2021
+844,Tadeu,João Gabriel Guizzo,523.979.989-04,"-15°56'54.500""","-56°11'22.980""",,0.0,0,unknown,,,,False,0,,-15.94847222222222,-56.18971666666666,
+845,TANQUE DE DECANTAÇÃO,Mineração do Vale Ltda,53.959.318/0001-60,"-22°11'31.500""","-47°33'05.500""",sandy_clay,7.0,704000,downstream,medium,medium,C,True,0,certified,-22.19208333333333,-47.55152777777778,2021
+846,TANQUE DE DECANTAÇÃO,Mineração Santa Luzia de Aguaí Ltda,03.716.256/0001-98,"-21°59'46.400""","-47°10'06.900""",clay,3.0,35000,single_stage,,,,False,0,,-21.99622222222222,-47.16858333333333,
+847,TANQUE DE DECANTAÇÃO,PEDREIRAS BAHIA LTDA,34.089.417/0001-94,"-12°51'24.400""","-38°24'15.900""",gness,2.0,3000,unknown,,,,False,0,,-12.85677777777778,-38.40441666666666,
+848,TANQUE DE DECANTAÇÃO,Tbk Mineração Limitada,07.707.446/0001-08,"-22°56'18.300""","-47°14'24.900""",sandy_clay,12.0,14460,unknown,,,,False,0,,-22.93841666666667,-47.24025,
+849,TANQUE DE DECANTAÇÃO 2,Mineração Santa Luzia de Aguaí Ltda,03.716.256/0001-98,"-21°59'46.200""","-47°10'04.100""",clay,3.0,40000,single_stage,,,,False,0,,-21.99616666666667,-47.16780555555555,
+850,TANQUE DE LAMA ,CONCRESAND MINERACAO LTDA,03.833.915/0001-76,"-23°11'19.000""","-48°20'59.000""",sandy_clay,7.0,30000,centerline,,,,False,0,,-23.18861111111111,-48.34972222222223,
+851,Tanque Específico IX-B,KINROSS BRASIL MINERACAO S/A,20.346.524/0001-46,"-17°10'26.920""","-46°52'44.750""",gold,15.0,1010000,single_stage,low,medium,C,True,0,certified,-17.17414444444444,-46.87909722222222,2021
+852,Tanque Específico X,KINROSS BRASIL MINERACAO S/A,20.346.524/0001-46,"-17°10'31.570""","-46°53'15.970""",gold,15.0,1188168,single_stage,low,medium,C,True,0,certified,-17.17543611111111,-46.88776944444444,2021
+853,Tanque Específico XI,KINROSS BRASIL MINERACAO S/A,20.346.524/0001-46,"-17°10'20.670""","-46°52'59.920""",gold,11.8,530359,single_stage,low,medium,C,True,0,certified,-17.17240833333333,-46.88331111111111,2021
+854,Tanque Específico XII,KINROSS BRASIL MINERACAO S/A,20.346.524/0001-46,"-17°10'56.180""","-46°53'55.680""",gold,54.0,6932061,downstream,low,high,B,True,0,certified,-17.18227222222222,-46.8988,2021
+855,Tanque Fundo,Humberto Covezzi,299.025.251-72,"-15°59'15.130""","-56°18'49.880""",gold,154.0,1267291,downstream,medium,low,D,True,0,certified,-15.98753611111111,-56.31385555555556,2021
+856,TAP D,MINA TUCANO LTDA. ,05.642.709/0001-04,"00°50'71.400""","-51°53'17.500""",gold,36.0,6280000,single_stage,low,high,B,True,0,certified,0.8531666666666667,-51.88819444444444,emergency
+857,Taquaras,Minerações Brasileiras Reunidas Sa,33.417.445/0001-20,"-20°02'21.600""","-43°55'44.900""",iron,25.0,151972,single_stage,low,high,B,True,0,certified,-20.03933333333334,-43.92913888888889,periodically
+858,TB01,VM Mineração e Construção Eireli EPP,03.121.422/0001-03,"-15°57'23.710""","-56°28'47.520""",gold,24.41,935493,downstream,low,high,B,True,0,certified,-15.95658611111111,-56.47986666666667,2021
+859,TB03,Marcelo Massaru Takahashi,616.083.191-72,"-15°58'06.360""","-56°29'57.360""",,0.0,0,unknown,,,,False,0,,-15.96843333333333,-56.49926666666667,
+860,TD2,Disk Base Extração de Areia e Comercio de Materiais Para Construção Ltda Me,62.136.189/0001-00,"-23°34'46.419""","-47°49'45.677""",sand,14.8,1800,single_stage,,,,False,0,,-23.57956083333333,-47.82935472222223,
+861,Timbopeba,VALE S.A.,33.592.510/0001-54,"-20°16'13.852""","-43°29'46.447""",iron,64.9,27024912,single_stage,low,high,B,True,0,certified,-20.27051444444444,-43.49623527777778,2021
+862,TP1,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°40'54.400""","-56°24'39.900""",clay,15.0,3480000,single_stage,low,high,B,True,0,certified,-1.681777777777778,-56.41108333333333,2021
+863,TP2,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°40'35.400""","-56°26'16.800""",clay,15.0,1214450,single_stage,low,high,B,True,0,certified,-1.6765,-56.438,2021
+864,TP3,Mineracao Rio do Norte S A,04.932.216/0001-46,"-01°41'16.000""","-56°28'21.000""",clay,22.0,2745373,downstream,low,medium,C,True,0,certified,-1.687777777777778,-56.4725,2021
+865,TQ-1,Leonardo Pittella,61.064.838/0087-03,"-19°53'29.500""","-43°17'07.900""",quartz,9.0,30000,unknown,,,,False,0,,-19.89152777777778,-43.28552777777777,
+866,TQ-1,Saint Gobain do Brasil Produtos Industriais e Para Construção Ltda.,61.064.838/0001-33,"-19°53'29.500""","-43°17'07.900""",clay,9.0,30000,downstream,,,,False,0,,-19.89152777777778,-43.28552777777777,
+867,TQ-2,Leonardo Pittella,61.064.838/0087-03,"-19°53'31.600""","-43°17'05.000""",quartz,8.0,30000,unknown,,,,False,0,,-19.89211111111111,-43.28472222222222,
+868,TQ-2,Saint Gobain do Brasil Produtos Industriais e Para Construção Ltda.,61.064.838/0001-33,"-19°53'31.600""","-43°17'05.000""",clay,8.0,30000,single_stage,,,,False,0,,-19.89211111111111,-43.28472222222222,
+869,Turmalina,Mineração Serras do Oeste Eireli,28.917.748/0001-72,"-19°44'45.800""","-44°52'27.900""",gold,18.0,700469,single_stage,low,high,B,True,0,certified,-19.74605555555556,-44.87441666666667,2021
+870,Unidade I,Niobras Mineração Ltda,07.171.562/0005-70,"-18°08'53.000""","-47°48'11.000""",Niobium,31.0,1345489,upstream,low,high,B,True,0,certified,-18.14805555555555,-47.80305555555555,2021
+871,Unidade IB,Niobras Mineração Ltda,07.171.562/0005-70,"-18°08'40.000""","-47°48'22.000""",Niobium,31.0,1587721,upstream,low,high,B,True,0,certified,-18.14444444444445,-47.80611111111111,periodically
+872,Unidade II,Niobras Mineração Ltda,07.171.562/0005-70,"-18°09'07.693""","-47°48'20.401""",Niobium,25.0,166871,downstream,low,high,B,True,0,certified,-18.15213694444444,-47.80566694444444,periodically
+873,Unidade IIB,Niobras Mineração Ltda,07.171.562/0005-70,"-18°08'30.000""","-47°48'41.000""",Niobium,20.0,3454174,downstream,low,high,B,True,0,certified,-18.14166666666667,-47.81138888888889,2021
+874,UNIDOS,Unidos Extração e Comércio de Areia e Pedra Ltda Epp,67.337.360/0001-54,"-23°37'08.900""","-47°49'12.900""",clay,8.0,86240,single_stage,,,,False,0,,-23.61913888888889,-47.82025,
+875,Usina,VALE S.A. Filial: Vale Minas MOP,33.592.510/0075-90,"-06°34'49.700""","-51°04'37.500""",Ni,8.5,494416,single_stage,,,,False,0,,-6.580472222222222,-51.07708333333333,
+876,VALE DOURADO,Marcir Norberto Weber,15.947.559/0001-09,"-14°50'36.750""","-56°33'46.670""",gold_alluvium,9.28,2,downstream,,,,False,0,,-14.84354166666667,-56.56296388888889,
+877,Vargem Grande,VALE S.A.,33.592.510/0001-54,"-20°10'54.700""","-43°52'01.200""",iron,35.0,9500000,upstream,high,high,A,True,1,noncertified,-20.18186111111111,-43.867,2021
+878,VI,VALE S.A.,33.592.510/0001-54,"-20°07'08.600""","-44°07'27.900""",iron,45.5,502671,single_stage,low,high,B,True,0,certified,-20.11905555555555,-44.12441666666667,2021
+879,VIAMAO,D & L Mineração Ltda.,09.044.878/0001-01,"-30°10'04.364""","-50°49'15.646""",sand,13.0,111000,unknown,,,,False,0,,-30.16787888888889,-50.82101277777778,
+880,VII,VALE S.A.,33.592.510/0001-54,"-20°06'15.400""","-44°07'10.800""",iron,22.5,11394,single_stage,low,medium,C,True,0,certified,-20.10427777777778,-44.11966666666667,2021
+881,VILA NOVA,Unamgen Mineração e Metalurgia S.a.,42.593.269/0001-79,"00°24'06.026""","-51°45'28.112""",iron,15.5,324964,single_stage,low,low,E,True,0,certified,0.4016738888888889,-51.75780888888889,2021
+882,Volta Grande 1,AMG BRASIL S.A.,11.224.676/0001-85,"-21°05'08.200""","-44°35'12.700""",pegmatite,40.0,150000,upstream,low,high,B,True,0,certified,-21.08561111111111,-44.58686111111111,2021
+883,Volta Grande 2,AMG BRASIL S.A.,11.224.676/0001-85,"-21°05'16.000""","-44°35'22.800""",pegmatite,32.0,1183000,upstream,low,high,B,True,0,certified,-21.08777777777778,-44.58966666666667,2021
+884,Volta Grande 3,AMG BRASIL S.A.,11.224.676/0001-85,"-21°04'21.600""","-44°35'18.540""",pegmatite,19.0,500000,single_stage,low,medium,C,True,0,certified,-21.07266666666667,-44.58848333333334,2021
+885,Xingu,VALE S.A.,33.592.510/0001-54,"-20°09'58.822""","-43°29'03.449""",iron,70.0,6170000,upstream,high,high,A,True,2,noncertified,-20.16633944444444,-43.48429138888889,2021
