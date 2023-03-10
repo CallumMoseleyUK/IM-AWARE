@@ -1,0 +1,18 @@
++=============================================================================+ 
+|                            IM AWARE DB Logfile.                             |
+|                    logging file for the database driver                     |
+|                                                                             |
+|                                 Version: 0.1                                |
+|                                                                             | 
+|                          Copyright 2021 (c) Andres                          |
++=============================================================================+
+
+===============<<HEAD PARAMS>>
+PATH = [/Users/dominiccalleja/IM-AWARE-GIS/DBdriver/doms_test_db]
+DB = [/Users/dominiccalleja/IM-AWARE-GIS/DBdriver/doms_test_db/datawarehouse.db]
+<<END PARAMS>>
+
+
+
+
+===============Instanciation Complete : 20/08/2021-18:52:46

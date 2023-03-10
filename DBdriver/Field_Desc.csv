@@ -1,0 +1,42 @@
+Table,Field,Type,Key,Description,Observations
+Flooding_Model_Description,Dam_ID,text,FALSE,Unique Dam Identifier,Key of Table ANM
+Flooding_Model_Description,Date_Time,text,FALSE,Time Stamp,Can be generated with the DBFunction current_t
+Flooding_Model_Description,Particle_Num_Dist,text,FALSE,Probability Distribution of Number of Particles,"example [interval, 20, 50] for a range"
+Flooding_Model_Description,Particle_Mass_Dist,text,FALSE,Probability Distribution of the mass of one particle,"example [0.5, 1.5] t for a range"
+Flooding_Model_Description,Particle_Radius_Dist,text,FALSE,Probability Distribution of the radus off one particle,"example [Normal, 1, 0.25] for normally distributed with mean 1, 0.25 m"
+Flooding_Model_Description,Damping_Dist,text,FALSE,Probability Distribution of Damping,"example [logNormal, 0,1] this would describe the standard lognormal. Also, does it means the ratio to critical damping?"
+Flooding_Model_Description,Volume_Factor_Dist,text,FALSE,Probability Distribution of the ratio between collapse tailings and stored tailings,"example [uniform 0.35, 0.65]"
+Flooding_Model_Description,Latitude_Offset_Dist,text,FALSE,Latitutde offset between dam and ball drop site,"example [exp, 1.5] exponential distribution with 1.5 parameter"
+Flooding_Model_Description,Longitude_Offset_Dist,text,FALSE,Longtitude offset between dam and ball drop site,"example [exp, 1.5] exponential distribution with 1.5 parameter"
+Flooding_Model_Description,Tailings_Density_Dist,text,FALSE,Probability Distribution of the ratio between collapse tailings and stored tailings,"example [Disc, 1.8] Unitary weight is one of the least variable parameters in Geo Engineering. So, here is shown as a discrete value"
+Flooding_Model_Description,Max_Simulated_Time,real,FALSE,Maximum Time Considered in the Simulation (in seconds?),
+Flooding_Model_Description,Owner,text,FALSE,Who did the Simulation?,
+Flooding_Model_Description,Comments,text,FALSE,Aditional Information less than 150 characters…,
+Flooding_Model_Description,Code_Version,text,FALSE,Version of the code that made the simulation,
+Flooding_Model_Description,Number_of_Children,integer,FALSE,Number of simulations based on the case being considered,
+Flooding_Model_Description,ID,text,TRUE,Unique identifier of the simulation,"The simplest option would be Dam_id + Date_Time, but that wouldn't be really informative"
+Analysis_Results,Particle_Number,integer,FALSE,Number of particles ,
+Analysis_Results,Particle_Mass,real,FALSE,Mass of each particle,
+Analysis_Results,Particle_Radius,real,FALSE,Particle Radius,
+Analysis_Results,Damping,real,FALSE,Damping coefficient or Damping coefficient to the critical?,
+Analysis_Results,Volume_Factor,real,FALSE,Ratio between fallen tailings and total stored,
+Analysis_Results,Latitude_Offset,real,FALSE,Distance between drop site and the dam site in latitude,Distance is in decimal latitude
+Analysis_Results,Longitude_Offset,real,FALSE,Distance between drop site and the dam site in longitude,Distance is in decimal longitude
+Analysis_Results,Tailings_Density,real,FALSE,Mass per unitary volume (t-Mg/m3) or kg/cm3,
+Analysis_Results,Max_Distance,real,FALSE,Maximum distace traveled by any particle or decile of particles,
+Analysis_Results,Max_Velocity,real,FALSE,Maximum Velocity by any particle or decile of particles,
+Analysis_Results,Total_Energy,real,FALSE,Energy of all particles,
+Analysis_Results,Flooding_Area,real,FALSE,Area covered by any particle or a decile of particles,
+Analysis_Results,Analysis_ID,text,FALSE,Code of the Flooding Model associated with the results,It is the ID Field  of Flooding_Model_Description
+Analysis_Results,Evaluation_Time,real,FALSE,Time required to execute the simulation,
+Analysis_Results,Type_of_Analysis,text,FALSE,Are the results the outcome of a deterministic of a probabilisitic analysis?,
+Analysis_Results,Parent_ID,text,FALSE,Identity of the originating flooding Model ,
+Analysis_Results,Tree_Level,integer,FALSE,"is the analysis a chid (1), a first derivative (2) or a grandparent (3)",
+Analysis_Results,Repeat,integer,FALSE,how many times the analysis has been executed,
+Analysis_Results,File_Address,text,FALSE,Where the analysis results are stored in the cluster,the file folder is the table name while the file name should correspond to the unique ID
+Analysis_Results,Output_Summary,text,FALSE,"Notes, less than 150 characters",
+Analysis_Results,ID,text,TRUE,This requires carefull thinking. ,
+INSAR,Dam_ID,text,FALSE,desc  goes here,
+INSAR,Scene,text,FALSE,desc,
+INSAR,Variable,text,FALSE,desc,
+INSAR,Path,text,TRUE,desc,

@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_0c50636f0b31403b87e25c8840dc4f1b {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+    
+                <style>
+                    .leaflet-image-layer {
+                        /* old android/safari*/
+                        image-rendering: -webkit-optimize-contrast;
+                        image-rendering: crisp-edges; /* safari */
+                        image-rendering: pixelated; /* chrome */
+                        image-rendering: -moz-crisp-edges; /* firefox */
+                        image-rendering: -o-crisp-edges; /* opera */
+                        -ms-interpolation-mode: nearest-neighbor; /* ie */
+                    }
+                </style>
+            
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_0c50636f0b31403b87e25c8840dc4f1b" ></div>
+        
+</body>
+<script>    
+    
+            var map_0c50636f0b31403b87e25c8840dc4f1b = L.map(
+                "map_0c50636f0b31403b87e25c8840dc4f1b",
+                {
+                    center: [-20.42355833333334, -43.75310277777778],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+            L.control.scale().addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+
+            
+
+        
+    
+            var tile_layer_9a60a972b34540c39f651da463bffb09 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+            var marker_a5bbfe6b4aeb4c2495735384cbe4eda3 = L.marker(
+                [-20.42355833333334, -43.75310277777778],
+                {}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+        var popup_a928d2d3fb7844598858f6d9a8443725 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f029fb3720e64a54a26fef614c3e28a4 = $(`<div id="html_f029fb3720e64a54a26fef614c3e28a4" style="width: 100.0%; height: 100.0%;">Alemães - (GERDAU ACOMINAS S/A)</div>`)[0];
+            popup_a928d2d3fb7844598858f6d9a8443725.setContent(html_f029fb3720e64a54a26fef614c3e28a4);
+        
+
+        marker_a5bbfe6b4aeb4c2495735384cbe4eda3.bindPopup(popup_a928d2d3fb7844598858f6d9a8443725)
+        ;
+
+        
+    
+    
+            var marker_6df8c9a297f34c00b4fe6378e134cf82 = L.marker(
+                [-20.04761111111111, -43.95436111111111],
+                {}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+        var popup_b050c34a2a88452f8cc6747e6ca1213c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_570b0b7b921b4c6591ec72ae5cc67a9f = $(`<div id="html_570b0b7b921b4c6591ec72ae5cc67a9f" style="width: 100.0%; height: 100.0%;">B3/B4 - (Minerações Brasileiras Reunidas Sa)</div>`)[0];
+            popup_b050c34a2a88452f8cc6747e6ca1213c.setContent(html_570b0b7b921b4c6591ec72ae5cc67a9f);
+        
+
+        marker_6df8c9a297f34c00b4fe6378e134cf82.bindPopup(popup_b050c34a2a88452f8cc6747e6ca1213c)
+        ;
+
+        
+    
+    
+            var marker_0788da8c224b47548277bd24def278bb = L.marker(
+                [-20.25048333333333, -43.93249166666666],
+                {}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+        var popup_ec1d47b8db3948e7bf25c5854f8746e2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_57010c12bdb14297974f7a69c312b510 = $(`<div id="html_57010c12bdb14297974f7a69c312b510" style="width: 100.0%; height: 100.0%;">Barragem B1 - (HERCULANO MINERACAO LTDA)</div>`)[0];
+            popup_ec1d47b8db3948e7bf25c5854f8746e2.setContent(html_57010c12bdb14297974f7a69c312b510);
+        
+
+        marker_0788da8c224b47548277bd24def278bb.bindPopup(popup_ec1d47b8db3948e7bf25c5854f8746e2)
+        ;
+
+        
+    
+    
+            var marker_aaa86daa6e2b4ea8b85b69eeb1e7a011 = L.marker(
+                [-20.06480555555556, -44.02922222222222],
+                {}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+        var popup_4966aac867c545e98026bda87b2d01c3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_790ab9fea9d741d0b7be08f4cecb22b7 = $(`<div id="html_790ab9fea9d741d0b7be08f4cecb22b7" style="width: 100.0%; height: 100.0%;">Barragem B1 - (MINERACAO GERAL DO BRASIL S/A)</div>`)[0];
+            popup_4966aac867c545e98026bda87b2d01c3.setContent(html_790ab9fea9d741d0b7be08f4cecb22b7);
+        
+
+        marker_aaa86daa6e2b4ea8b85b69eeb1e7a011.bindPopup(popup_4966aac867c545e98026bda87b2d01c3)
+        ;
+
+        
+    
+    
+            var marker_f12c1dc77a374b789b390ecfd0a9df6f = L.marker(
+                [-20.10352777777778, -44.28819444444444],
+                {}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+        var popup_bcb9c04c6e924f4c8634fe553cc71a8e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_859056dbfe774e55bf77bd6659f0f497 = $(`<div id="html_859056dbfe774e55bf77bd6659f0f497" style="width: 100.0%; height: 100.0%;">Barragem B1-Auxiliar - Mina Tico-Tico - (MINERACAO MORRO DO IPE S.A.)</div>`)[0];
+            popup_bcb9c04c6e924f4c8634fe553cc71a8e.setContent(html_859056dbfe774e55bf77bd6659f0f497);
+        
+
+        marker_f12c1dc77a374b789b390ecfd0a9df6f.bindPopup(popup_bcb9c04c6e924f4c8634fe553cc71a8e)
+        ;
+
+        
+    
+    
+            var marker_61c88ccdc4ec44a6a2ddc1f95a1e6585 = L.marker(
+                [-20.11043055555556, -44.28667222222222],
+                {}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+        var popup_8f88f703db7546bda4abd05b3cbc3a59 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c0f3aae466bb48a9b47e36655126ef25 = $(`<div id="html_c0f3aae466bb48a9b47e36655126ef25" style="width: 100.0%; height: 100.0%;">Barragem B2 - Mina Tico-Tico - (MINERACAO MORRO DO IPE S.A.)</div>`)[0];
+            popup_8f88f703db7546bda4abd05b3cbc3a59.setContent(html_c0f3aae466bb48a9b47e36655126ef25);
+        
+
+        marker_61c88ccdc4ec44a6a2ddc1f95a1e6585.bindPopup(popup_8f88f703db7546bda4abd05b3cbc3a59)
+        ;
+
+        
+    
+    
+            var marker_e3f53d8980cd4569a169474744ff01bc = L.marker(
+                [-20.48583333333334, -43.88583333333333],
+                {}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+        var popup_ac0c7a1a68c3418dadd42febe811573d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_263f43615a414721bcf166a07e4359d8 = $(`<div id="html_263f43615a414721bcf166a07e4359d8" style="width: 100.0%; height: 100.0%;">BARRAGEM B4 - (Csn Mineração S.a.)</div>`)[0];
+            popup_ac0c7a1a68c3418dadd42febe811573d.setContent(html_263f43615a414721bcf166a07e4359d8);
+        
+
+        marker_e3f53d8980cd4569a169474744ff01bc.bindPopup(popup_ac0c7a1a68c3418dadd42febe811573d)
+        ;
+
+        
+    
+    
+            var marker_96e267097cff446da6a68332090702ff = L.marker(
+                [-20.14758333333333, -44.40616666666666],
+                {}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+        var popup_cff787860b914c0d8cac45bb5c6cfcb1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_bcf932ecc88a4bbfbf785bef15d43040 = $(`<div id="html_bcf932ecc88a4bbfbf785bef15d43040" style="width: 100.0%; height: 100.0%;">Barragem Central - (MINERACAO USIMINAS S.A.)</div>`)[0];
+            popup_cff787860b914c0d8cac45bb5c6cfcb1.setContent(html_bcf932ecc88a4bbfbf785bef15d43040);
+        
+
+        marker_96e267097cff446da6a68332090702ff.bindPopup(popup_cff787860b914c0d8cac45bb5c6cfcb1)
+        ;
+
+        
+    
+    
+            var marker_664931705a2b4452a5c1cd803d0312f8 = L.marker(
+                [-20.13758333333333, -44.39616666666667],
+                {}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+        var popup_459034f7263a4d75b84e131d1cb7e204 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b122a48cacbd4d5aa2f5624a402272d2 = $(`<div id="html_b122a48cacbd4d5aa2f5624a402272d2" style="width: 100.0%; height: 100.0%;">Barragem de Rejeitos - (ARCELORMITTAL BRASIL S.A.)</div>`)[0];
+            popup_459034f7263a4d75b84e131d1cb7e204.setContent(html_b122a48cacbd4d5aa2f5624a402272d2);
+        
+
+        marker_664931705a2b4452a5c1cd803d0312f8.bindPopup(popup_459034f7263a4d75b84e131d1cb7e204)
+        ;
+
+        
+    
+    
+            var marker_9f7be27a6f1a4a38bb543cf9ee2f1b6c = L.marker(
+                [-20.17606805555556, -43.48731666666666],
+                {}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+        var popup_8fd0c921e44849108a66364b6a99d188 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3935bf5dfb2c46d69f1b6ca279b4a86a = $(`<div id="html_3935bf5dfb2c46d69f1b6ca279b4a86a" style="width: 100.0%; height: 100.0%;">Campo Grande - (VALE S.A.)</div>`)[0];
+            popup_8fd0c921e44849108a66364b6a99d188.setContent(html_3935bf5dfb2c46d69f1b6ca279b4a86a);
+        
+
+        marker_9f7be27a6f1a4a38bb543cf9ee2f1b6c.bindPopup(popup_8fd0c921e44849108a66364b6a99d188)
+        ;
+
+        
+    
+    
+            var marker_eeeac5767f4f48fa9fc1911226c7e3b5 = L.marker(
+                [-20.29044861111111, -43.49052777777778],
+                {}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+        var popup_88b58501820d468ba70247125f669c98 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_cf6d174c5c0444f5aec4a2dcc51ee618 = $(`<div id="html_cf6d174c5c0444f5aec4a2dcc51ee618" style="width: 100.0%; height: 100.0%;">Doutor - (VALE S.A.)</div>`)[0];
+            popup_88b58501820d468ba70247125f669c98.setContent(html_cf6d174c5c0444f5aec4a2dcc51ee618);
+        
+
+        marker_eeeac5767f4f48fa9fc1911226c7e3b5.bindPopup(popup_88b58501820d468ba70247125f669c98)
+        ;
+
+        
+    
+    
+            var marker_2591e96f5da342be92ae30e61ca1cfcd = L.marker(
+                [-20.40605555555555, -43.85572222222223],
+                {}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+        var popup_0c5e3285f8b64c638ee7e16482facd18 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_18a31d31f6704621bea2a337eb37c468 = $(`<div id="html_18a31d31f6704621bea2a337eb37c468" style="width: 100.0%; height: 100.0%;">Forquilha I - (VALE S.A.)</div>`)[0];
+            popup_0c5e3285f8b64c638ee7e16482facd18.setContent(html_18a31d31f6704621bea2a337eb37c468);
+        
+
+        marker_2591e96f5da342be92ae30e61ca1cfcd.bindPopup(popup_0c5e3285f8b64c638ee7e16482facd18)
+        ;
+
+        
+    
+    
+            var marker_2b20417e34cb4349949bce992abdcc2a = L.marker(
+                [-20.40827777777778, -43.85180555555556],
+                {}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+        var popup_4ada7a34f06b444781f83ab24d949f12 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f635e121bb354da5beda030b71440b39 = $(`<div id="html_f635e121bb354da5beda030b71440b39" style="width: 100.0%; height: 100.0%;">Forquilha II - (VALE S.A.)</div>`)[0];
+            popup_4ada7a34f06b444781f83ab24d949f12.setContent(html_f635e121bb354da5beda030b71440b39);
+        
+
+        marker_2b20417e34cb4349949bce992abdcc2a.bindPopup(popup_4ada7a34f06b444781f83ab24d949f12)
+        ;
+
+        
+    
+    
+            var marker_f8551c3be5a44f13aedb691929df75b4 = L.marker(
+                [-20.41091666666667, -43.83661111111111],
+                {}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+        var popup_b66111bae1a548e5a0d9fbfa97e285a4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_828a8c58fd914483bc5d4881be419cad = $(`<div id="html_828a8c58fd914483bc5d4881be419cad" style="width: 100.0%; height: 100.0%;">Forquilha III - (VALE S.A.)</div>`)[0];
+            popup_b66111bae1a548e5a0d9fbfa97e285a4.setContent(html_828a8c58fd914483bc5d4881be419cad);
+        
+
+        marker_f8551c3be5a44f13aedb691929df75b4.bindPopup(popup_b66111bae1a548e5a0d9fbfa97e285a4)
+        ;
+
+        
+    
+    
+            var marker_a069eb3261d141c387d558a536612392 = L.marker(
+                [-20.41477777777778, -43.86513888888889],
+                {}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+        var popup_b6520ddfe6244dda9db6c4623dda11a1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a1dd4777c23b441b9efe44ca9e63e679 = $(`<div id="html_a1dd4777c23b441b9efe44ca9e63e679" style="width: 100.0%; height: 100.0%;">Grupo - (VALE S.A.)</div>`)[0];
+            popup_b6520ddfe6244dda9db6c4623dda11a1.setContent(html_a1dd4777c23b441b9efe44ca9e63e679);
+        
+
+        marker_a069eb3261d141c387d558a536612392.bindPopup(popup_b6520ddfe6244dda9db6c4623dda11a1)
+        ;
+
+        
+    
+    
+            var marker_327f73bb7ebb48f6bd9e0af8e42b993e = L.marker(
+                [-19.82004722222222, -43.70888611111111],
+                {}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+        var popup_634a55d95de04737be8d52e89ef8ac4d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c68558002ae94881a39cf50cb04c0d17 = $(`<div id="html_c68558002ae94881a39cf50cb04c0d17" style="width: 100.0%; height: 100.0%;">Pilha 01 - (AVG EMPREENDIMENTOS MINERARIOS S.A.)</div>`)[0];
+            popup_634a55d95de04737be8d52e89ef8ac4d.setContent(html_c68558002ae94881a39cf50cb04c0d17);
+        
+
+        marker_327f73bb7ebb48f6bd9e0af8e42b993e.bindPopup(popup_634a55d95de04737be8d52e89ef8ac4d)
+        ;
+
+        
+    
+    
+            var marker_51fc38ed33324284b4a0b8f5c26d5932 = L.marker(
+                [-19.97017555555555, -43.59686694444445],
+                {}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+        var popup_2c5d198964ec4bd6aa61cb036a768765 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f3af8e4fdff344178465dd9a9002a34f = $(`<div id="html_f3af8e4fdff344178465dd9a9002a34f" style="width: 100.0%; height: 100.0%;">Sul Superior - (VALE S.A.)</div>`)[0];
+            popup_2c5d198964ec4bd6aa61cb036a768765.setContent(html_f3af8e4fdff344178465dd9a9002a34f);
+        
+
+        marker_51fc38ed33324284b4a0b8f5c26d5932.bindPopup(popup_2c5d198964ec4bd6aa61cb036a768765)
+        ;
+
+        
+    
+    
+            var marker_04df7bf554b340e0ad79b434d1ec2231 = L.marker(
+                [-20.16633944444444, -43.48429138888889],
+                {}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+        var popup_031b0e339d8246d28a06fb5a484bb552 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_af5b428eeb894ad0b6a7d42929a398e1 = $(`<div id="html_af5b428eeb894ad0b6a7d42929a398e1" style="width: 100.0%; height: 100.0%;">Xingu - (VALE S.A.)</div>`)[0];
+            popup_031b0e339d8246d28a06fb5a484bb552.setContent(html_af5b428eeb894ad0b6a7d42929a398e1);
+        
+
+        marker_04df7bf554b340e0ad79b434d1ec2231.bindPopup(popup_031b0e339d8246d28a06fb5a484bb552)
+        ;
+
+        
+    
+    
+            var tile_layer_0ad47bcff64745ebba335c2944ab55f2 = L.tileLayer(
+                "https://mt1.google.com/vt/lyrs=m\u0026x={x}\u0026y={y}\u0026z={z}",
+                {"attribution": "Google", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+            var tile_layer_26906c04546c4370b3b20c32f6cfe26d = L.tileLayer(
+                "https://mt1.google.com/vt/lyrs=y\u0026x={x}\u0026y={y}\u0026z={z}",
+                {"attribution": "Google", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+            var polygon_4378a05d02b34efa8b1ba28eeea1ddc0 = L.polygon(
+                [[-20.47355833333334, -43.803102777777774], [-20.47355833333334, -43.70310277777778], [-20.37355833333334, -43.70310277777778], [-20.37355833333334, -43.803102777777774]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 10}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+    
+            var image_overlay_7e0f75476afb4d589216bbac47404e03 = L.imageOverlay(
+                "data:image/png;base64,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",
+                [[-20.425223, -43.7546751], [-20.4121674444444, -43.73523065555574]],
+                {}
+            ).addTo(map_0c50636f0b31403b87e25c8840dc4f1b);
+        
+</script>

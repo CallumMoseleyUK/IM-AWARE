@@ -1,0 +1,209 @@
+<html>
+<head> 
+    <title>IM AWARE</title>
+	<link rel="stylesheet" href="http://s823534414.websitehome.co.uk/css/bootstrap.css" type="text/css" />
+	<link rel="stylesheet" href="http://s823534414.websitehome.co.uk/style.css" type="text/css" />
+	<link rel="stylesheet" href="http://s823534414.websitehome.co.uk/css/responsive.css" type="text/css" />
+    <link rel="stylesheet" href="http://s823534414.websitehome.co.uk/css/components/bs-filestyle.css" type="text/css" />
+	<link rel="stylesheet" href="http://s823534414.websitehome.co.uk/css/construction.css" type="text/css" />
+	<link rel="stylesheet" href="http://s823534414.websitehome.co.uk/css/fonts.css" type="text/css" />
+	<link rel="stylesheet" href="http://s823534414.websitehome.co.uk/css/dark.css" type="text/css" />
+	<link rel="stylesheet" href="http://s823534414.websitehome.co.uk/css/font-icons.css" type="text/css" />
+	<link rel="stylesheet" href="http://s823534414.websitehome.co.uk/css/font-icons2.css" type="text/css" />
+	<link rel="stylesheet" href="http://s823534414.websitehome.co.uk/css/colors.css" type="text/css" />
+</head>
+<body>
+
+	<div id="page-menu">
+
+			<div id="page-menu-wrap">
+
+				<div class="container clearfix">
+
+					<div class="menu-title">Informed Mining: <span>Risk reduction through enhanced awareness</span></div>
+
+					<nav>
+						<ul>
+							<li><a href="{{ url_for('onClick_index') }}"><div>Home</div></a></li>
+							<li class="current"><a href="{{ url_for('main') }}"><div>IM AWARE App</div></a></li>
+							<li><a href="{{ url_for('onClick_about') }}"><div>About</div></a></li>
+						</ul>
+					</nav>
+
+					<div id="page-submenu-trigger"><i class="icon-reorder"></i></div>
+
+				</div>
+c
+			</div>
+
+		</div><!-- #page-menu end -->
+	
+	<div class="clear"></div>
+	
+	<div style="height:1; background-color:#ffffff"></div>
+	
+	<div style="height:40"></div>
+	
+	<div class="content leftmargin rightmargin clearfix">
+    <div class="col_half">
+	<img src="{{ url_for('static', filename = 'logo.png') }}">
+	</div>
+	<div class="col_half col_last">
+	<h1 style="text-align: right"> Dam analysis </h1>
+	</div>
+    <div class="col_one_fourth">
+		<div class="tabs tabs-bordered clearfix" id="tab-2">
+
+			<ul class="tab-nav clearfix">
+				<li><a href="#tabs-36">Results</a></li>
+				<li><a href="#tabs-37">Input parameters</a></li>
+			</ul>
+
+			<div class="tab-container">
+				<label> Analysis type </label>
+				<div class="clear"></div>
+				<div class="col_one_third nobottommargin"><form id = "Input" method = "POST" enctype="multipart/form-data" action={{ url_for("onClick_select_dambreak") }}>
+									<input type="submit" value="Dam break" />
+								</form></div>
+								<div class="col_two_third col_last nobottommargin">
+								<form id = "Input" method = "POST" enctype="multipart/form-data" action={{ url_for("onClick_select_insar") }}>
+									<input type="submit" value="INSAR" />
+								</form></div>
+				<div class="tab-content clearfix" id="tabs-36">
+					<!--<img  src = "{{ url_for('static',filename = 'record_table.png') }}">-->
+					<label class="topmargin-sm">Parameter distribution:</label>
+					{% for L in tableHtml.split('\n') %}
+					{{ L|safe }}
+					{% endfor %}
+					<label class="topmargin-sm">Model parameters</label>
+					{% for L in tableHtml2.split('\n') %}
+					{{ L|safe }}
+					{% endfor %}
+				</div>
+				<div class="tab-content clearfix" id="tabs-37">
+					<form id = "Input" method = "POST" enctype="multipart/form-data" action={{ url_for("onClick_dam") }}>
+						<label> Dam List: </label>
+						<select input type="Text" name = "damList" id = "TheDams" class="form-control">
+							{% for x in dams %}
+							<option value = {{x}} > {{x}}  </option>
+							{% endfor %}
+						</select>
+						<br>
+						<br>
+						<a href="#"><button class='btn btn-default'>Select dam</button></a>
+					</form>
+					<form id = "setSelectForm" method = "POST" enctype="multipart/form-data" action={{ url_for("onClick_analysis") }}>
+						<label> Analysis List: </label>
+						<select input type="Text" name = "simList" id = "TheSims" class="form-control">
+							{% for x in sims %}
+							<option value = {{x}} > {{x}}  </option>
+							{% endfor %}
+						</select>
+						<br>
+						<a href="#"><button class='btn btn-default'>Select Analysis</button></a>
+					</form>
+					<form id = "simSelectForm" method = "Post" enctype="multipart/form-data" action={{ url_for("onClick_sim") }}>
+						<label class="topmargin-sm">Sim List:</label>
+						<select input type="Text" name = "outputList" id = "TheOutputs" form="simSelectForm" class="form-control">
+							{% for x in outputList %}
+							<option value = {{x}} > {{x}}  </option>
+							{% endfor %}
+						</select>
+						<br>
+						<a href="#"><button class='btn btn-default'>Select sim</button></a>
+					</form>
+				</div>
+
+			</div>
+
+		</div>
+	</div>
+		
+		
+		<div class="col_three_fourth col_last">
+			<iframe width="100%" height="512" src="{{ url_for('static',filename = 'generated_map.html') }}" frameborder="0"></iframe>
+		</div>
+		
+		<div class="clear"></div>
+		
+
+		<div style="width: 48%; float:left; height:auto; margin:10px">
+            <form id = "col1form" name = "col1form" method = "POST" enctype="multipart/form-data" action={{ url_for("onClick_column1") }}>
+                <div class="slider light" style="background-color:#dddddd; width:auto; height:auto;">
+                    <!--<h3 style="margin-left:10px; margin-top: 10px">Column 1</h3>-->
+                    <select input type = "Text" name = "dropdown_col1" id = "col1form" form = "col1form" class="form-control">
+						{% for x in columnList %}
+						<option value = {{x}} > {{x}}  </option>
+						{% endfor %}
+                    </select>
+                    <!--<input type="submit" value="Submit" form="col1form"/>-->
+					<a href="#"><button class='btn btn-default'>Submit</button></a>
+                    <img  src = "{{ url_for('static',filename = 'col1.png') }}" style="height:auto;">
+                        
+                </div>
+            </form>
+		</div>
+		<div style="width: 48%; float:left; height:auto; margin:10px">
+            <form id = "col2form" name = "col2form" method = "POST" enctype="multipart/form-data" action={{ url_for("onClick_column2") }}>
+                <div class="slider light" style="background-color:#dddddd; width:auto; height:auto;">
+                    <!--<h3 style="margin-left:10px; margin-top: 10px">Column 1</h3>-->
+                    <select input type = "Text" name = "dropdown_col2" id = "col2form" form = "col2form" class="form-control">
+						{% for x in columnList %}
+						<option value = {{x}} > {{x}}  </option>
+						{% endfor %}
+                    </select>
+                    <!--<input type="submit" value="Submit" form="col2form" />-->
+					<a href="#"><button class='btn btn-default'>Submit</button></a>
+                    <img  src = "{{ url_for('static',filename = 'col2.png') }}" style="height:auto;">
+                        
+                </div>
+            </form>
+		</div>
+	</div>
+	
+	<!-- Footer
+		============================================= -->
+		<footer id="footer" class="dark">
+
+			<!-- Copyrights
+			============================================= -->
+			<div id="copyrights">
+
+				<div class="container clearfix">
+
+					<div class="col_half">
+						<img src="{{ url_for( 'static', filename='footerlogo.fw.png') }}" alt="Footer Logo" class="footer-logo">
+
+						Copyrights &copy; 2021 Institute for Risk and Uncertainty
+					</div>
+
+					<div class="col_half col_last tright">
+						<div class="copyrights-menu copyright-links fright clearfix">
+							<a href="#">Home</a>/<a href="#">Dam Break Model</a>/<a href="#">Andres Model</a>/<a href="#">About</a>
+						</div>
+						<div class="clear"></div>
+						<div class="fright clearfix">
+							<a href="#" class="social-icon si-small si-borderless nobottommargin si-twitter">
+								<i class="icon-enter"></i>
+								<i class="icon-enter"></i>
+							</a>
+							<a href="#" style="color:#666666; font-size:17px">Return to the Risk Institute website</a>
+						</div>
+					</div>
+
+				</div>
+
+			</div><!-- #copyrights end -->
+
+		</footer><!-- #footer end -->
+		
+		<!-- External JavaScripts
+	============================================= -->
+	<script type="text/javascript" src="http://s823534414.websitehome.co.uk/js/jquery.js"></script>
+	<script type="text/javascript" src="http://s823534414.websitehome.co.uk/js/plugins.js"></script>
+
+	<!-- Footer Scripts
+	============================================= -->
+	<script type="text/javascript" src="http://s823534414.websitehome.co.uk/js/functions.js"></script>
+</body>
+</html>

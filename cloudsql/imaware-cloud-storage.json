@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "imaware-334414",
+  "private_key_id": "b47826113375787438e17c5bfdee520d80bac9cc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDM2XTwRWLw6B9r\nLyi0q6UkIVd7xLZx7rxhO5mKcmXwUT+FFK5Yurz0Aqd4Pz7em6wObz59DNkpjBze\n7eWhbGb1QA1PxwZm08684RMiyE8lVUG/GNg027u93iGip8rnZ4rdZGV0EjgGf04U\n4PVuGu4/STcXIDOsQ9IZS+vssbqG18ol89WrhW21QP1BaYpDiTu1KNTdgCr4ggti\n9fuqs2Til4VKSriMCmkljRL1BdIcIfM2eFaKkYhA+CEdcYwKHrw4Z9GBNkxWQmCZ\nQ7ndce1xBXFHfC2ks4x3DDBcRjghtOMzelh6hRG9rKuPKakn/VnqVYrxeoVc/vsG\nYQUhsSzZAgMBAAECggEAAXZbpDCONu9TzeP3ni5bzSmzq1mLEaSX9Ov4X0jy3KDc\nhRAtijVUlxDoN8L1nsKUtwt/Xv4CS+POebjDOEwOt4hDQ8w0NqdJnA1aCkLIjjB+\n9aoc9s48IA5RTIjc/aL8WJ2Zd7UPwSRRwkRQWL6c695iW4kQNJG8I+FfcRscMb5e\nhnADPdGspuW907c+wyun1LLPUGuBW46KQtYcUnQpcsv0FmH4LF920LaOm3FKAb4H\nPhx1bJlRaySS1+FGcD8OCV+IB8KfEBu1nwgQVirfZKt0rVTvTCSn4GKc6nYYvy9M\nCF1zsWhE++pBkPY4lhQuQb5pVmH3ou1j9cCDX6HtAQKBgQDtI9VJ3tOrwlXJta2m\noS5tZyLL480VOBFjHXvRMTVU4BHTCg4rLlOm6HdvIKhV7tOA3OSZw3yCYPxb7hVD\nKykN5KZnxTau9+ryFvVjh8ud+NqWpsMfiIj4yIysEEFUzBa+LzIDsXQDUdUs3GhI\n9AjmmtXObq7UqyvrbCqPLIkX2QKBgQDdJDBVDcK7YAvjKeSHv0qah2blJluwBr8f\nzO18ppAF4c7jN/mG3Pv9YUFngsMsGKPJBHldudlNCBCuPfALUXIFlthl1xfBju3g\nJdj7TjK96AhWQmYAo2mgKHSCLCNhaK6E2eIqbXWnTCH6awZ1xrB0rvE9Ok23PIz6\nGg+dQMidAQKBgG7NlXVktobE0Qzk5PS8z1KzJCEcmdDWV9l2B0qhsYetAucXBbPL\ne667ZEL6gW1VoGHP1Mi7/Mt2wbO6tRijbBVfxxkpnvl2QcNIUvRkmRGBG7HUzctI\nIqgMHR6wobYbfmzy5G2xVsHOVMsXWWrtC9OkeU5xjSM1r9naurAXYR9RAoGBALEw\n7gk4nW/F5cB/ML4UaJKpK6kwswa4YSv559CZJY2RAVTO5QFK0B6WbvGhtQEAPTw0\neYq//33ZmIQE3PI0sEgKNhpj3oUZIUEZEmNKpR3FbeiwC0s3pMrPn4suEqtaVXvd\nmXqlekAyoIcmemakbX8RLfsBXIQV4GAFwb0ey6ABAoGAOS3zImyDl6X0d3I97Ung\n00y5VmygnCn42pme2zxwlRlw2l8LXtJFcjkEKwdlyn1MaJjsjA9W+jKYMooNk/s0\n7Nk7VBRyhoRE//JJ5/PFHyKLl6M2u320+TXipwiqbCMrtWn8OnC37iF32fn09cl3\nEI5Bqm8VP6SxVpqPUr5nTsM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "imaware-cloud-storage@imaware-334414.iam.gserviceaccount.com",
+  "client_id": "102956608911120000135",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/imaware-cloud-storage%40imaware-334414.iam.gserviceaccount.com"
+}
