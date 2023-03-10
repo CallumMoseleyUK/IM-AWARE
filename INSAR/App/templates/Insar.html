@@ -1,0 +1,10 @@
+<h1> Insar Analysis </h1>
+<h3> Select a Dam  </h3>
+<form id = 'DamList' name = 'DamList' method = "Post">
+<select id = 'Dam' name = 'Dam'>
+    {% for x in Dams %}
+    <option value = '{{x}}' > {{x}} </option>
+    {% endfor %}
+</select>
+<input type = 'submit' value = 'submit'>
+</form>
